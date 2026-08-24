@@ -1,0 +1,30 @@
+{
+  "name": "kalasin-jobs",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Kalasin Job Skills Explorer — ทักษะที่ตลาดแรงงานจังหวัดกาฬสินธุ์ต้องการ จากประกาศงานจริงสามแหล่ง",
+  "scripts": {
+    "scrape:jobthai": "node scripts/scrape-jobthai.mjs",
+    "scrape:jobtopgun": "node scripts/scrape-jobtopgun.mjs",
+    "scrape:jobbkk": "node scripts/scrape-jobbkk.mjs",
+    "scrape:all": "npm run scrape:jobthai && npm run scrape:jobtopgun && npm run scrape:jobbkk",
+    "build:data": "node scripts/build-site-data.mjs",
+    "prebuild": "npm run build:data",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true
+  }
+}

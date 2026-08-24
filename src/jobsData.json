@@ -1,0 +1,3595 @@
+{
+  "meta": {
+    "capturedAt": "2026-08-24",
+    "builtAt": "2026-08-24",
+    "collected": 182,
+    "confirmedKalasin": 48,
+    "withDescription": 19,
+    "companies": 38,
+    "withSalary": 48,
+    "skillMethod": "จับคู่คำสำคัญด้วยทะเบียนทักษะภาษาไทย (ไม่ได้ใช้โมเดลภาษา)",
+    "sources": [
+      {
+        "source": "JobThai",
+        "sourceUrl": "https://www.jobthai.com/th/jobs?province=04&page=",
+        "capturedAt": "2026-08-24",
+        "reportedTotal": 29,
+        "collected": 29,
+        "pages": 2,
+        "descriptionsAvailable": false,
+        "note": "หน้ารายละเอียดของ JobThai เรนเดอร์ฝั่งไคลเอนต์และซ่อนเนื้องานไว้หลังปุ่ม จึงเก็บได้เฉพาะข้อมูลจากหน้ารายการ"
+      },
+      {
+        "source": "JOBTOPGUN",
+        "sourceUrl": "https://www.jobtopgun.com/th/jobs/in-kalasin",
+        "capturedAt": "2026-08-24",
+        "collected": 120,
+        "withDescription": 120,
+        "inKalasin": 3,
+        "categories": [
+          {
+            "slug": "ทั้งหมด",
+            "found": 30,
+            "isFallback": false
+          },
+          {
+            "slug": "it-technology",
+            "found": 15,
+            "isFallback": false
+          },
+          {
+            "slug": "sales",
+            "found": 30,
+            "isFallback": false
+          },
+          {
+            "slug": "accounting",
+            "found": 13,
+            "isFallback": false
+          },
+          {
+            "slug": "marketing",
+            "found": 11,
+            "isFallback": false
+          },
+          {
+            "slug": "engineering",
+            "found": 21,
+            "isFallback": false
+          },
+          {
+            "slug": "hr",
+            "found": 30,
+            "isFallback": true
+          },
+          {
+            "slug": "human-resources",
+            "found": 6,
+            "isFallback": false
+          },
+          {
+            "slug": "logistics",
+            "found": 6,
+            "isFallback": false
+          },
+          {
+            "slug": "administration",
+            "found": 2,
+            "isFallback": false
+          },
+          {
+            "slug": "customer-service",
+            "found": 2,
+            "isFallback": false
+          },
+          {
+            "slug": "education",
+            "found": 3,
+            "isFallback": false
+          },
+          {
+            "slug": "agriculture",
+            "found": 1,
+            "isFallback": false
+          },
+          {
+            "slug": "legal",
+            "found": 2,
+            "isFallback": false
+          },
+          {
+            "slug": "production",
+            "found": 30,
+            "isFallback": true
+          },
+          {
+            "slug": "finance",
+            "found": 30,
+            "isFallback": true
+          },
+          {
+            "slug": "construction",
+            "found": 30,
+            "isFallback": true
+          }
+        ],
+        "note": "ผลค้น in-kalasin ของ JOBTOPGUN เป็นระดับภาคอีสาน จึงติดธง inKalasin จากการตรวจชื่อจังหวัดและอำเภอในเนื้อประกาศ"
+      },
+      {
+        "source": "JOBBKK",
+        "sourceUrl": "https://jobbkk.com/%E0%B8%AB%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99/%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+        "capturedAt": "2026-08-24",
+        "collected": 35,
+        "withDescription": 34,
+        "inKalasin": 16,
+        "promoted": 9,
+        "note": "หน้ารายการของ JOBBKK ส่งลิงก์มาบางส่วนและไม่รองรับการแบ่งหน้าฝั่งเซิร์ฟเวอร์ จำนวนที่เก็บได้จึงน้อยกว่ายอดที่เว็บรายงาน"
+      }
+    ]
+  },
+  "stats": {
+    "technical": [
+      {
+        "name": "งานขายและปิดการขาย",
+        "category": "การขายและการตลาด",
+        "count": 22,
+        "percent": 45.8
+      },
+      {
+        "name": "การเงินและสินเชื่อ",
+        "category": "บัญชีและการเงิน",
+        "count": 15,
+        "percent": 31.3
+      },
+      {
+        "name": "งานธุรการและเอกสาร",
+        "category": "บัญชีและการเงิน",
+        "count": 10,
+        "percent": 20.8
+      },
+      {
+        "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+        "category": "บริการและสุขภาพ",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "งานสุขภาพและพยาบาล",
+        "category": "บริการและสุขภาพ",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "บัญชีและงบการเงิน",
+        "category": "บัญชีและการเงิน",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "การนำเสนอและเจรจาต่อรอง",
+        "category": "การขายและการตลาด",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "งานขายหน้าร้านและบริการลูกค้า",
+        "category": "การขายและการตลาด",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "งานบุคคลและสรรหา",
+        "category": "บัญชีและการเงิน",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "ขับรถและงานภาคสนาม",
+        "category": "โลจิสติกส์",
+        "count": 5,
+        "percent": 10.4
+      },
+      {
+        "name": "งานก่อสร้างและโยธา",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "งานอาหารและเครื่องดื่ม",
+        "category": "บริการและสุขภาพ",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "ดิจิทัลและไอที",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "คลังสินค้าและสต๊อก",
+        "category": "โลจิสติกส์",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "ควบคุมคุณภาพ QA/QC",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "การดูแลความสัมพันธ์ลูกค้า",
+        "category": "การขายและการตลาด",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "ความปลอดภัยและอาชีวอนามัย",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "คอมพิวเตอร์พื้นฐาน",
+        "category": "ดิจิทัลและไอที",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "อุตสาหกรรมอาหารและแปรรูป",
+        "category": "เกษตรและอาหาร",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "Excel และการจัดการข้อมูล",
+        "category": "ดิจิทัลและไอที",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "การเกษตรและปศุสัตว์",
+        "category": "เกษตรและอาหาร",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+        "category": "ดิจิทัลและไอที",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "การพัฒนาซอฟต์แวร์",
+        "category": "ดิจิทัลและไอที",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "การวางแผนการตลาด",
+        "category": "การขายและการตลาด",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "การสอนและฝึกอบรม",
+        "category": "บริการและสุขภาพ",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "การหาลูกค้าใหม่และขยายตลาด",
+        "category": "การขายและการตลาด",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "ซ่อมบำรุงเครื่องจักร",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "ฐานข้อมูลและ SQL",
+        "category": "ดิจิทัลและไอที",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "ดูแลระบบเครือข่ายและ IT Support",
+        "category": "ดิจิทัลและไอที",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "ระบบมาตรฐาน ISO และ GMP",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 1,
+        "percent": 2.1
+      }
+    ],
+    "soft": [
+      {
+        "name": "การวางแผนและจัดลำดับงาน",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "การสื่อสาร",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "ความรับผิดชอบ",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "ความอดทนและแรงกดดัน",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "ใจรักบริการ",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "การทำงานเป็นทีม",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "การเรียนรู้และพัฒนาตนเอง",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "การแก้ปัญหา",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 1,
+        "percent": 2.1
+      }
+    ],
+    "byCategory": [
+      {
+        "category": "การขายและการตลาด",
+        "skills": [
+          {
+            "name": "งานขายและปิดการขาย",
+            "category": "การขายและการตลาด",
+            "count": 22,
+            "percent": 45.8
+          },
+          {
+            "name": "การนำเสนอและเจรจาต่อรอง",
+            "category": "การขายและการตลาด",
+            "count": 6,
+            "percent": 12.5
+          },
+          {
+            "name": "งานขายหน้าร้านและบริการลูกค้า",
+            "category": "การขายและการตลาด",
+            "count": 6,
+            "percent": 12.5
+          },
+          {
+            "name": "การดูแลความสัมพันธ์ลูกค้า",
+            "category": "การขายและการตลาด",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "การวางแผนการตลาด",
+            "category": "การขายและการตลาด",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "การหาลูกค้าใหม่และขยายตลาด",
+            "category": "การขายและการตลาด",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 24
+      },
+      {
+        "category": "บัญชีและการเงิน",
+        "skills": [
+          {
+            "name": "การเงินและสินเชื่อ",
+            "category": "บัญชีและการเงิน",
+            "count": 15,
+            "percent": 31.3
+          },
+          {
+            "name": "งานธุรการและเอกสาร",
+            "category": "บัญชีและการเงิน",
+            "count": 10,
+            "percent": 20.8
+          },
+          {
+            "name": "บัญชีและงบการเงิน",
+            "category": "บัญชีและการเงิน",
+            "count": 7,
+            "percent": 14.6
+          },
+          {
+            "name": "งานบุคคลและสรรหา",
+            "category": "บัญชีและการเงิน",
+            "count": 6,
+            "percent": 12.5
+          }
+        ],
+        "jobCount": 20
+      },
+      {
+        "category": "บริการและสุขภาพ",
+        "skills": [
+          {
+            "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+            "category": "บริการและสุขภาพ",
+            "count": 8,
+            "percent": 16.7
+          },
+          {
+            "name": "งานสุขภาพและพยาบาล",
+            "category": "บริการและสุขภาพ",
+            "count": 8,
+            "percent": 16.7
+          },
+          {
+            "name": "งานอาหารและเครื่องดื่ม",
+            "category": "บริการและสุขภาพ",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "การสอนและฝึกอบรม",
+            "category": "บริการและสุขภาพ",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 15
+      },
+      {
+        "category": "การผลิตและวิศวกรรม",
+        "skills": [
+          {
+            "name": "งานก่อสร้างและโยธา",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "ควบคุมคุณภาพ QA/QC",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 3,
+            "percent": 6.3
+          },
+          {
+            "name": "ความปลอดภัยและอาชีวอนามัย",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "ซ่อมบำรุงเครื่องจักร",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "ระบบมาตรฐาน ISO และ GMP",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 10
+      },
+      {
+        "category": "ดิจิทัลและไอที",
+        "skills": [
+          {
+            "name": "Microsoft Office",
+            "category": "ดิจิทัลและไอที",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "คอมพิวเตอร์พื้นฐาน",
+            "category": "ดิจิทัลและไอที",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "Excel และการจัดการข้อมูล",
+            "category": "ดิจิทัลและไอที",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+            "category": "ดิจิทัลและไอที",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "การพัฒนาซอฟต์แวร์",
+            "category": "ดิจิทัลและไอที",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "ฐานข้อมูลและ SQL",
+            "category": "ดิจิทัลและไอที",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "ดูแลระบบเครือข่ายและ IT Support",
+            "category": "ดิจิทัลและไอที",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 8
+      },
+      {
+        "category": "โลจิสติกส์",
+        "skills": [
+          {
+            "name": "ขับรถและงานภาคสนาม",
+            "category": "โลจิสติกส์",
+            "count": 5,
+            "percent": 10.4
+          },
+          {
+            "name": "คลังสินค้าและสต๊อก",
+            "category": "โลจิสติกส์",
+            "count": 3,
+            "percent": 6.3
+          }
+        ],
+        "jobCount": 7
+      },
+      {
+        "category": "เกษตรและอาหาร",
+        "skills": [
+          {
+            "name": "อุตสาหกรรมอาหารและแปรรูป",
+            "category": "เกษตรและอาหาร",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "การเกษตรและปศุสัตว์",
+            "category": "เกษตรและอาหาร",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 3
+      }
+    ],
+    "requirements": [
+      {
+        "name": "ปริญญาตรีขึ้นไป",
+        "count": 13,
+        "percent": 27.1
+      },
+      {
+        "name": "ต้องมีประสบการณ์",
+        "count": 12,
+        "percent": 25
+      },
+      {
+        "name": "ยินดีรับนักศึกษาจบใหม่",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "ปวส./ปวช.",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "ใบอนุญาตขับขี่",
+        "count": 5,
+        "percent": 10.4
+      }
+    ],
+    "districts": [
+      {
+        "name": "เมือง",
+        "count": 16
+      },
+      {
+        "name": "ไม่ระบุอำเภอ",
+        "count": 9
+      },
+      {
+        "name": "กุฉินารายณ์",
+        "count": 6
+      },
+      {
+        "name": "ยางตลาด",
+        "count": 5
+      },
+      {
+        "name": "Kalasin",
+        "count": 2
+      },
+      {
+        "name": "สมเด็จ",
+        "count": 1
+      },
+      {
+        "name": "สามชัย",
+        "count": 1
+      },
+      {
+        "name": "ท่าคันโท",
+        "count": 1
+      },
+      {
+        "name": "Nakhonratchasima",
+        "count": 1
+      },
+      {
+        "name": "ร่องคำ",
+        "count": 1
+      },
+      {
+        "name": "กมลาไสย",
+        "count": 1
+      },
+      {
+        "name": "มหาสารคาม",
+        "count": 1
+      },
+      {
+        "name": "กรุงเทพมหานครเขตห้วยขวาง",
+        "count": 1
+      },
+      {
+        "name": "กรุงเทพมหานครเขตบางซื่อ",
+        "count": 1
+      },
+      {
+        "name": "หนองคาย",
+        "count": 1
+      }
+    ]
+  },
+  "jobs": [
+    {
+      "id": "jobthai-1261926",
+      "title": "เจ้าหน้าที่ฝ่ายขายบัตรเครดิตและประกันภัย Lotus's Money Plus โลตัสกุฉินารายณ์",
+      "company": "กรุงศรี คอนซูมเมอร์ (Krungsri Consumer)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "รายได้ 13,000 - 17,000 เดือน + commission ไม่มีเพดาน",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1261926",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1261926",
+          "sourceId": "jobthai-1261926"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1585076",
+      "title": "POS Sales Executive จ.กาฬสินธุ์",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev)",
+      "location": "กาฬสินธุ์",
+      "district": "",
+      "salary": "16,000 - 22,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1585076",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1585076",
+          "sourceId": "jobthai-1585076"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1870790",
+      "title": "Spray Dryer Operator",
+      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/company/job/1870790",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1870790",
+          "sourceId": "jobthai-1870790"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1888135",
+      "title": "Maintenance Technician",
+      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานช่างเทคนิค",
+      "url": "https://www.jobthai.com/th/company/job/1888135",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1888135",
+          "sourceId": "jobthai-1888135"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ซ่อมบำรุงเครื่องจักร",
+          "category": "การผลิตและวิศวกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1744273",
+      "title": "ช่างเทคนิค จ.กาฬสินธุ์ 2 อัตรา",
+      "company": "บริษัท ทริปเปิลที บรอดแบนด์ จำกัด (มหาชน)",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "12,000 - 15,000 บาท",
+      "employment": "งานช่างเทคนิค",
+      "url": "https://www.jobthai.com/th/company/job/1744273",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1744273",
+          "sourceId": "jobthai-1744273"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1617876",
+      "title": "พนักงานขาย สาขากุฉินารายณ์ (กาฬสินธุ์)",
+      "company": "บริษัท วนชัย กรุ๊ป จำกัด (มหาชน)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "12,000 + ค่าครองชีพ",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1617876",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1617876",
+          "sourceId": "jobthai-1617876"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1807844",
+      "title": "true Shop/Dtac shop  พนักงานขายและบริการลูกค้า ประจำ สาขา โลตัส กาฬสินธุ์",
+      "company": "บริษัท จ๊อบ เอเชีย กรุ๊ป จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "12,000 - 25,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1807844",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1807844",
+          "sourceId": "jobthai-1807844"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1810688",
+      "title": "ทรูช็อป true Shop พนักงานขายและบริการลูกค้า ประจำ สาขา  โลตัส สมเด็จ กาฬสินธุ์",
+      "company": "บริษัท จ๊อบ เอเชีย กรุ๊ป จำกัด",
+      "location": "สมเด็จ · กาฬสินธุ์",
+      "district": "สมเด็จ",
+      "salary": "12,000 - 25,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1810688",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1810688",
+          "sourceId": "jobthai-1810688"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1088662",
+      "title": "ผู้จัดการเขตฝ่ายขาย ประจำ จ.กาฬสินธุ์",
+      "company": "บริษัท สมใจ 2559 จำกัด",
+      "location": "กาฬสินธุ์",
+      "district": "",
+      "salary": "รายได้ รวมค่าคอม 30,000  +++",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1088662",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1088662",
+          "sourceId": "jobthai-1088662"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1927993",
+      "title": "ผู้ควบคุมฮาลาลประจำสถานประกอบการ (Halal Supervisor) ประจำที่กาฬสินธ์",
+      "company": "บริษัท สยามพรีเสิร์ฟฟู้ดส์ จำกัด",
+      "location": "สามชัย · กาฬสินธุ์",
+      "district": "สามชัย",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/company/job/1927993",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1927993",
+          "sourceId": "jobthai-1927993"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1667315",
+      "title": "Financial & Loan Advisor Staff  สาขาBigC กาฬสินธุ์ รับสมัครด่วน !",
+      "company": "AEON Thana Sinsap (Thailand) Public Co.,Ltd.",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "13,000 บาท + ค่าคอมมิชชั่น",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1667315",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1667315",
+          "sourceId": "jobthai-1667315"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1947223",
+      "title": "R&D Manager 50K ประจำโรงงานจังหวัดกาฬสินธุ์ ปฎิบัติงาน จันทร์ - เสา",
+      "company": "WorkConnect Co., Ltd.",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "40,000 - 50,000 บาท",
+      "employment": "อื่นๆ",
+      "url": "https://www.jobthai.com/th/company/job/1947223",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1947223",
+          "sourceId": "jobthai-1947223"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1917948",
+      "title": "Senior Quality Assurance & Control Officer (ประจำอ.ท่าคันโท จ.กาฬสินธุ์)",
+      "company": "Thai Wah Public Company Limited",
+      "location": "ท่าคันโท · กาฬสินธุ์",
+      "district": "ท่าคันโท",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/company/job/1917948",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1917948",
+          "sourceId": "jobthai-1917948"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ควบคุมคุณภาพ QA/QC",
+          "category": "การผลิตและวิศวกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1887714",
+      "title": "เจ้าหน้าที่สินเชื่อ สาขากาฬสินธุ์",
+      "company": "บริษัท ควิก ลิสซิ่ง จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "10,470 - 11,470 บาท",
+      "employment": "งานการเงิน/ธนาคาร",
+      "url": "https://www.jobthai.com/th/company/job/1887714",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1887714",
+          "sourceId": "jobthai-1887714"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1894097",
+      "title": "Digital Marketing  (สาขากาฬสินธุ์)",
+      "company": "บริษัท มี ไอเดีย เซ็นเตอร์ แอนด์ ซัพพลาย จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "12,000 - 28,000 บาท",
+      "employment": "งานการตลาด",
+      "url": "https://www.jobthai.com/th/company/job/1894097",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1894097",
+          "sourceId": "jobthai-1894097"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+          "category": "ดิจิทัลและไอที"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1774973",
+      "title": "ผู้ช่วยหัวหน้าคลังสินค้า",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "13,000 - 20,000 บาท",
+      "employment": "งานขนส่งและคลังสินค้า",
+      "url": "https://www.jobthai.com/th/company/job/1774973",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1774973",
+          "sourceId": "jobthai-1774973"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1691266",
+      "title": "พนักงานขายวัสดุก่อสร้าง",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "10,500 - 13,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1691266",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1691266",
+          "sourceId": "jobthai-1691266"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1605927",
+      "title": "หัวหน้าฝ่ายขาย",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "13,000 - 25,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1605927",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1605927",
+          "sourceId": "jobthai-1605927"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1755033",
+      "title": "พนักงานขับรถส่งสารเคมี",
+      "company": "บริษัท ซีนอน อินเตอร์ จำกัด (สำนักงานใหญ่)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "13,000 - 20,000 บาท",
+      "employment": "งานขับรถ",
+      "url": "https://www.jobthai.com/th/company/job/1755033",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1755033",
+          "sourceId": "jobthai-1755033"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1892854",
+      "title": "ผู้แนะนำผลิตภัทฑ์ทางการเงิน(Direct Sales Agent) สาขากาฬสินธุ์",
+      "company": "บริษัท เพื่อนแท้ แคปปิตอล จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามตกลง",
+      "employment": "งานการเงิน/ธนาคาร",
+      "url": "https://www.jobthai.com/th/company/job/1892854",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1892854",
+          "sourceId": "jobthai-1892854"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1822226",
+      "title": "เจ้าหน้าที่การค้าเบียร์-ออฟเทรด (กาฬสินธุ์)",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev) / Chang International",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามประสบการณ์",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1822226",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1822226",
+          "sourceId": "jobthai-1822226"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1936549",
+      "title": "เจ้าหน้าที่บัญชี (Accounting Staff)",
+      "company": "ห้างหุ้นส่วนจำกัด จินตนาเครื่องนอน เวิร์ลเทรด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "15,000 บาท (ขึ้นอยู่กับประสบการณ์)",
+      "employment": "งานบัญชี",
+      "url": "https://www.jobthai.com/th/company/job/1936549",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1936549",
+          "sourceId": "jobthai-1936549"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1897272",
+      "title": "QA Officer",
+      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/company/job/1897272",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1897272",
+          "sourceId": "jobthai-1897272"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ควบคุมคุณภาพ QA/QC",
+          "category": "การผลิตและวิศวกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1941740",
+      "title": "เจ้าหน้าที่สิ่งแวดล้อม  (โรงงานน้ำตาลมิตรกาฬสินธุ์)",
+      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานสิ่งแวดล้อม/ความปลอดภัย",
+      "url": "https://www.jobthai.com/th/company/job/1941740",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1941740",
+          "sourceId": "jobthai-1941740"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1372538",
+      "title": "เจ้าหน้าที่เขตส่งเสริม (โรงงานน้ำตาลมิตรกาฬสินธุ์) สัญญาจ้าง 2 ปี",
+      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานเกษตร/ปศุสัตว์/ประมง",
+      "url": "https://www.jobthai.com/th/company/job/1372538",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1372538",
+          "sourceId": "jobthai-1372538"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1642727",
+      "title": "หัวหน้าแผนกผลิต ประจำสาขากาฬสินธุ์ (STA-KS)",
+      "company": "กลุ่มบริษัท ศรีตรังแอโกรอินดัสทรี จำกัด (มหาชน)",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานวิศวกรรม",
+      "url": "https://www.jobthai.com/th/company/job/1642727",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1642727",
+          "sourceId": "jobthai-1642727"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1732621",
+      "title": "พนักงานขาย Sales",
+      "company": "บริษัท เอส.พี ฟาร์ม กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "15,000 - 20,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1732621",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1732621",
+          "sourceId": "jobthai-1732621"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1484333",
+      "title": "พนักงานขายอินเตอร์เน็ตบ้าน ais fibre ประจำสาขากาฬสินธุ์",
+      "company": "บริษัท สามพี่น้อง เทเลคอมเน็ตเวิร์ค จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "10,000 - 20,000 บาท รวมค่าคอมมิชชั่น",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/company/job/1484333",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1484333",
+          "sourceId": "jobthai-1484333"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobthai-1941840",
+      "title": "รองผู้จัดการทั่วไป บัญชีและการเงิน",
+      "company": "บริษัท เอเซียโมดิไฟด์สตาร์ช จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามตกลง",
+      "employment": "งานบัญชี",
+      "url": "https://www.jobthai.com/th/company/job/1941840",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/company/job/1941840",
+          "sourceId": "jobthai-1941840"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": false,
+      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "skills": [
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": ""
+    },
+    {
+      "id": "jobtopgun-j2688-180",
+      "title": "Sales Representative (ร้อยเอ็ด ยโสธร กาฬสินธุ์ มหาสารคาม)",
+      "company": "บริษัท กัปตัน โค๊ทติ้ง จำกัด",
+      "location": "Kalasin, Mahasarakham, Yasothon, Roi-et",
+      "district": "",
+      "salary": "15,000 - 25,000 baht/month + Commission",
+      "employment": "งานประจำ",
+      "url": "https://www.jobtopgun.com/th/jobs/j2688-180",
+      "sources": [
+        {
+          "source": "JOBTOPGUN",
+          "url": "https://www.jobtopgun.com/th/jobs/j2688-180",
+          "sourceId": "jobtopgun-j2688-180"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "งานอาหารและเครื่องดื่ม",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "Responsibilities - แนะนำผลิตภัณฑ์ของบริษัท และนำเสนอขายสินค้าเพื่อบริหารยอดขายให้ได้ตามเป้าหมาย - รักษาสัมพันธ์ภาพอันดีต่อลูกค้า และบริหารลูกค้าในฐานการขายที่รับผิดชอบ - ดูแลกลุ่มลูกค้าดีลเลอร์ในพื้นที่ที่รับผิดชอบ - จัดทำเอกสารรายงานที่เกี่ยวข้อง และรายงานผลการปฏิบัติงานต่อผู้บังคับบัญชา Qualifications • เพศชาย/หญิง อ"
+    },
+    {
+      "id": "jobtopgun-j24697-234",
+      "title": "Division Manager สาขากุฉินารายณ์",
+      "company": "บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน) (สำนักงานใหญ่)",
+      "location": "Kalasin",
+      "district": "",
+      "salary": "Depend on qualifications and experience",
+      "employment": "งานประจำ",
+      "url": "https://www.jobtopgun.com/th/jobs/j24697-234",
+      "sources": [
+        {
+          "source": "JOBTOPGUN",
+          "url": "https://www.jobtopgun.com/th/jobs/j24697-234",
+          "sourceId": "jobtopgun-j24697-234"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การทำงานเป็นทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "คุณสมบัติและประสบการณ์ Job Type งานประจำ Work Type Onsite Education ปริญญาตรี Posted 19/08/2026 Responsibilities บริหารจัดการสินค้าและยอดขายในฝ่ายรับผิดชอบเพียงพอต่อความต้องการของลูกค้าตามมาตรฐานที่บริษัทกำหนด บริหารจัดการพนักงานในฝ่ายรับผิดชอบและพัฒนาทีมงานและผู้ใต้บังคับบัญชาให้มีความรู้ความสามารถและทักษะในการทำงาน ต"
+    },
+    {
+      "id": "jobtopgun-j14369-106",
+      "title": "เจ้าหน้าที่ธุรการ แก้งสนามนาง",
+      "company": "บริษัท ครีเดนซ์ จำกัด (มหาชน)",
+      "location": "Nakhonratchasima",
+      "district": "",
+      "salary": "14,000 - 15,000 baht/month",
+      "employment": "งานประจำ",
+      "url": "https://www.jobtopgun.com/th/jobs/j14369-106",
+      "sources": [
+        {
+          "source": "JOBTOPGUN",
+          "url": "https://www.jobtopgun.com/th/jobs/j14369-106",
+          "sourceId": "jobtopgun-j14369-106"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเกษตรและปศุสัตว์",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป"
+      ],
+      "summary": "Responsibilities • จัดทำเอกสารเบิก-จ่าย รับเข้าวัสดุอุปกรณ์ • สรุป รวบรวมเอกสาร รวบรวมบิล ตรวจสอบและรายงานกิจกรรมของรถตัดอ้อย Qualifications • เพศหญิง อายุ 20-35 ปี • สามารถใช้ Microsoft Office ได้ดี • สามารถรับแรงกดดันได้ดี มีทักษะในการจัดลำดับความสำคัญของงาน และบริหารจัดการงานให้สำเร็จตามกำหนดเวลา Benefits • กองทุนสำ"
+    },
+    {
+      "id": "jobbkk-56463-1386095",
+      "title": "ผู้ช่วยผู้จัดการ สถานีบริการน้ำมัน",
+      "company": "บริษัท พีทีจี เอ็นเนอยี จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ), ศรีสะเกษ(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), อุบลราชธานี(ทุกเขต/อำเภอ)",
+      "district": ", ศรีสะเกษทุกเขต/อำเภอ, ยโสธรทุกเขต/อำเภอ, มุกดาหารทุกเขต/อำเภอ, อุบลราชธานีทุกเขต/อำเภอ",
+      "salary": "14,000 - 17,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/56463/1386095",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/56463/1386095",
+          "sourceId": "jobbkk-56463-1386095"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานอาหารและเครื่องดื่ม",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [
+        "ปวส./ปวช."
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ), ศรีสะเกษ(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), อุบลราชธานี(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 14,000 - 17,000 วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • บ"
+    },
+    {
+      "id": "jobbkk-209092-1150445",
+      "title": "Flutter (ห้ามสมัคร ใช้เทส JOBBKK)",
+      "company": "Test Mobile App",
+      "location": "กาฬสินธุ์(ร่องคำ)",
+      "district": "ร่องคำ",
+      "salary": "ตามตกลง",
+      "employment": "นักศึกษาฝึกงาน",
+      "url": "https://jobbkk.com/jobs/detailurgent/209092/1150445",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/209092/1150445",
+          "sourceId": "jobbkk-209092-1150445"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "การพัฒนาซอฟต์แวร์",
+          "category": "ดิจิทัลและไอที"
+        }
+      ],
+      "requirements": [
+        "ปวส./ปวช."
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ร่องคำ) สาขาอาชีพหลัก : ไอที สาขาอาชีพรอง : Mobile Application รูปแบบงาน : นักศึกษาฝึกงาน ระดับตำแหน่งงาน : ผู้จัดการ จำนวนที่รับ : 5 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : ตามที่บริษัทกำหนด วันหยุด : ไม่ระบุ เวลาทำงาน : 03:00 - 06:30 เวลาทำงานอื่นๆ : ไม่ระบุ หน้าที่ความรับผิดชอบ • Fl"
+    },
+    {
+      "id": "jobbkk-228438-1341661",
+      "title": "ทรูช้อป true Shop พนักงานขายและบริการลูกค้า ประจำ สาขา โลตัส กาฬสินธุ์",
+      "company": "TRIPLEBPROGRESS",
+      "location": "กาฬสินธุ์(เมืองกาฬสินธุ์)",
+      "district": "เมือง",
+      "salary": "12,000 - 25,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/228438/1341661",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/228438/1341661",
+          "sourceId": "jobbkk-228438-1341661"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การวางแผนการตลาด",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(เมืองกาฬสินธุ์) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : พนักงานแนะนำสินค้าประจำร้าน/PC รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : 12,000 - 25,000 วันทำงาน : ตามที่บริษัทกำหนด วันหยุด : ไม่ระบุ เวลาทำงาน : ตามที่บริษัทกำหนด เวลาทำงานอื่นๆ : ไม่ระบ"
+    },
+    {
+      "id": "jobbkk-12824-1059595",
+      "title": "Sale Area ภาคอีสาน (โคราช,สกลนคร,นครพนม,มุกดาหาร,ชัยภูมิ,ร้อยเอ็ด)",
+      "company": "บริษัท โกลด์ เบลล์ ซิสเท็ม จำกัด",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "",
+      "salary": "20,000 - 100,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/12824/1059595",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/12824/1059595",
+          "sourceId": "jobbkk-12824-1059595"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การดูแลความสัมพันธ์ลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ขายอุปกรณ์ IT / ไฟฟ้า / อิเล็กทรอนิกส์ รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 5 ตำแหน่ง เงินเดือน(บาท) : 20,000 - 100,000 วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ เวลาทำงาน : 09:00 - 18:00 เวลาทำงานอื่นๆ : ไม่ระ"
+    },
+    {
+      "id": "jobbkk-33928-1376000",
+      "title": "Service Engineer (CCTV) จังหวัดกาฬสินธุ์",
+      "company": "บริษัท เคมิท กรุ๊ป จำกัด",
+      "location": "กาฬสินธุ์(เมืองกาฬสินธุ์)",
+      "district": "เมือง",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/33928/1376000",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/33928/1376000",
+          "sourceId": "jobbkk-33928-1376000"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "ดูแลระบบเครือข่ายและ IT Support",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ควบคุมคุณภาพ QA/QC",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(เมืองกาฬสินธุ์) สาขาอาชีพหลัก : ไอที สาขาอาชีพรอง : IT Support/Technical Support รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : จันทร์-ศุกร์ วันหยุด : วันเสาร์ , วันอาทิตย์ เวลาทำงาน : 08:30 - 17:30 เวลาทำงานอื่นๆ : ไม่ระบุ หน"
+    },
+    {
+      "id": "jobbkk-227262-1292891",
+      "title": "เจ้าหน้าที่สนับสนุนการขาย ระบบจัดการร้านค้าปลีก (POS) กาฬสินธุ์",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/227262/1292891",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/227262/1292891",
+          "sourceId": "jobbkk-227262-1292891"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ขาย รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่นๆ : ไม่ระบุ หน้าที่ความรับผิดชอบ • เข้าพบลูกค้าร้านค้"
+    },
+    {
+      "id": "jobbkk-206528-1328207",
+      "title": "ที่ปรึกษาการขายสินเชื่อบ้าน ประจำพื้นที่ กาฬสินธุ์ มหาสารคาม ร้อยเอ็ด เลย",
+      "company": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/206528/1328207",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/206528/1328207",
+          "sourceId": "jobbkk-206528-1328207"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ธนาคาร/การเงิน สาขาอาชีพรอง : สินเชื่อ รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 6 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : ตามที่บริษัทกำหนด วันหยุด : ไม่ระบุ เวลาทำงาน : 08:30 - 17:30 เวลาทำงานอื่นๆ : ไม่ระบุ หน้าที่ความรับผิดชอบ • "
+    },
+    {
+      "id": "jobbkk-37838-1280478",
+      "title": "เจ้าหน้าที่บริหารงานขายสาขา ประจำพื้นที่ อ.ในเมือง กมลาไสย จังหวัดกาฬสินธุ์",
+      "company": "บริษัท เงินติดล้อ จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(กมลาไสย,เมืองกาฬสินธุ์)",
+      "district": "กมลาไสย,เมือง",
+      "salary": "15,000 - 16,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/37838/1280478",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/37838/1280478",
+          "sourceId": "jobbkk-37838-1280478"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "Excel และการจัดการข้อมูล",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        }
+      ],
+      "requirements": [
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(กมลาไสย,เมืองกาฬสินธุ์) ทำงานที่บ้าน (Work From Home) : ทำงานที่บ้าน (Work From Home) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : บริหารการขาย/SE รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 3 ตำแหน่ง เงินเดือน(บาท) : 15,000 - 16,000 วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ "
+    },
+    {
+      "id": "jobbkk-37838-1128658",
+      "title": "เจ้าหน้าที่บริหารงานขายสาขา พื้นที่จังหวัดขอนแก่น ด่วน",
+      "company": "บริษัท เงินติดล้อ จำกัด (มหาชน)",
+      "location": "มหาสารคาม(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), หนองคาย(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ)",
+      "district": "มหาสารคาม, ทุกเขต/อำเภอ, หนองคายทุกเขต/อำเภอ, ขอนแก่นทุกเขต/อำเภอ",
+      "salary": "15,000 - 20,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detailurgent/37838/1128658",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detailurgent/37838/1128658",
+          "sourceId": "jobbkk-37838-1128658"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "Excel และการจัดการข้อมูล",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "สถานที่ปฏิบัติงาน : มหาสารคาม(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), หนองคาย(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ปรึกษาการขาย รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 20 ตำแหน่ง เงินเดือน(บาท) : 15,000 - 20,000 วันทำงาน : ไม่ระบุ วันหยุด : วันอาทิตย์ เวลาทำงา"
+    },
+    {
+      "id": "jobbkk-20384-1119735",
+      "title": "รับด่วน ฝ่ายขายบัตรกรุงศรีเฟิร์สช้อยส์ โซน กาฬสินธุ์ I มีเงินเดือน",
+      "company": "กรุงศรี คอนซูมเมอร์",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "",
+      "salary": "13,000 - 17,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/20384/1119735",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/20384/1119735",
+          "sourceId": "jobbkk-20384-1119735"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : 2 ตำแหน่ง สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 13,000 - 17,000 วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ปฏิบัติงานตามเวลาเปิดทำการของห้างสรรพสินค้า หน้าที่ความรับผิดชอบ --> • ** ตำแหน่งงานนี้ ต้องการผู้สมัครที่สามารถออกพื้นที่ในการปฏิ"
+    },
+    {
+      "id": "jobbkk-56463-934477",
+      "title": "ผู้ช่วยผู้จัดการ สถานีบริการน้ำมัน (ประกาศรับสมัครงาน จ.กาฬสินธุ์)",
+      "company": "บริษัท พีทีจี เอ็นเนอยี จำกัด (มหาชน)",
+      "location": "กรุงเทพมหานคร(เขตห้วยขวาง), กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "กรุงเทพมหานครเขตห้วยขวาง,",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/56463/934477",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/56463/934477",
+          "sourceId": "jobbkk-56463-934477"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานอาหารและเครื่องดื่ม",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ยินดีรับนักศึกษาจบใหม่"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กรุงเทพมหานคร(เขตห้วยขวาง), กาฬสินธุ์(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ทำงาน 6 วัน หยุด 1 วัน หน้าที่ความรับผิดชอบ --> • บริหารงานภาพรวมในสถานีบริการน้ำมัน • 1) สร้างยอดขาย เพื่อสร้าง"
+    },
+    {
+      "id": "jobbkk-41710-871047",
+      "title": "เจ้าหน้าที่ฝ่ายขายหนังสือเรียน สื่อการสอน จังหวัด กาฬสินธุ์-มุกดาหาร (ด่วนมาก)",
+      "company": "บริษัท สร้างสรรค์สื่อเพื่อการเรียนรู้(สสร.)จำกัด",
+      "location": "กรุงเทพมหานคร(เขตบางซื่อ), กาฬสินธุ์(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ)",
+      "district": "กรุงเทพมหานครเขตบางซื่อ, , มุกดาหารทุกเขต/อำเภอ, ยโสธรทุกเขต/อำเภอ",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/41710/871047",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/41710/871047",
+          "sourceId": "jobbkk-41710-871047"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "ฐานข้อมูลและ SQL",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การดูแลความสัมพันธ์ลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสอนและฝึกอบรม",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กรุงเทพมหานคร(เขตบางซื่อ), กาฬสินธุ์(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : วันอาทิตย์ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ลักษณะของงาน นำเสนอขายหน"
+    },
+    {
+      "id": "jobbkk-23869-1294152",
+      "title": "พนักงานประจำร้าน Big C mini จังหวัดกาฬสินธุ์ (เลือกสาขาปฏิบัติงานได้)",
+      "company": "บริษัท บิ๊กซี ซูเปอร์เซ็นเตอร์ จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ)",
+      "district": "",
+      "salary": "12,000 - 15,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/23869/1294152",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/23869/1294152",
+          "sourceId": "jobbkk-23869-1294152"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        }
+      ],
+      "requirements": [
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่จำกัด สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 12,000 - 15,000 วันหยุด : ไม่ระบุ เวลาทำงาน : ตามที่บริษัทกำหนด เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ขายสินค้าและผลักดันยอดขาย รวมถึงเก็บเงินยอดขายตามนโยบายบริษัท • ให้บริการลูกค้าตามมาตร"
+    },
+    {
+      "id": "jobbkk-23869-1186338",
+      "title": "พนักงานขาย ฝ่ายคู่ค้าธุรกิจ ร้านโดนใจ (บิ๊กซีสาขาบ้านไผ่)",
+      "company": "บริษัท บิ๊กซี ซูเปอร์เซ็นเตอร์ จำกัด (มหาชน)",
+      "location": "กาฬสินธุ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), เลย(ทุกเขต/อำเภอ), อุดรธานี(ทุกเขต/อำเภอ), ร้อยเอ็ด(ทุกเขต/อำเภอ)",
+      "district": ", ขอนแก่นทุกเขต/อำเภอ, เลยทุกเขต/อำเภอ, อุดรธานีทุกเขต/อำเภอ, ร้อยเอ็ดทุกเขต/อำเภอ",
+      "salary": "12,000 - 20,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/23869/1186338",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/23869/1186338",
+          "sourceId": "jobbkk-23869-1186338"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), เลย(ทุกเขต/อำเภอ), อุดรธานี(ทุกเขต/อำเภอ), ร้อยเอ็ด(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 12,000 - 20,000 วันหยุด : ไม่ระบุ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • •"
+    },
+    {
+      "id": "jobbkk-160855-1338204",
+      "title": "พยาบาลวิชาชีพวอร์ดเด็ก (IPD) ประจำสาขาเวียงจันทร์ สปป.ลาว",
+      "company": "บางกอก เชน ฮอสปิทอล จำกัด(มหาชน)",
+      "location": "หนองคาย(ทุกเขต/อำเภอ), อุตรดิตถ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), สกลนคร(ทุกเขต/อำเภอ)",
+      "district": "หนองคาย, อุตรดิตถ์ทุกเขต/อำเภอ, ขอนแก่นทุกเขต/อำเภอ, ทุกเขต/อำเภอ, สกลนครทุกเขต/อำเภอ",
+      "salary": "ตามตกลง",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/160855/1338204",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/160855/1338204",
+          "sourceId": "jobbkk-160855-1338204"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "งานอาหารและเครื่องดื่ม",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การทำงานเป็นทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : 2 ตำแหน่ง สถานที่ปฏิบัติงาน : หนองคาย(ทุกเขต/อำเภอ), อุตรดิตถ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), สกลนคร(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ให้การดูแล"
+    },
+    {
+      "id": "jobbkk-20384-1328910",
+      "title": "พนักงานขายบัตรเครดิตและประกันภัย Lotus's Money Plus สาขาโลตัสกุฉินารายณ์",
+      "company": "กรุงศรี คอนซูมเมอร์",
+      "location": "กาฬสินธุ์(กุฉินารายณ์)",
+      "district": "กุฉินารายณ์",
+      "salary": "13,000 - 17,000",
+      "employment": "งานประจำ",
+      "url": "https://jobbkk.com/jobs/detail/20384/1328910",
+      "sources": [
+        {
+          "source": "JOBBKK",
+          "url": "https://jobbkk.com/jobs/detail/20384/1328910",
+          "sourceId": "jobbkk-20384-1328910"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การหาลูกค้าใหม่และขยายตลาด",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "งานสุขภาพและพยาบาล",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : 1 ตำแหน่ง สถานที่ปฏิบัติงาน : กาฬสินธุ์(กุฉินารายณ์) เงินเดือน(บาท) : 13,000 - 17,000 วันหยุด : ไม่ระบุ เวลาทำงาน : 10:00 - 19:00 เวลาทำงานอื่น : ทำงานตามเวลาห้าง (10.00-19.00, 11.00 - 20.00 น. (มีวันหยุด 6 วันต่อเดือน โดยวันหยุดจะไม่ตรง กับ เสาร์ - อาทิตย์) หน้าที่ความร"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "jobtopgun-j17668-1174",
+      "title": "Plant Manager (Wind Energy) - Provincial Area",
+      "company": "บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j17668-1174",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j30974-109",
+      "title": "อาจารย์แนะแนวการศึกษา ประจำพื้นที่ภาคอีสาน",
+      "company": "มหาวิทยาลัยนอร์ทกรุงเทพ",
+      "location": "ภาคอีสาน ที่ North Bangkok University พื้นที่ North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j30974-109",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4941-117",
+      "title": "Senior/Supervisor/Manager Sales Project (ประจำภาคอีสาน)",
+      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4941-117",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24697-275",
+      "title": "ผู้จัดการฝึกหัด ทั่วประเทศ 97 สาขา",
+      "company": "บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน) (สำนักงานใหญ่)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j24697-275",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j6601-296",
+      "title": "พนักงานขายต่างจังหวัด (ภาคอีสาน)",
+      "company": "บริษัท ดี.เอช.เอ.สยามวาลา จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j6601-296",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j272114-11",
+      "title": "Account Executive (งานแม่และเด็ก) (จบเทคนิคการแพทย์หรือสาขาเกี่ยวข้อง)",
+      "company": "บริษัท เอ็มพี กรุ๊ป (ประเทศไทย) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j272114-11",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j777-130",
+      "title": "Sales Representative/Sales Supervisor - Northeast",
+      "company": "บริษัท บางกอกแร้นช์ จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j777-130",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j32-100024",
+      "title": "Region Sales Executive (Northern/Northeastern) - Nawaplastic Industries, Chemicals Business",
+      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j32-100024",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1353-424",
+      "title": "Branch Manager (ประจำจังหวัดนครราชสีมา)",
+      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j1353-424",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1353-322",
+      "title": "Sales Executive (ภาคอีสาน)",
+      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j1353-322",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4941-124",
+      "title": "Sales Dealer (เขตภาคอีสาน)",
+      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4941-124",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j3651-1508",
+      "title": "Head of Wealth Customer Relationship Manager (Nakhon Ratchasima, Ubon Ratchathani, Udon Thani)",
+      "company": "บริษัท ธนาคารทหารไทยธนชาต จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j3651-1508",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j3970-278",
+      "title": "หัวหน้าส่วน/ผู้จัดการฝ่ายจัดหาวัตถุดิบ",
+      "company": "บริษัท น้ำตาลขอนแก่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j3970-278",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j20451-159",
+      "title": "Sales - Medical Device (Northeast)/ผู้แทนขายเครื่องมือแพทย์ (ภาคตะวันออกเฉียงเหนือ)",
+      "company": "บริษัท ไอดีเอส เมดิคอล ซิสเต็มส์ (ประเทศไทย) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j20451-159",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j209677-6",
+      "title": "พนักงานขาย",
+      "company": "บริษัท คราโม่ แมททีเรียลส์ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j209677-6",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19469-59",
+      "title": "Sales Executive (ภาคอีสาน) - Laminates",
+      "company": "บริษัท บี.เอฟ.เอ็ม. จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j19469-59",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j302-885",
+      "title": "พนักงานขาย (ภาคอีสาน)",
+      "company": "บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน)/บริษัท ซีพีเอฟ (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j302-885",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j272508-5",
+      "title": "ผู้จัดการสาขาบุรีรัมย์ (วิศวกรโยธา) บริษัท เน็กซ์ อินเตอร์ โฮม จำกัด",
+      "company": "บริษัท เน็กซ์พลัส เอ็นจิเนียริ่ง จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j272508-5",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j3651-1262",
+      "title": "Relationship Manager - SME (เชียงใหม่, ขอนแก่น, อุบลราชธานี)(T00002564)",
+      "company": "บริษัท ธนาคารทหารไทยธนชาต จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j3651-1262",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4966-28",
+      "title": "โฟร์แมนงานระบบ",
+      "company": "บริษัท อรุณ ชัยเสรี คอนซัลติ้ง เอนจิเนียร์ส จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4966-28",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1353-392",
+      "title": "Sales Executive (Solar Cell) (ภาคอีสาน)",
+      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j1353-392",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18670-173",
+      "title": "พนักงานขายภายในประเทศ ( เขตภาคอีสาน )",
+      "company": "บริษัท ไทย เอ็นเนอร์จี สโตเรจ เทคโนโลยี จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18670-173",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j34063-58",
+      "title": "ผู้แทนขายและวิศวกรรมการแพทย์ (ภาคอีสาน)",
+      "company": "บริษัท เรียลเมดคอร์ป จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j34063-58",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j32-100057",
+      "title": "Region Sales Executive (Northeastern) - NPI, Chemicals Business",
+      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j32-100057",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j6482-81",
+      "title": "Sales Team Leader",
+      "company": "บริษัท ยูแอนด์วี โฮลดิ้ง (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j6482-81",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18947-133",
+      "title": "ผู้จัดการโครงการ (ภาคตะวันออก,ภาคใต้,ภาคอีสาน)",
+      "company": "บริษัท ไดนาสตี้ เซรามิค จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18947-133",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4261-676",
+      "title": "เจ้าหน้าที่สินเชื่อการตลาดเช่าซื้อ (อุดรธานี)",
+      "company": "บริษัท เอเซียเสริมกิจลีสซิ่ง จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4261-676",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j298653-8",
+      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนล่าง)",
+      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j298653-8",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j298653-9",
+      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนบน)",
+      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j298653-9",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-145",
+      "title": "โปรแกรมเมอร์",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-145",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j29378-87",
+      "title": "Senior Software Developer",
+      "company": "บริษัท ออโต้โมชั่นเวิร์ค จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j29378-87",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-194",
+      "title": "Product Owner",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-194",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18296-210",
+      "title": "ช่างคอมพิวเตอร์ ประจำสาขา เลย",
+      "company": "บริษัท เจ.ไอ.บี.คอมพิวเตอร์ กรุ๊ป จำกัด",
+      "location": "Loei",
+      "url": "https://www.jobtopgun.com/th/jobs/j18296-210",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-225",
+      "title": "Quality Assurance Engineer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-225",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j161766-11",
+      "title": "Network & System Engineer",
+      "company": "บริษัท ควิกเซิร์ฟ โปรไวเดอร์ จำกัด",
+      "location": "KhonKaen, Nakhonratchasima, Udonthani",
+      "url": "https://www.jobtopgun.com/th/jobs/j161766-11",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j161766-9",
+      "title": "Presales Engineer",
+      "company": "บริษัท ควิกเซิร์ฟ โปรไวเดอร์ จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j161766-9",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j36595-118",
+      "title": "Senior System Engineer",
+      "company": "บริษัท เคเคเอฟ อินเตอร์เนชั่นแนล กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j36595-118",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-219",
+      "title": "Cybersecurity",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-219",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-220",
+      "title": "Site Reliability Engineer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-220",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-218",
+      "title": "ITSecOps",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-218",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-172",
+      "title": "Backend Developer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-172",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j257271-70",
+      "title": "Project Manager",
+      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j257271-70",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j257271-10",
+      "title": "Tester",
+      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j257271-10",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24633-43",
+      "title": "นักวิเคราะห์ความปลอดภัยทางไซเบอร์ (ศูนย์ขอนแก่น)",
+      "company": "บริษัท ไซเบอร์ตรอน จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j24633-43",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j31081-16",
+      "title": "ผู้แทนขาย (Sales) ภาคอีสาน/ภาคเหนือ",
+      "company": "บริษัท ควิก โคท โปรดักส์ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j31081-16",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j124-339",
+      "title": "Sale Engineer - โคราช",
+      "company": "บริษัท สยามไดกิ้นเซลส์ จำกัด (สำนักงานใหญ่)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j124-339",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j20845-1448",
+      "title": "พนักงานขายมือถือ แบรนด์เทคโน",
+      "company": "บริษัท สกิลพาวเวอร์ เซอร์วิส (ประเทศไทย) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j20845-1448",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1353-422",
+      "title": "Sales Manager (ประจำภาคอีสาน) (Surveillance&HomeAutomation)",
+      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j1353-422",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18356-34",
+      "title": "Sales Representative (ภาคอีสาน)",
+      "company": "บริษัท ไอเมด ลาบอราทอรี่ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18356-34",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4941-88",
+      "title": "Sales Project / Sales Spec (ประจำภาคอีสานตอนบน)",
+      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4941-88",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j104941-11",
+      "title": "พนักงานขายและส่งเสริมการขายปุ๋ย",
+      "company": "บริษัท แอดวานซ์ เฟอร์ติไลเซอร์ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j104941-11",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-153",
+      "title": "ผู้ช่วยผู้จัดการฝ่ายบัญชี",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-153",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24571-60",
+      "title": "ผู้จัดการแผนกบัญชีทั่วไป",
+      "company": "บริษัท วาวา แพค จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j24571-60",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j29264-67",
+      "title": "ผู้จัดการส่วนตรวจสอบและควบคุมระบบบริหาร",
+      "company": "บริษัท น้ำตาลสุรินทร์ จำกัด",
+      "location": "Surin",
+      "url": "https://www.jobtopgun.com/th/jobs/j29264-67",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-15",
+      "title": "ผู้ช่วยผู้จัดการแผนกบัญชี (จ.ชัยภูมิ)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-15",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j282169-29",
+      "title": "Senior Financial",
+      "company": "บริษัท มหาสารคามเพาเวอร์ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j282169-29",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-131",
+      "title": "ผู้จัดการฝ่ายบัญชีและการเงิน (จ.ชัยภูมิ)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-131",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-139",
+      "title": "เจ้าหน้าที่ฝ่ายงบประมาณ",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-139",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-95",
+      "title": "Accounting & Finance Manager (Chaiyaphum Province)(60-80K salary)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-95",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-96",
+      "title": "ผู้จัดการฝ่ายบัญชีและการเงิน (จ.ชัยภูมิ)(เงินเดือน 60-80K)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-96",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j282169-24",
+      "title": "Senior Accountant",
+      "company": "บริษัท มหาสารคามเพาเวอร์ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j282169-24",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-166",
+      "title": "Junior Account General Officer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-166",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j30700-200",
+      "title": "Hotel Accountant",
+      "company": "บริษัท นานมีบุ๊คส์ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j30700-200",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-211",
+      "title": "Junior Accounts Receivable Officer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-211",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j20995-456",
+      "title": "Locals Project Leader (สถานที่ปฏิบัติงาน ศูนย์ขอนแก่น)",
+      "company": "องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j20995-456",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-216",
+      "title": "Marketing Officer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-216",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j257271-69",
+      "title": "Agent Growth & Community Lead",
+      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j257271-69",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j302-895",
+      "title": "Data Analytic Officer(Nakhon Ratchasima)",
+      "company": "บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน)/บริษัท ซีพีเอฟ (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j302-895",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-27",
+      "title": "Business Development Officer (เจ้าหน้าที่ฝ่ายพัฒนาธุรกิจ)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-27",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1097-1127",
+      "title": "Marketing Manager (Northeastern Region)",
+      "company": "บริษัท ซีพี เอ็กตร้า จำกัด (มหาชน) (Lotus's/ โลตัส)",
+      "location": "Udonthani",
+      "url": "https://www.jobtopgun.com/th/jobs/j1097-1127",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24697-303",
+      "title": "Head Of Marketing",
+      "company": "บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน) (สำนักงานใหญ่)",
+      "location": "Roi-et",
+      "url": "https://www.jobtopgun.com/th/jobs/j24697-303",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24697-302",
+      "title": "Marketing Officer",
+      "company": "บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน) (สำนักงานใหญ่)",
+      "location": "Roi-et",
+      "url": "https://www.jobtopgun.com/th/jobs/j24697-302",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1513-372",
+      "title": "เจ้าหน้าที่การตลาด ประจำสาขาขอนแก่น",
+      "company": "บริษัท นวกิจประกันภัย จำกัด (มหาชน)",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j1513-372",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4168-119",
+      "title": "ผู้อำนวยการฝ่ายขายและการตลาด",
+      "company": "บริษัท โรงงานทออวนเดชาพานิช จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j4168-119",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j257271-59",
+      "title": "Marketing Executive (Strategic Planner)",
+      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j257271-59",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22826-27",
+      "title": "วิศวกรระบบออโตเมชั่น",
+      "company": "บริษัท อุตสาหกรรมโคราช จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j22826-27",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j32-100036",
+      "title": "Electrical Maintenance Engineer - SCGP (ขอนแก่น)",
+      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j32-100036",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-144",
+      "title": "วิศวกรไฟฟ้า-อิเล็กทรอนิกส์",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-144",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-147",
+      "title": "วิศวกรเครื่องมือวัดและควบคุม",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-147",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j17576-80",
+      "title": "เจ้าหน้าที่ซ่อมบำรุงอาวุโส (รถบรรทุก 10 ล้อ, หัวลาก)",
+      "company": "บริษัท พูลอุดม จำกัด",
+      "location": "Nakhonratchasima, Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j17576-80",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-107",
+      "title": "ผู้ช่วยผู้จัดการวิศวกรรม",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-107",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-152",
+      "title": "วิศวกรส่วนซ่อมบำรุง",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-152",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j272687-9",
+      "title": "วิศวกรไฟฟ้า",
+      "company": "บริษัท เคเคอี จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j272687-9",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j296954-1",
+      "title": "วิศกรไฟฟ้า - ที เอส วาย เอ็นจิเนียริ่ง จำกัด",
+      "company": "",
+      "location": "Ubonratchathani",
+      "url": "https://www.jobtopgun.com/th/jobs/j296954-1",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j282169-27",
+      "title": "วิศวกรเครื่องกล/วิศวกรเครื่องกลอาวุโส",
+      "company": "บริษัท มหาสารคามเพาเวอร์ จำกัด",
+      "location": "Mahasarakham",
+      "url": "https://www.jobtopgun.com/th/jobs/j282169-27",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-132",
+      "title": "Engineering Manager",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-132",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j5973-715",
+      "title": "วิศวกรเครื่องกล (บุรีรัมย์)",
+      "company": "บริษัท สยาม มอดิฟายด์ สตาร์ช จำกัด, บริษัท สยาม ควอลิตี้ สตาร์ช จำกัด",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j5973-715",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j5973-742",
+      "title": "ผู้จัดการแผนกวิศวกรรมเครื่องกล",
+      "company": "บริษัท สยาม มอดิฟายด์ สตาร์ช จำกัด, บริษัท สยาม ควอลิตี้ สตาร์ช จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j5973-742",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j282169-25",
+      "title": "วิศกรไฟฟ้า / วิศวกรไฟฟ้าอาวุโส",
+      "company": "บริษัท มหาสารคามเพาเวอร์ จำกัด",
+      "location": "Mahasarakham",
+      "url": "https://www.jobtopgun.com/th/jobs/j282169-25",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-28",
+      "title": "Mine Geologist (Underground Geology)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-28",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j34210-58",
+      "title": "O&M Engineer (Waste to Energy Plant – Nakhon Ratchasima)",
+      "company": "บริษัท เสริมสร้าง พาวเวอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j34210-58",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j232743-4",
+      "title": "ผู้จัดการแผนกเครื่องมือวัด",
+      "company": "บริษัท อัพเวนเจอร์ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j232743-4",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24538-147",
+      "title": "วิศวกรชำนาญการ (PLC, SCADA, Automation)",
+      "company": "บริษัท นอร์ทอีส รับเบอร์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j24538-147",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-18",
+      "title": "Mining Enginer (วิศวกรเหมืองแร่)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-18",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-20",
+      "title": "Plant Mechanical Engineer (วิศวกรเครื่องกล)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-20",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-23",
+      "title": "Plant Automation & Instrument Engineer",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-23",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19033-181",
+      "title": "Senior Welfare and Benefits officer",
+      "company": "บริษัท ออโตคอร์ป โฮลดิ้ง จำกัด (มหาชน)",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j19033-181",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19673-155",
+      "title": "หัวหน้าแผนกบริหารทรัพยากรบุคคล",
+      "company": "บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j19673-155",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j249545-114",
+      "title": "HR Recruitment & Admin - Curiookids Thailand",
+      "company": "บริษัท เกรทเทอร์ กู๊ด เอ็ดดูเคชั่น จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j249545-114",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j302-886",
+      "title": "พนักงานฝึกสอนหน้าสาขา - ภาคอีสาน",
+      "company": "บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน)/บริษัท ซีพีเอฟ (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "Udonthani",
+      "url": "https://www.jobtopgun.com/th/jobs/j302-886",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24538-88",
+      "title": "ผู้จัดการฝ่ายบริหารทรัพยากรมนุษย์",
+      "company": "บริษัท นอร์ทอีส รับเบอร์ จำกัด (มหาชน)",
+      "location": "Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j24538-88",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j6588-272",
+      "title": "Shift Manager (Khon Kaen Site)",
+      "company": "บริษัท ซีเจ โลจิสติคส์ (ประเทศไทย) จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j6588-272",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j6588-280",
+      "title": "Site Operations Manager (Fulfillment WH) Khon Kaen",
+      "company": "บริษัท ซีเจ โลจิสติคส์ (ประเทศไทย) จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j6588-280",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j237940-117",
+      "title": "ผู้ช่วยผู้จัดการแผนกจัดส่งและคลังสินค้า (ชัยภูมิ)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-117",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j122093-16",
+      "title": "Oversea Purchasing Officer",
+      "company": "บริษัท เอ็นทีเอ็น เทรดดิ้ง-ประเทศไทย จำกัด (สำนักงานใหญ่)",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j122093-16",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j17576-88",
+      "title": "เจ้าหน้าที่สโตร์",
+      "company": "บริษัท พูลอุดม จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j17576-88",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4168-107",
+      "title": "เจ้าหน้าที่ธุรการสโตร์",
+      "company": "บริษัท โรงงานทออวนเดชาพานิช จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j4168-107",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1326-2269",
+      "title": "เจ้าหน้าที่ปฏิบัติการ (จ.นครราชสีมา)",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน)",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j1326-2269",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j24697-182",
+      "title": "Call Center",
+      "company": "บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน) (สำนักงานใหญ่)",
+      "location": "Roi-et",
+      "url": "https://www.jobtopgun.com/th/jobs/j24697-182",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j3482-345",
+      "title": "Senior Call Center Agent (ประจำศูนย์ขอนแก่น)",
+      "company": "บริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน)",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j3482-345",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-16",
+      "title": "Chinese Interpreter (ล่ามแปลภาษาจีน)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-16",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j19450-190",
+      "title": "อาจารย์ สาขาวิชาธุรกิจการบิน (วิทยาเขตขอนแก่น)",
+      "company": "มหาวิทยาลัยศรีปทุม",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j19450-190",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22826-33",
+      "title": "เจ้าหน้าที่ส่งเสริมการเกษตร",
+      "company": "บริษัท อุตสาหกรรมโคราช จำกัด",
+      "location": "Nakhonratchasima, Burirum",
+      "url": "https://www.jobtopgun.com/th/jobs/j22826-33",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-177",
+      "title": "Associate Lawyer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-177",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-224",
+      "title": "Legal Officer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-224",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobbkk-46471-517452",
+      "title": "วิศวกรขาย ระบบดับเพลิง",
+      "company": "บริษัท ไฟร์เทรดเอ็นจิเนียริ่ง จำกัด (มหาชน)",
+      "location": "กรุงเทพมหานคร(เขตลาดพร้าว,เขตห้วยขวาง,เขตวังทองหลาง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/46471/517452",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-29894-440039",
+      "title": "Sales Consultant (สาขาวิภาวดี สาขาบางแค)",
+      "company": "บริษัท บาเซโลนา มอเตอร์ จำกัด",
+      "location": "กรุงเทพมหานคร(เขตจตุจักร,เขตบางแค)",
+      "url": "https://jobbkk.com/jobs/detail/29894/440039",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-53888-963623",
+      "title": "เจ้าหน้าที่ส่งเสริมการขาย (Sales Representative) ประจำแม็คโคร สาขาหาดใหญ่",
+      "company": "บริษัท ซีพี แอ็กซ์ตร้า จำกัด ( มหาชน )",
+      "location": "กรุงเทพมหานคร(เขตสวนหลวง), สงขลา(หาดใหญ่)",
+      "url": "https://jobbkk.com/jobs/detailurgent/53888/963623",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-9950-752561",
+      "title": "Project Sales Engineer รับด่วน",
+      "company": "บริษัท เอแม็กซ์ อินเตอร์เทค จำกัด",
+      "location": "กรุงเทพมหานคร(เขตบางนา)",
+      "url": "https://jobbkk.com/jobs/detailurgent/9950/752561",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-192868-1134798",
+      "title": "ด่วน พนักงานขาย (PC) MDT4 โฮมโปร ขอนแก่น",
+      "company": "บริษัท เวฟ โปรดักท์ จำกัด",
+      "location": "ขอนแก่น(เมืองขอนแก่น)",
+      "url": "https://jobbkk.com/jobs/detailurgent/192868/1134798",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-192868-1281329",
+      "title": "ด่วน พนักงานขาย (PC) M09 ไทวัดุสาขาชัยภูมิ",
+      "company": "บริษัท เวฟ โปรดักท์ จำกัด",
+      "location": "ชัยภูมิ(เมืองชัยภูมิ)",
+      "url": "https://jobbkk.com/jobs/detailurgent/192868/1281329",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-192868-1270490",
+      "title": "ด่วน พนักงานขาย (PC) MDT4 ไทวัสดุมหาสารคาม",
+      "company": "บริษัท เวฟ โปรดักท์ จำกัด",
+      "location": "มหาสารคาม(เมืองมหาสารคาม)",
+      "url": "https://jobbkk.com/jobs/detailurgent/192868/1270490",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-192868-1273085",
+      "title": "พนักงานขาย (PC) MDT4 โกลบอลเฮ้าส์สาขามุกดาหาร",
+      "company": "บริษัท เวฟ โปรดักท์ จำกัด",
+      "location": "มุกดาหาร(เมืองมุกดาหาร)",
+      "url": "https://jobbkk.com/jobs/detailurgent/192868/1273085",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-192868-1270494",
+      "title": "ด่วน พนักงานขาย (PC) D09 ดูโฮมสาขาขอนแก่น",
+      "company": "บริษัท เวฟ โปรดักท์ จำกัด",
+      "location": "ขอนแก่น(เมืองขอนแก่น)",
+      "url": "https://jobbkk.com/jobs/detailurgent/192868/1270494",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1280419",
+      "title": "เจ้าหน้าที่สรรหาแฟรนไชส์ Franchise Development Officer (Chinese Speaking)",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1280419",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1386364",
+      "title": "",
+      "company": "",
+      "location": "",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1386364",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1386926",
+      "title": "เจ้าหน้าที่บัญชี Accountant",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1386926",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1387164",
+      "title": "ที่ปรึกษาด้านความสำเร็จแฟรนไชส์ Franchise Success Consultant (Chinese Speaking)",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1387164",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1301723",
+      "title": "เจ้าหน้าที่ฝึกอบรม Training Officer (สื่อสารภาษาจีน)",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1301723",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1381429",
+      "title": "เจ้าหน้าที่ฝึกอบรมภาคสนาม Field Trainer (Chinese Speaking)",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1381429",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-211134-1236646",
+      "title": "เจ้าหน้าที่แอดมิน แพ็คสินค้า (พนักงานประจำ - รายวัน)",
+      "company": "บริษัท คอมมอนมายด์ จำกัด",
+      "location": "กรุงเทพมหานคร(เขตคันนายาว,เขตจตุจักร,เขตมีนบุรี,เขตลาดพร้าว)",
+      "url": "https://jobbkk.com/jobs/detailurgent/211134/1236646",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-220565-1365240",
+      "title": "เจ้าหน้าที่บริหารแพลตฟอร์มเดลิเวอรี่ Delivery Platform Operations Specialist",
+      "company": "บริษัท มี่เสวี่ย ไทยแลนด์",
+      "location": "กรุงเทพมหานคร(เขตดินแดง)",
+      "url": "https://jobbkk.com/jobs/detailurgent/220565/1365240",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-21560-566242",
+      "title": "Sales Architect ( สถาปนิกขาย )",
+      "company": "กลุ่มบิวท์ ทู บิวด์",
+      "location": "กรุงเทพมหานคร(ทุกเขต)",
+      "url": "https://jobbkk.com/jobs/detailurgent/21560/566242",
+      "source": "JOBBKK"
+    },
+    {
+      "id": "jobbkk-21560-402255",
+      "title": "วิศวกร / โฟร์แมน ( คุมงานสร้างบ้าน )",
+      "company": "กลุ่มบิวท์ ทู บิวด์",
+      "location": "กรุงเทพมหานคร(เขตจตุจักร,เขตบางเขน,เขตราชเทวี,เขตลาดพร้าว)",
+      "url": "https://jobbkk.com/jobs/detailurgent/21560/402255",
+      "source": "JOBBKK"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import data from "../jobsData.json";
-import { Section, SkillBar, CATEGORY_COLOR } from "./ui.jsx";
+import { Section, SkillBar, CATEGORY_COLOR, CATEGORY_TH } from "./ui.jsx";
 
 const { meta, stats } = data;
 const topTechnical = stats.technical.slice(0, 10);
@@ -37,7 +37,7 @@ export default function Home() {
 
       <div className="wrap">
         <Section
-          title="ทักษะที่ประกาศงานต้องการมากที่สุด 10 อันดับ"
+          title="Hard Skills ที่ประกาศงานต้องการมากที่สุด 10 อันดับ"
           sub={`นับจากประกาศ ${meta.confirmedKalasin} รายการที่ยืนยันว่าอยู่ในจังหวัดกาฬสินธุ์`}
         >
           <div>
@@ -55,7 +55,7 @@ export default function Home() {
           <div className="catgrid">
             {stats.byCategory.filter(c => c.jobCount > 0).map(cat => (
               <div key={cat.category} className="catcard" style={{ "--cc": CATEGORY_COLOR[cat.category] }}>
-                <h3>{cat.category}</h3>
+                <h3>{cat.category}<small>{CATEGORY_TH[cat.category]}</small></h3>
                 <div className="cnt">
                   {cat.jobCount} ประกาศ · {Math.round((cat.jobCount / meta.confirmedKalasin) * 100)}% ของทั้งหมด
                 </div>
@@ -78,7 +78,7 @@ export default function Home() {
               <tbody>
                 {stats.requirements.map(item => (
                   <tr key={item.name}>
-                    <td>{item.name}</td>
+                    <td>{item.name}<br /><small className="mut">{item.nameTh}</small></td>
                     <td className="r mono">{item.count}</td>
                     <td className="r mono">{item.percent}%</td>
                   </tr>

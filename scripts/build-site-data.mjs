@@ -12,7 +12,8 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { DATA_DIR, ROOT, today } from "./lib.mjs";
 import {
-  SKILL_CATEGORIES, buildSkillCounts, inferRequirementsFromText, inferSkillsFromText,
+  SKILL_CATEGORIES, SOFT_CATEGORY,
+  buildSkillCounts, inferRequirementsFromText, inferSkillsFromText,
 } from "./skill-taxonomy-th.mjs";
 import { writeFile } from "node:fs/promises";
 
@@ -83,8 +84,8 @@ const kalasinJobs = jobs.filter(job => job.inKalasin);
 
 /* ---------- สถิติ ---------- */
 
-const technical = buildSkillCounts(kalasinJobs).filter(s => s.category !== "ทักษะเชิงพฤติกรรม");
-const soft = buildSkillCounts(kalasinJobs, { category: "ทักษะเชิงพฤติกรรม" });
+const technical = buildSkillCounts(kalasinJobs).filter(s => s.category !== SOFT_CATEGORY);
+const soft = buildSkillCounts(kalasinJobs, { category: SOFT_CATEGORY });
 
 const byCategory = SKILL_CATEGORIES.map(category => {
   const skills = buildSkillCounts(kalasinJobs, { category });
@@ -98,11 +99,15 @@ const byCategory = SKILL_CATEGORIES.map(category => {
 const requirementCounts = (() => {
   const totals = new Map();
   for (const job of kalasinJobs) {
-    for (const tag of job.requirements) totals.set(tag, (totals.get(tag) || 0) + 1);
+    for (const tag of job.requirements) {
+      const current = totals.get(tag.name) || { ...tag, count: 0 };
+      current.count += 1;
+      totals.set(tag.name, current);
+    }
   }
-  return [...totals.entries()]
-    .map(([name, count]) => ({
-      name, count, percent: Math.round((count / (kalasinJobs.length || 1)) * 1000) / 10,
+  return [...totals.values()]
+    .map(item => ({
+      ...item, percent: Math.round((item.count / (kalasinJobs.length || 1)) * 1000) / 10,
     }))
     .sort((a, b) => b.count - a.count);
 })();

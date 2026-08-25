@@ -23,10 +23,11 @@ export function Section({ title, sub, children, id }) {
 
 /* แถบสัดส่วน — ความยาวคิดเทียบกับทักษะอันดับหนึ่ง ไม่ใช่เทียบ 100%
    เพราะไม่มีทักษะใดปรากฏในทุกประกาศ ถ้าเทียบ 100% แถบจะสั้นจนอ่านลำดับไม่ออก */
-export function SkillBar({ name, category, count, percent, max, color }) {
+/* ชื่อทักษะแสดงเป็นภาษาอังกฤษให้เทียบกรอบสากลได้ โดยมีคำแปลไทยกำกับบรรทัดล่าง */
+export function SkillBar({ name, nameTh, count, percent, max, color }) {
   return (
     <div className="skillrow">
-      <div className="nm">{name}{category && <small>{category}</small>}</div>
+      <div className="nm">{name}{nameTh && <small>{nameTh}</small>}</div>
       <div className="bar">
         <i style={{ width: `${Math.max(3, (count / max) * 100)}%`, "--bc": color }} />
       </div>
@@ -36,12 +37,22 @@ export function SkillBar({ name, category, count, percent, max, color }) {
 }
 
 export const CATEGORY_COLOR = {
-  "การขายและการตลาด": "var(--c1)",
-  "บัญชีและการเงิน": "var(--c2)",
-  "การผลิตและวิศวกรรม": "var(--c3)",
-  "ดิจิทัลและไอที": "var(--c5)",
-  "โลจิสติกส์": "var(--c6)",
-  "เกษตรและอาหาร": "var(--c4)",
-  "บริการและสุขภาพ": "var(--c7)",
-  "ทักษะเชิงพฤติกรรม": "var(--gold)",
+  "Sales & Marketing": "var(--c1)",
+  "Business & Finance": "var(--c2)",
+  "Engineering & Manufacturing": "var(--c3)",
+  "Computer & Digital": "var(--c5)",
+  "Supply Chain & Logistics": "var(--c6)",
+  "Applied Sciences": "var(--c4)",
+  "Soft Skills": "var(--gold)",
+};
+
+/* คำแปลหมวดสำหรับหัวข้อบนหน้าเว็บ */
+export const CATEGORY_TH = {
+  "Sales & Marketing": "งานขายและการตลาด",
+  "Business & Finance": "ธุรกิจและการเงิน",
+  "Engineering & Manufacturing": "วิศวกรรมและการผลิต",
+  "Computer & Digital": "คอมพิวเตอร์และดิจิทัล",
+  "Supply Chain & Logistics": "ซัพพลายเชนและโลจิสติกส์",
+  "Applied Sciences": "วิทยาศาสตร์ประยุกต์และวิชาชีพเฉพาะ",
+  "Soft Skills": "ทักษะเชิงพฤติกรรม",
 };

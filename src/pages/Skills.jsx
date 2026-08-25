@@ -1,6 +1,6 @@
 import { useState } from "react";
 import data from "../jobsData.json";
-import { PageHead, Section, SkillBar, CATEGORY_COLOR } from "./ui.jsx";
+import { PageHead, Section, SkillBar, CATEGORY_COLOR, CATEGORY_TH } from "./ui.jsx";
 
 const { meta, stats } = data;
 const ALL = "ทั้งหมด";
@@ -20,11 +20,11 @@ export default function Skills() {
       <PageHead
         eyebrow="ผลการสกัดทักษะ"
         title="ทักษะที่ประกาศงานในกาฬสินธุ์ต้องการ"
-        lead={`สกัดจากชื่อตำแหน่งและเนื้อประกาศของงาน ${meta.confirmedKalasin} รายการ ด้วยทะเบียนทักษะภาษาไทยที่เขียนขึ้นสำหรับตลาดแรงงานระดับจังหวัดโดยเฉพาะ`}
+        lead={`สกัดจากเนื้อประกาศฉบับเต็มของงาน ${meta.confirmedKalasin} รายการ · ชื่อทักษะใช้ภาษาอังกฤษเพื่อเทียบกับกรอบสากลได้ พร้อมคำแปลไทยกำกับ`}
       />
 
       <div className="wrap">
-        <Section title="ทักษะเชิงเทคนิค" sub="เรียงตามจำนวนประกาศที่พบทักษะนั้น">
+        <Section title="Hard Skills — ทักษะเชิงเทคนิค" sub="ความรู้หรือการฝึกอบรมเฉพาะทางที่เรียนได้และวัดผลได้ · เรียงตามจำนวนประกาศที่พบ">
           <div className="filters">
             {categories.map(category => (
               <button
@@ -47,7 +47,7 @@ export default function Skills() {
         </Section>
 
         <Section
-          title="ทักษะเชิงพฤติกรรม"
+          title="Soft Skills — ทักษะเชิงพฤติกรรม"
           sub={`ใช้ชุดเดียวกันทุกสายงานเพื่อให้เทียบข้ามอาชีพได้ · สกัดจากเนื้อประกาศฉบับเต็มครบทั้ง ${meta.withDescription} รายการ`}
         >
           <div>
@@ -66,7 +66,7 @@ export default function Skills() {
           <div className="catgrid">
             {stats.byCategory.filter(c => c.skills.length).map(cat => (
               <div key={cat.category} className="catcard" style={{ "--cc": CATEGORY_COLOR[cat.category] }}>
-                <h3>{cat.category}</h3>
+                <h3>{cat.category}<small>{CATEGORY_TH[cat.category]}</small></h3>
                 <div className="cnt">{cat.jobCount} ประกาศ · {cat.skills.length} ทักษะ</div>
                 <div className="scroll-x">
                   <table className="tbl">
@@ -74,7 +74,7 @@ export default function Skills() {
                     <tbody>
                       {cat.skills.map(skill => (
                         <tr key={skill.name}>
-                          <td>{skill.name}</td>
+                          <td>{skill.name}<br /><small className="mut">{skill.nameTh}</small></td>
                           <td className="r mono">{skill.count}</td>
                         </tr>
                       ))}

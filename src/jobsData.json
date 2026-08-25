@@ -131,471 +131,455 @@
   "stats": {
     "technical": [
       {
-        "name": "งานขายและปิดการขาย",
-        "category": "การขายและการตลาด",
+        "name": "Sales & Business Development",
+        "nameTh": "งานขายและขยายตลาด",
+        "category": "Sales & Marketing",
         "count": 29,
         "percent": 60.4
       },
       {
-        "name": "การนำเสนอและเจรจาต่อรอง",
-        "category": "การขายและการตลาด",
-        "count": 13,
-        "percent": 27.1
-      },
-      {
-        "name": "การเงินและสินเชื่อ",
-        "category": "บัญชีและการเงิน",
+        "name": "Driving & Vehicle Operation",
+        "nameTh": "การขับขี่ยานพาหนะ",
+        "category": "Supply Chain & Logistics",
         "count": 12,
         "percent": 25
       },
       {
-        "name": "ขับรถและงานภาคสนาม",
-        "category": "โลจิสติกส์",
-        "count": 12,
-        "percent": 25
-      },
-      {
-        "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-        "category": "บริการและสุขภาพ",
-        "count": 11,
-        "percent": 22.9
-      },
-      {
-        "name": "คอมพิวเตอร์พื้นฐาน",
-        "category": "ดิจิทัลและไอที",
+        "name": "Computer Literacy",
+        "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+        "category": "Computer & Digital",
         "count": 10,
         "percent": 20.8
       },
       {
-        "name": "Microsoft Office",
-        "category": "ดิจิทัลและไอที",
+        "name": "Credit & Lending",
+        "nameTh": "สินเชื่อและการเงิน",
+        "category": "Business & Finance",
         "count": 9,
         "percent": 18.8
       },
       {
-        "name": "ความปลอดภัยและอาชีวอนามัย",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "Microsoft Office",
+        "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+        "category": "Computer & Digital",
+        "count": 9,
+        "percent": 18.8
+      },
+      {
+        "name": "Inventory & Warehouse Management",
+        "nameTh": "คลังสินค้าและสต๊อก",
+        "category": "Supply Chain & Logistics",
         "count": 8,
         "percent": 16.7
       },
       {
-        "name": "คลังสินค้าและสต๊อก",
-        "category": "โลจิสติกส์",
+        "name": "Occupational Health & Safety",
+        "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+        "category": "Engineering & Manufacturing",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "Clinical & Nursing Practice",
+        "nameTh": "การพยาบาลและเวชปฏิบัติ",
+        "category": "Applied Sciences",
         "count": 7,
         "percent": 14.6
       },
       {
-        "name": "งานก่อสร้างและโยธา",
-        "category": "การผลิตและวิศวกรรม",
-        "count": 7,
-        "percent": 14.6
-      },
-      {
-        "name": "งานสุขภาพและพยาบาล",
-        "category": "บริการและสุขภาพ",
-        "count": 7,
-        "percent": 14.6
-      },
-      {
-        "name": "ขนส่งและกระจายสินค้า",
-        "category": "โลจิสติกส์",
+        "name": "ISO / GMP / HACCP Standards",
+        "nameTh": "ระบบมาตรฐานสากล",
+        "category": "Engineering & Manufacturing",
         "count": 6,
         "percent": 12.5
       },
       {
-        "name": "งานขายหน้าร้านและบริการลูกค้า",
-        "category": "การขายและการตลาด",
+        "name": "Logistics & Distribution",
+        "nameTh": "ขนส่งและกระจายสินค้า",
+        "category": "Supply Chain & Logistics",
         "count": 6,
         "percent": 12.5
       },
       {
-        "name": "ระบบมาตรฐาน ISO และ GMP",
-        "category": "การผลิตและวิศวกรรม",
-        "count": 6,
-        "percent": 12.5
-      },
-      {
-        "name": "การวางแผนการตลาด",
-        "category": "การขายและการตลาด",
+        "name": "Document & Records Management",
+        "nameTh": "งานเอกสารและธุรการ",
+        "category": "Business & Finance",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "ควบคุมการผลิต",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "Electrical Systems",
+        "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+        "category": "Engineering & Manufacturing",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "งานธุรการและเอกสาร",
-        "category": "บัญชีและการเงิน",
+        "name": "Food Processing Technology",
+        "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+        "category": "Applied Sciences",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "Marketing Strategy & Promotion",
+        "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+        "category": "Sales & Marketing",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "อุตสาหกรรมอาหารและแปรรูป",
-        "category": "เกษตรและอาหาร",
+        "name": "Production Planning & Control",
+        "nameTh": "วางแผนและควบคุมการผลิต",
+        "category": "Engineering & Manufacturing",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "การดูแลความสัมพันธ์ลูกค้า",
-        "category": "การขายและการตลาด",
+        "name": "Account & Client Management",
+        "nameTh": "ดูแลลูกค้ารายสำคัญ",
+        "category": "Sales & Marketing",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "ควบคุมคุณภาพ QA/QC",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "Accounting & Financial Reporting",
+        "nameTh": "บัญชีและงบการเงิน",
+        "category": "Business & Finance",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "งานบุคคลและสรรหา",
-        "category": "บัญชีและการเงิน",
+        "name": "HR & Payroll Administration",
+        "nameTh": "งานบุคคลและเงินเดือน",
+        "category": "Business & Finance",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "บัญชีและงบการเงิน",
-        "category": "บัญชีและการเงิน",
+        "name": "Quality Control (QA/QC)",
+        "nameTh": "ควบคุมคุณภาพ",
+        "category": "Engineering & Manufacturing",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "Excel และการจัดการข้อมูล",
-        "category": "ดิจิทัลและไอที",
+        "name": "Spreadsheets & Data Entry",
+        "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+        "category": "Computer & Digital",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "การเกษตรและปศุสัตว์",
-        "category": "เกษตรและอาหาร",
+        "name": "Agricultural & Livestock Practice",
+        "nameTh": "วิชาชีพเกษตรและปศุสัตว์",
+        "category": "Applied Sciences",
         "count": 3,
         "percent": 6.3
       },
       {
-        "name": "งานอาหารและเครื่องดื่ม",
-        "category": "บริการและสุขภาพ",
+        "name": "Laboratory & Testing",
+        "nameTh": "ปฏิบัติการห้องแล็บ",
+        "category": "Applied Sciences",
         "count": 3,
         "percent": 6.3
       },
       {
-        "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
-        "category": "เกษตรและอาหาร",
-        "count": 3,
-        "percent": 6.3
-      },
-      {
-        "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
-        "category": "ดิจิทัลและไอที",
+        "name": "Digital Marketing & Social Media",
+        "nameTh": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+        "category": "Computer & Digital",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "การหาลูกค้าใหม่และขยายตลาด",
-        "category": "การขายและการตลาด",
+        "name": "Mechanical & Welding",
+        "nameTh": "งานเครื่องกลและงานเชื่อม",
+        "category": "Engineering & Manufacturing",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "งานเครื่องกลและงานเชื่อม",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "PLC & Industrial Automation",
+        "nameTh": "PLC และระบบอัตโนมัติ",
+        "category": "Engineering & Manufacturing",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "จัดซื้อและจัดหา",
-        "category": "บัญชีและการเงิน",
+        "name": "Point-of-Sale Systems",
+        "nameTh": "ระบบขายหน้าร้าน",
+        "category": "Computer & Digital",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "ระบบอัตโนมัติ PLC และการควบคุม",
-        "category": "การผลิตและวิศวกรรม",
-        "count": 2,
-        "percent": 4.2
-      },
-      {
-        "name": "การพัฒนาซอฟต์แวร์",
-        "category": "ดิจิทัลและไอที",
+        "name": "CAD & Technical Drawing",
+        "nameTh": "เขียนแบบและ CAD",
+        "category": "Engineering & Manufacturing",
         "count": 1,
         "percent": 2.1
       },
       {
-        "name": "การสอนและฝึกอบรม",
-        "category": "บริการและสุขภาพ",
+        "name": "Equipment Maintenance",
+        "nameTh": "ซ่อมบำรุงเครื่องจักร",
+        "category": "Engineering & Manufacturing",
         "count": 1,
         "percent": 2.1
       },
       {
-        "name": "ซ่อมบำรุงเครื่องจักร",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "IT Support & Networking",
+        "nameTh": "ดูแลระบบและเครือข่าย",
+        "category": "Computer & Digital",
         "count": 1,
         "percent": 2.1
       },
       {
-        "name": "ฐานข้อมูลและ SQL",
-        "category": "ดิจิทัลและไอที",
+        "name": "Procurement & Purchasing",
+        "nameTh": "จัดซื้อจัดหา",
+        "category": "Business & Finance",
         "count": 1,
         "percent": 2.1
       },
       {
-        "name": "ดูแลระบบเครือข่ายและ IT Support",
-        "category": "ดิจิทัลและไอที",
+        "name": "Software Development",
+        "nameTh": "การพัฒนาซอฟต์แวร์",
+        "category": "Computer & Digital",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "SQL & Database Management",
+        "nameTh": "ฐานข้อมูลและ SQL",
+        "category": "Computer & Digital",
+        "count": 1,
+        "percent": 2.1
+      },
+      {
+        "name": "Teaching & Training Delivery",
+        "nameTh": "การสอนและฝึกอบรม",
+        "category": "Applied Sciences",
         "count": 1,
         "percent": 2.1
       }
     ],
     "soft": [
       {
-        "name": "การประสานงานข้ามหน่วยงาน",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Cross-functional Coordination",
+        "nameTh": "การประสานงานข้ามหน่วยงาน",
+        "category": "Soft Skills",
         "count": 18,
         "percent": 37.5
       },
       {
-        "name": "การสื่อสาร",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Customer Service Orientation",
+        "nameTh": "ใจรักบริการ",
+        "category": "Soft Skills",
+        "count": 15,
+        "percent": 31.3
+      },
+      {
+        "name": "Communication",
+        "nameTh": "การสื่อสาร",
+        "category": "Soft Skills",
         "count": 13,
         "percent": 27.1
       },
       {
-        "name": "การแก้ปัญหา",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Problem Solving",
+        "nameTh": "การแก้ปัญหา",
+        "category": "Soft Skills",
         "count": 12,
         "percent": 25
       },
       {
-        "name": "การวางแผนและจัดลำดับงาน",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Presentation & Public Speaking",
+        "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+        "category": "Soft Skills",
+        "count": 11,
+        "percent": 22.9
+      },
+      {
+        "name": "Dependability & Integrity",
+        "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+        "category": "Soft Skills",
         "count": 8,
         "percent": 16.7
       },
       {
-        "name": "ความรับผิดชอบ",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 8,
-        "percent": 16.7
-      },
-      {
-        "name": "การเรียนรู้และพัฒนาตนเอง",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Adaptability & Willingness to Learn",
+        "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+        "category": "Soft Skills",
         "count": 7,
         "percent": 14.6
       },
       {
-        "name": "ความอดทนและแรงกดดัน",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Negotiation & Persuasion",
+        "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+        "category": "Soft Skills",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "Resilience Under Pressure",
+        "nameTh": "ความอดทนต่อแรงกดดัน",
+        "category": "Soft Skills",
         "count": 6,
         "percent": 12.5
       },
       {
-        "name": "ใจรักบริการ",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 6,
-        "percent": 12.5
-      },
-      {
-        "name": "การทำงานเป็นทีม",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Teamwork",
+        "nameTh": "การทำงานเป็นทีม",
+        "category": "Soft Skills",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "ภาวะผู้นำและการบริหารทีม",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Leadership & People Management",
+        "nameTh": "ภาวะผู้นำและการบริหารทีม",
+        "category": "Soft Skills",
         "count": 3,
         "percent": 6.3
       },
       {
-        "name": "ความละเอียดรอบคอบ",
-        "category": "ทักษะเชิงพฤติกรรม",
+        "name": "Attention to Detail",
+        "nameTh": "ความละเอียดรอบคอบ",
+        "category": "Soft Skills",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "Planning & Time Management",
+        "nameTh": "การวางแผนและบริหารเวลา",
+        "category": "Soft Skills",
         "count": 2,
         "percent": 4.2
       }
     ],
     "byCategory": [
       {
-        "category": "การขายและการตลาด",
+        "category": "Sales & Marketing",
         "skills": [
           {
-            "name": "งานขายและปิดการขาย",
-            "category": "การขายและการตลาด",
+            "name": "Sales & Business Development",
+            "nameTh": "งานขายและขยายตลาด",
+            "category": "Sales & Marketing",
             "count": 29,
             "percent": 60.4
           },
           {
-            "name": "การนำเสนอและเจรจาต่อรอง",
-            "category": "การขายและการตลาด",
-            "count": 13,
-            "percent": 27.1
-          },
-          {
-            "name": "งานขายหน้าร้านและบริการลูกค้า",
-            "category": "การขายและการตลาด",
-            "count": 6,
-            "percent": 12.5
-          },
-          {
-            "name": "การวางแผนการตลาด",
-            "category": "การขายและการตลาด",
+            "name": "Marketing Strategy & Promotion",
+            "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+            "category": "Sales & Marketing",
             "count": 5,
             "percent": 10.4
           },
           {
-            "name": "การดูแลความสัมพันธ์ลูกค้า",
-            "category": "การขายและการตลาด",
+            "name": "Account & Client Management",
+            "nameTh": "ดูแลลูกค้ารายสำคัญ",
+            "category": "Sales & Marketing",
             "count": 4,
             "percent": 8.3
-          },
-          {
-            "name": "การหาลูกค้าใหม่และขยายตลาด",
-            "category": "การขายและการตลาด",
-            "count": 2,
-            "percent": 4.2
           }
         ],
-        "jobCount": 32
+        "jobCount": 29
       },
       {
-        "category": "ดิจิทัลและไอที",
+        "category": "Computer & Digital",
         "skills": [
           {
-            "name": "คอมพิวเตอร์พื้นฐาน",
-            "category": "ดิจิทัลและไอที",
+            "name": "Computer Literacy",
+            "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+            "category": "Computer & Digital",
             "count": 10,
             "percent": 20.8
           },
           {
             "name": "Microsoft Office",
-            "category": "ดิจิทัลและไอที",
+            "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+            "category": "Computer & Digital",
             "count": 9,
             "percent": 18.8
           },
           {
-            "name": "Excel และการจัดการข้อมูล",
-            "category": "ดิจิทัลและไอที",
+            "name": "Spreadsheets & Data Entry",
+            "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+            "category": "Computer & Digital",
             "count": 4,
             "percent": 8.3
           },
           {
-            "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
-            "category": "ดิจิทัลและไอที",
+            "name": "Digital Marketing & Social Media",
+            "nameTh": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+            "category": "Computer & Digital",
             "count": 2,
             "percent": 4.2
           },
           {
-            "name": "การพัฒนาซอฟต์แวร์",
-            "category": "ดิจิทัลและไอที",
+            "name": "Point-of-Sale Systems",
+            "nameTh": "ระบบขายหน้าร้าน",
+            "category": "Computer & Digital",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "IT Support & Networking",
+            "nameTh": "ดูแลระบบและเครือข่าย",
+            "category": "Computer & Digital",
             "count": 1,
             "percent": 2.1
           },
           {
-            "name": "ฐานข้อมูลและ SQL",
-            "category": "ดิจิทัลและไอที",
+            "name": "Software Development",
+            "nameTh": "การพัฒนาซอฟต์แวร์",
+            "category": "Computer & Digital",
             "count": 1,
             "percent": 2.1
           },
           {
-            "name": "ดูแลระบบเครือข่ายและ IT Support",
-            "category": "ดิจิทัลและไอที",
+            "name": "SQL & Database Management",
+            "nameTh": "ฐานข้อมูลและ SQL",
+            "category": "Computer & Digital",
             "count": 1,
             "percent": 2.1
           }
         ],
-        "jobCount": 19
+        "jobCount": 20
       },
       {
-        "category": "บัญชีและการเงิน",
+        "category": "Business & Finance",
         "skills": [
           {
-            "name": "การเงินและสินเชื่อ",
-            "category": "บัญชีและการเงิน",
-            "count": 12,
-            "percent": 25
+            "name": "Credit & Lending",
+            "nameTh": "สินเชื่อและการเงิน",
+            "category": "Business & Finance",
+            "count": 9,
+            "percent": 18.8
           },
           {
-            "name": "งานธุรการและเอกสาร",
-            "category": "บัญชีและการเงิน",
+            "name": "Document & Records Management",
+            "nameTh": "งานเอกสารและธุรการ",
+            "category": "Business & Finance",
             "count": 5,
             "percent": 10.4
           },
           {
-            "name": "งานบุคคลและสรรหา",
-            "category": "บัญชีและการเงิน",
+            "name": "Accounting & Financial Reporting",
+            "nameTh": "บัญชีและงบการเงิน",
+            "category": "Business & Finance",
             "count": 4,
             "percent": 8.3
           },
           {
-            "name": "บัญชีและงบการเงิน",
-            "category": "บัญชีและการเงิน",
+            "name": "HR & Payroll Administration",
+            "nameTh": "งานบุคคลและเงินเดือน",
+            "category": "Business & Finance",
             "count": 4,
             "percent": 8.3
           },
           {
-            "name": "จัดซื้อและจัดหา",
-            "category": "บัญชีและการเงิน",
-            "count": 2,
-            "percent": 4.2
-          }
-        ],
-        "jobCount": 19
-      },
-      {
-        "category": "โลจิสติกส์",
-        "skills": [
-          {
-            "name": "ขับรถและงานภาคสนาม",
-            "category": "โลจิสติกส์",
-            "count": 12,
-            "percent": 25
-          },
-          {
-            "name": "คลังสินค้าและสต๊อก",
-            "category": "โลจิสติกส์",
-            "count": 7,
-            "percent": 14.6
-          },
-          {
-            "name": "ขนส่งและกระจายสินค้า",
-            "category": "โลจิสติกส์",
-            "count": 6,
-            "percent": 12.5
-          }
-        ],
-        "jobCount": 18
-      },
-      {
-        "category": "บริการและสุขภาพ",
-        "skills": [
-          {
-            "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-            "category": "บริการและสุขภาพ",
-            "count": 11,
-            "percent": 22.9
-          },
-          {
-            "name": "งานสุขภาพและพยาบาล",
-            "category": "บริการและสุขภาพ",
-            "count": 7,
-            "percent": 14.6
-          },
-          {
-            "name": "งานอาหารและเครื่องดื่ม",
-            "category": "บริการและสุขภาพ",
-            "count": 3,
-            "percent": 6.3
-          },
-          {
-            "name": "การสอนและฝึกอบรม",
-            "category": "บริการและสุขภาพ",
+            "name": "Procurement & Purchasing",
+            "nameTh": "จัดซื้อจัดหา",
+            "category": "Business & Finance",
             "count": 1,
             "percent": 2.1
           }
@@ -603,123 +587,183 @@
         "jobCount": 18
       },
       {
-        "category": "การผลิตและวิศวกรรม",
+        "category": "Supply Chain & Logistics",
         "skills": [
           {
-            "name": "ความปลอดภัยและอาชีวอนามัย",
-            "category": "การผลิตและวิศวกรรม",
+            "name": "Driving & Vehicle Operation",
+            "nameTh": "การขับขี่ยานพาหนะ",
+            "category": "Supply Chain & Logistics",
+            "count": 12,
+            "percent": 25
+          },
+          {
+            "name": "Inventory & Warehouse Management",
+            "nameTh": "คลังสินค้าและสต๊อก",
+            "category": "Supply Chain & Logistics",
             "count": 8,
             "percent": 16.7
           },
           {
-            "name": "งานก่อสร้างและโยธา",
-            "category": "การผลิตและวิศวกรรม",
+            "name": "Logistics & Distribution",
+            "nameTh": "ขนส่งและกระจายสินค้า",
+            "category": "Supply Chain & Logistics",
+            "count": 6,
+            "percent": 12.5
+          }
+        ],
+        "jobCount": 18
+      },
+      {
+        "category": "Applied Sciences",
+        "skills": [
+          {
+            "name": "Clinical & Nursing Practice",
+            "nameTh": "การพยาบาลและเวชปฏิบัติ",
+            "category": "Applied Sciences",
             "count": 7,
             "percent": 14.6
           },
           {
-            "name": "ระบบมาตรฐาน ISO และ GMP",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 6,
-            "percent": 12.5
-          },
-          {
-            "name": "ควบคุมการผลิต",
-            "category": "การผลิตและวิศวกรรม",
+            "name": "Food Processing Technology",
+            "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+            "category": "Applied Sciences",
             "count": 5,
             "percent": 10.4
           },
           {
-            "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 5,
-            "percent": 10.4
+            "name": "Agricultural & Livestock Practice",
+            "nameTh": "วิชาชีพเกษตรและปศุสัตว์",
+            "category": "Applied Sciences",
+            "count": 3,
+            "percent": 6.3
           },
           {
-            "name": "ควบคุมคุณภาพ QA/QC",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 4,
-            "percent": 8.3
+            "name": "Laboratory & Testing",
+            "nameTh": "ปฏิบัติการห้องแล็บ",
+            "category": "Applied Sciences",
+            "count": 3,
+            "percent": 6.3
           },
           {
-            "name": "งานเครื่องกลและงานเชื่อม",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
-            "name": "ระบบอัตโนมัติ PLC และการควบคุม",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
-            "name": "ซ่อมบำรุงเครื่องจักร",
-            "category": "การผลิตและวิศวกรรม",
+            "name": "Teaching & Training Delivery",
+            "nameTh": "การสอนและฝึกอบรม",
+            "category": "Applied Sciences",
             "count": 1,
             "percent": 2.1
           }
         ],
-        "jobCount": 17
+        "jobCount": 15
       },
       {
-        "category": "เกษตรและอาหาร",
+        "category": "Engineering & Manufacturing",
         "skills": [
           {
-            "name": "อุตสาหกรรมอาหารและแปรรูป",
-            "category": "เกษตรและอาหาร",
+            "name": "Occupational Health & Safety",
+            "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+            "category": "Engineering & Manufacturing",
+            "count": 8,
+            "percent": 16.7
+          },
+          {
+            "name": "ISO / GMP / HACCP Standards",
+            "nameTh": "ระบบมาตรฐานสากล",
+            "category": "Engineering & Manufacturing",
+            "count": 6,
+            "percent": 12.5
+          },
+          {
+            "name": "Electrical Systems",
+            "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+            "category": "Engineering & Manufacturing",
             "count": 5,
             "percent": 10.4
           },
           {
-            "name": "การเกษตรและปศุสัตว์",
-            "category": "เกษตรและอาหาร",
-            "count": 3,
-            "percent": 6.3
+            "name": "Production Planning & Control",
+            "nameTh": "วางแผนและควบคุมการผลิต",
+            "category": "Engineering & Manufacturing",
+            "count": 5,
+            "percent": 10.4
           },
           {
-            "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
-            "category": "เกษตรและอาหาร",
-            "count": 3,
-            "percent": 6.3
+            "name": "Quality Control (QA/QC)",
+            "nameTh": "ควบคุมคุณภาพ",
+            "category": "Engineering & Manufacturing",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "Mechanical & Welding",
+            "nameTh": "งานเครื่องกลและงานเชื่อม",
+            "category": "Engineering & Manufacturing",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "PLC & Industrial Automation",
+            "nameTh": "PLC และระบบอัตโนมัติ",
+            "category": "Engineering & Manufacturing",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "CAD & Technical Drawing",
+            "nameTh": "เขียนแบบและ CAD",
+            "category": "Engineering & Manufacturing",
+            "count": 1,
+            "percent": 2.1
+          },
+          {
+            "name": "Equipment Maintenance",
+            "nameTh": "ซ่อมบำรุงเครื่องจักร",
+            "category": "Engineering & Manufacturing",
+            "count": 1,
+            "percent": 2.1
           }
         ],
-        "jobCount": 8
+        "jobCount": 12
       }
     ],
     "requirements": [
       {
-        "name": "ต้องมีประสบการณ์",
+        "name": "Prior experience required",
+        "nameTh": "ต้องมีประสบการณ์",
         "count": 32,
         "percent": 66.7
       },
       {
-        "name": "ปริญญาตรีขึ้นไป",
+        "name": "Bachelor's degree or higher",
+        "nameTh": "ปริญญาตรีขึ้นไป",
         "count": 26,
         "percent": 54.2
       },
       {
-        "name": "ปวส./ปวช.",
+        "name": "Vocational certificate",
+        "nameTh": "ปวส./ปวช.",
         "count": 18,
         "percent": 37.5
       },
       {
-        "name": "ใบอนุญาตขับขี่",
+        "name": "Driving licence",
+        "nameTh": "ใบอนุญาตขับขี่",
         "count": 13,
         "percent": 27.1
       },
       {
-        "name": "ยินดีรับนักศึกษาจบใหม่",
+        "name": "New graduates welcome",
+        "nameTh": "ยินดีรับนักศึกษาจบใหม่",
         "count": 11,
         "percent": 22.9
       },
       {
-        "name": "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "name": "Own vehicle",
+        "nameTh": "มีพาหนะส่วนตัว",
         "count": 8,
         "percent": 16.7
       },
       {
-        "name": "ภาษาอังกฤษ",
+        "name": "English proficiency",
+        "nameTh": "ความสามารถภาษาอังกฤษ",
         "count": 4,
         "percent": 8.3
       }
@@ -813,42 +857,59 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - นำเสนอผลิตภัณฑ์สินเชื่อและบัตรอิออนให้กับลูกค้า - แนะนำข้อมูลสิทธิประโยชน์และการบริการให้กับลูกค้า - ออกบูธประชาสัมพันธ์บัตรอิออนตามพื้นที่ในเขตที่ตัวเองรับผิดชอบ คุณสมบัติผู้สมัคร • เพศชาย/หญิง อายุ 20-35 ปี • วุฒิการศึกษา ปวส.ขึ้นไป (ไม่จำกัดสาขา) • รักงานขาย/งานบริการ มีทักษะในการพูดจูงใจ/มีความเชื่อ"
     },
@@ -873,39 +934,53 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "จัดซื้อและจัดหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Electrical Systems",
+          "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1.ติดตั้งสายสัญญาณและโครงข่ายอินเทอร์เน็ตบรอดแบนด์ 2.ซ่อมเหตุเสียสัญญาณและโครงข่ายอินเทอร์เน็ตบรอดแบนด์ 3.ดูแลบริการลูกค้าหลังการขายอินเทอร์เน็ตบรอดแบนด์ 4.เพื่อความรู้ความสามารถงานเอินเทอร์เน็ตบรอดแบนด์ 5.เรียนรู้งานติดตั้ง และ ซ่อมเหตุเสีย Product ต่างๆของบริษัทฯ กับวิทยากรที่ทางบริษัทฯจัดหาให้ คุณสมบัต"
     },
@@ -930,20 +1005,19 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การวางแผนการตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Marketing Strategy & Promotion",
+          "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
-        },
-        {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -970,20 +1044,19 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การวางแผนการตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Marketing Strategy & Promotion",
+          "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
-        },
-        {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -1010,24 +1083,29 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -1055,43 +1133,71 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "Excel และการจัดการข้อมูล",
-          "category": "ดิจิทัลและไอที"
+          "name": "Spreadsheets & Data Entry",
+          "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Point-of-Sale Systems",
+          "nameTh": "ระบบขายหน้าร้าน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "ภาวะผู้นำและการบริหารทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
+        },
+        {
+          "name": "Leadership & People Management",
+          "nameTh": "ภาวะผู้นำและการบริหารทีม",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1. ออกภาคสนาม ผลักดันให้ร้านค้าติดตั้งเครื่อง POS 2. ติดตามร้านค้าให้ใช้งานเครื่อง POS อย่างต่อเนื่อง 3. วางแผนเส้นทางปฏิบัติงาน และปฏิบัติตามแผนงานให้มีประสิทธิภาพ 4. เข้าเยี่ยม สอนการใช้งานให้กับร้านค้า 5. สรุปผลการทำงาน รวบรวมข้อเสนอแนะ **อาจมีวิ่งจังหวัดข้างเคียงบ้างในบางครั้ง** **มีค่าคอมมิชชั่นเพิ่ม"
     },
@@ -1116,53 +1222,70 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "จัดซื้อและจัดหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Production Planning & Control",
+          "nameTh": "วางแผนและควบคุมการผลิต",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ควบคุมการผลิต",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Quality Control (QA/QC)",
+          "nameTh": "ควบคุมคุณภาพ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ควบคุมคุณภาพ QA/QC",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Procurement & Purchasing",
+          "nameTh": "จัดซื้อจัดหา",
+          "category": "Business & Finance"
         },
         {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
+          "name": "Food Processing Technology",
+          "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+          "category": "Applied Sciences"
         },
         {
-          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
-          "category": "เกษตรและอาหาร"
+          "name": "Laboratory & Testing",
+          "nameTh": "ปฏิบัติการห้องแล็บ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "ภาวะผู้นำและการบริหารทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Leadership & People Management",
+          "nameTh": "ภาวะผู้นำและการบริหารทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Planning & Time Management",
+          "nameTh": "การวางแผนและบริหารเวลา",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - บริหารและวางแผนงานด้าน Research & Development (R&D) ให้สอดคล้องกับทิศทางและเป้าหมายทางธุรกิจของบริษัท - คิดค้น พัฒนา และปรับปรุงผลิตภัณฑ์อาหารใหม่ ตั้งแต่ Product Concept, Recipe Development, Laboratory Trial จนถึง Commercial Production - พัฒนาสูตรและกระบวนการผลิตให้มีคุณภาพ รสชาติ และต้นทุนที่เหมาะสมกั"
     },
@@ -1187,49 +1310,65 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ควบคุมการผลิต",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Production Planning & Control",
+          "nameTh": "วางแผนและควบคุมการผลิต",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ควบคุมคุณภาพ QA/QC",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Quality Control (QA/QC)",
+          "nameTh": "ควบคุมคุณภาพ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
-          "category": "เกษตรและอาหาร"
+          "name": "Laboratory & Testing",
+          "nameTh": "ปฏิบัติการห้องแล็บ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความละเอียดรอบคอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Attention to Detail",
+          "nameTh": "ความละเอียดรอบคอบ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1 การสอบเทียบเครื่องมือทดสอบ การควบคุมคุณภาพระหว่างการผลิต และผลิตภัณฑ์สุดท้าย รายงาน/ควบคุมและสรุปประเด็นที่ไม่สอดคล้อง รวมถึงการอัพเดทกฏหมายด้านอาหาร 2 ตรวจสอบคุณภาพของวัตถุดิบ สารเคมี บรรจุภัณฑ์ให้เป็นไปตามมาตรฐานที่กำหนด 3 เก็บตัวอย่าง และทดสอบคุณภาพตามวิธีปฏิบัติงานที่กำหนด เช่น การวัดค่าทางกายภาพ ทา"
     },
@@ -1254,37 +1393,50 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
-          "category": "ดิจิทัลและไอที"
+          "name": "Digital Marketing & Social Media",
+          "nameTh": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การดูแลความสัมพันธ์ลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "Account & Client Management",
+          "nameTh": "ดูแลลูกค้ารายสำคัญ",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความละเอียดรอบคอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Attention to Detail",
+          "nameTh": "ความละเอียดรอบคอบ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - เป็นการขายออนไลน์ ทั้งในประเทศและต่างประเทศ - ตอบรับลูกค้าได้เร็วและถูกต้อง - ดูแลลูกค้าหลังการขาย มีใจรักในงานขาย -มีเวลาในการตอบแชตลูกค้าเต็มที่ คุณสมบัติผู้สมัคร • เพศหญิง-ชาย อายุ 22 -30 ปี (เพศชายต้องผ่านการเกณฑ์ทหาร) • วุฒิ ปริญญาตรี • มีทักษะในการพูด ,มีใจรักการขายและซื่อสัตย์รอบคอบ • มีความอดทนต"
     },
@@ -1309,33 +1461,40 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน -ขายและแนะนำสินค้าแก่ลูกค้า -ควบคุมและดูแลความเรียบร้อยของสินค้า -ตรวจสอบสินค้าก่อนจัดส่งให้กับลูกค้า -จัดส่งสินค้าให้กับลูกค้า คุณสมบัติผู้สมัคร • เพศชาย • วุฒิการศึกษา ม.3 ขึ้นไป • สามารถขับรถยนต์ได้และมีใบขับขี่ • มีความซื่อสัตย์ มีใจรักงานบริการ • ยินดีรับผู้ไม่มีประสบการณ์ • หากขับรถฟอร์คลิฟท์ได้จะพิ"
     },
@@ -1360,29 +1519,40 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1. รับผิดชอบงานด้านปล่อยสินเชื่อและจัดเก็บพร้อมด้วยกำไรสุทธิสาขา 2. วิเคราะห์และพิจารณาสินเชื่อ 3. ให้บริการลูกค้าในการชำระค่างวด 4. ติดตามการชำระคงค้างของลูกค้า 5. งานด้านอื่นๆ ที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย/หญิง อายุ 22-35 ปี • วุฒิ ปวส.ขึ้นไป (ไม่จำกัดสาขา) • สามารถแก้ไขปัญหา และตัดสินใจเฉ"
     },
@@ -1408,53 +1578,73 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ควบคุมการผลิต",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "PLC & Industrial Automation",
+          "nameTh": "PLC และระบบอัตโนมัติ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Electrical Systems",
+          "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบอัตโนมัติ PLC และการควบคุม",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Mechanical & Welding",
+          "nameTh": "งานเครื่องกลและงานเชื่อม",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "งานเครื่องกลและงานเชื่อม",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Production Planning & Control",
+          "nameTh": "วางแผนและควบคุมการผลิต",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การทำงานเป็นทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Teamwork",
+          "nameTh": "การทำงานเป็นทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ภาษาอังกฤษ",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช."
+        {
+          "name": "English proficiency",
+          "nameTh": "ความสามารถภาษาอังกฤษ"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        }
       ],
       "summary": "รายละเอียดงาน ปฏิบัติงานหน้าที่ตามที่ได้รับมอบหมาย เพื่อสนับสนุนการผลิตแป้ง SPRAY DRY ให้เป็นไปตามแผนการผลิต อย่างมีคุณภาพ ด้วยความปลอดภัย โดยใช้ทรัพยากรอย่างคุ้มค่า และสอดคล้องกับระบบมาตรฐานทั้งหมด คุณสมบัติผู้สมัคร • วุฒิการศึกษา ปวส. หรือ ปริญญาตรีสาขาเครื่องกล ไฟฟ้า เคมี เทคโนโลยีอาหาร หรือสาขาที่เกี่ยวข้อง • ประสบ"
     },
@@ -1479,41 +1669,60 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ควบคุมการผลิต",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "PLC & Industrial Automation",
+          "nameTh": "PLC และระบบอัตโนมัติ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ซ่อมบำรุงเครื่องจักร",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Electrical Systems",
+          "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Mechanical & Welding",
+          "nameTh": "งานเครื่องกลและงานเชื่อม",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบอัตโนมัติ PLC และการควบคุม",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Equipment Maintenance",
+          "nameTh": "ซ่อมบำรุงเครื่องจักร",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "งานเครื่องกลและงานเชื่อม",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "CAD & Technical Drawing",
+          "nameTh": "เขียนแบบและ CAD",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Production Planning & Control",
+          "nameTh": "วางแผนและควบคุมการผลิต",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Food Processing Technology",
+          "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+          "category": "Applied Sciences"
+        },
+        {
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - รับผิดชอบการปฏิบัติการสาธารณูปโภค (การบำรุงรักษาเชิงป้องกันหม้อน้ำ / เครื่องทำความเย็น / เครื่องอัดอากาศ) ในกะงานเพื่อให้มั่นใจในความปลอดภัย มีประสิทธิภาพ และสม่ำเสมอในการสนับสนุนการผลิต - สนับสนุนการดำเนินงานประจำวันของโรงงาน ปฏิบัติตามแนวทาง EHSSQ ทำการบำรุงรักษาเชิงป้องกันและแก้ไขปัญหาการบำรุงรักษาทั"
     },
@@ -1539,62 +1748,82 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "Excel และการจัดการข้อมูล",
-          "category": "ดิจิทัลและไอที"
+          "name": "Spreadsheets & Data Entry",
+          "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+          "category": "Computer & Digital"
         },
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การวางแผนการตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Marketing Strategy & Promotion",
+          "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1. บริหารจัดการ วางแผนกลยุทธ์ในการผลักดันยอดขายของสาขา ให้ได้ตามเป้าหมายที่กำหนด 2. บริหารจัดการกำกับดูแล และตรวจสอบกระบวนการทำงานของทีมงานให้ปฎิบัติงานถูกต้องตามกระบวนการทำงาน รวมถึงการอัพเดตโปรโมชั่นนโยบายต่างๆให้ทีมงานรับทราบและปฎิบัติเป็นแนวเดียวกัน 3. กำกับดูแล มาตรฐานสาขา ความถูกต้องภายในสาขา ให้เป็"
     },
@@ -1619,22 +1848,34 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ควบคุมการผลิต",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Production Planning & Control",
+          "nameTh": "วางแผนและควบคุมการผลิต",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ภาษาอังกฤษ",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "English proficiency",
+          "nameTh": "ความสามารถภาษาอังกฤษ"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1.ดูแลสถานประกอบการ จัดทำ และควบคุม Halal Manual 2.กำหนดแนวทางการดำเนินการแก้ไข และป้องกันที่เกี่ยวข้องกับฮาลาล 3.ประสานงานผู้ประกอบการในการจัดทำ Internal Audit 4.ประสานงานผู้ตรวจสอบฮาลาลในระหว่างการตรวจประเมินจากหน่วยงานภายนอก 5.ให้ความรู้และฝึกอบรมพนักงานในโรงงาน เรื่องการดูแลกระบวนการผลิตตาม Halal Manu"
     },
@@ -1659,17 +1900,20 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Accounting & Financial Reporting",
+          "nameTh": "บัญชีและงบการเงิน",
+          "category": "Business & Finance"
         }
       ],
       "requirements": [
-        "ภาษาอังกฤษ",
-        "ปริญญาตรีขึ้นไป"
+        {
+          "name": "English proficiency",
+          "nameTh": "ความสามารถภาษาอังกฤษ"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        }
       ],
       "summary": "รายละเอียดงาน . ควบคุมและตรวจสอบงานด้านเจ้าหนี้ (AP) สินทรัพย์ถาวร (FA) และการตรวจนับสินค้าคงเหลือ - ควบคุมและตรวจสอบการบันทึกรายการค่าใช้จ่ายเจ้าหนี้ - ควบคุมและตรวจสอบการบันทึกรายการชำระเงินแก่เจ้าหนี้ - ควบคุมและตรวจสอบการขึ้นทะเบียนสินทรัพย์ถาวร - ควบคุมการตรวจนับสินค้าคงเหลือ 2. สนับสนุนงานด้านงบการเงิน - กระทบยอด"
     },
@@ -1694,29 +1938,35 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
-        },
-        {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - ดูแลตรวจสอบการรับสินค้าเข้า การจัดเก็บและเคลื่อนย้ายสินค้าและ การจ่ายสินค้าออกให้มีความถูกต้อง - ดูแลควบคุมสต๊อกสินค้าบันทึกการรับเข้า-จ่ายออกการนับสต๊อกตามรอบที่กำหนด - ประสานงานกับผู้เกี่ยวข้องในเรื่องต่างๆที่เกี่ยวข้องกับการทำงานในหน้าที่ - งานอื่น ๆ ตามที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย หรื"
     },
@@ -1741,28 +1991,29 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
-        },
-        {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -1789,45 +2040,50 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Leadership & People Management",
+          "nameTh": "ภาวะผู้นำและการบริหารทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "ภาวะผู้นำและการบริหารทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1 ควบคุมดูแลและจัดการกิจกรรมการทำงานต่างๆ ในร้านค้าปลีกทั้งการขายและการบริการ 2 บริหารการขาย ให้ได้ยอดขายตามเป้าที่กำหนด 3 บริหารจัดการ การบริการลูกค้าเพื่ออำนวยความสะดวกในเรื่องต่างๆ 4 บริหารสต๊อกสินค้าในร้านค้าให้ถูกต้องและมีจำนวนเพียงพอสำหรับการขายและบริการลูกค้า 5 ควบคุมดูแลการจัดเรียงสินค้าให้เป็นไปต"
     },
@@ -1852,16 +2108,21 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        }
       ],
       "summary": "รายละเอียดงาน 1. ขับรถขนส่งสารเคมี ตามวัน เวลา และสถานที่ที่กำหนด 2. ดูแลรับผิดชอบสินค้า ตั้งแต่รับ จนกระทั่งส่งมอบเสร็จสิ้น 3. ดูแลรักษารถให้อยู่ในสภาพพร้อมใช้งานอยู่เสมอ (ทั้งภายใน และภายนอก) 4. งานอื่นๆ ตามที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย อายุ 25-40 ปี • มีใบขับขี่ประเภท 4 • มีเอกสารรับรองผ่านการอบรมการขั"
     },
@@ -1886,22 +2147,34 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "HR & Payroll Administration",
+          "nameTh": "งานบุคคลและเงินเดือน",
+          "category": "Business & Finance"
         },
         {
-          "name": "งานบุคคลและสรรหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน สวัสดิการเบื้อนต้น 1. รายได้ ขึ้นอยู่กับผลงาน Commission Base (รายได้ตามผลงานที่กำหนด เฉลี่ยรายได้ 15,000 บาทขึ้นไปต่อเดือน 2.เงินรางวัลพิเศษ รายไตรมาส (ตามผลงาน) 3.ทริปท่องเที่ยว 4.วันหยุดวันลา 5. ชุดยูนิฟอร์ม 6.บริษัทมีฝึกอบรมการทำงานให้ก่อนเข้าปฏิบัติงานในพื้นที่ แนะนำการให้บริการด้านสินเชื่อ 1.ออกบูธท"
     },
@@ -1926,20 +2199,29 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
+          "name": "Accounting & Financial Reporting",
+          "nameTh": "บัญชีและงบการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "Document & Records Management",
+          "nameTh": "งานเอกสารและธุรการ",
+          "category": "Business & Finance"
         },
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
+        },
+        {
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -1966,34 +2248,49 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Marketing Strategy & Promotion",
+          "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การวางแผนการตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Logistics & Distribution",
+          "nameTh": "ขนส่งและกระจายสินค้า",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขนส่งและกระจายสินค้า",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - เข้าเยี่ยมร้านออนเทรด ร้าน FSR และงานกิจกรรมต่างๆ พื้นที่หลักเพื่อขายสินค้าตามเป้าหมายที่กำหนดรวมทั้งร้านค้าเปิดใหม่ - ประสานงานกับทีมงาน Event ในการควบคุมดูแลสินค้าคู่แข่ง ในบริเวณพื้นที่จัดงานกิจกรรมรอบนอก - เบิก-คืนสินค้า และสื่อส่งเสริมการขายในการจำหน่ายของแต่ละวัน ให้ตรงตามเอกสารการขาย และส่งมอบเงิ"
     },
@@ -2019,44 +2316,59 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ควบคุมคุณภาพ QA/QC",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Quality Control (QA/QC)",
+          "nameTh": "ควบคุมคุณภาพ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
+          "name": "Food Processing Technology",
+          "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+          "category": "Applied Sciences"
         },
         {
-          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
-          "category": "เกษตรและอาหาร"
+          "name": "Laboratory & Testing",
+          "nameTh": "ปฏิบัติการห้องแล็บ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การทำงานเป็นทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Teamwork",
+          "nameTh": "การทำงานเป็นทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ภาษาอังกฤษ",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "English proficiency",
+          "nameTh": "ความสามารถภาษาอังกฤษ"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน รับผิดชอบในการดำเนินกิจกรรมด้านการประกันคุณภาพและความปลอดภัยของอาหารแต่ละวันในไลน์ผลิต เน้นการควบคุมคุณภาพในการปฏิบัติงาน กิจกรรมในห้องปฏิบัติการ การตรวจสอบการปฏิบัติตามกฎระเบียบ และการแก้ไขปัญหา เพื่อให้มั่นใจว่าผลิตภัณฑ์ตรงตามข้อกำหนดของบริษัท ลูกค้า และกฎระเบียบอย่างสม่ำเสมอ คุณสมบัติผู้สมัคร • อายุ 18"
     },
@@ -2082,29 +2394,43 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
+          "name": "Food Processing Technology",
+          "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน - ควบคุมและติดตามงานด้านสิ่งแวดล้อม - ประเมินและตรวจสอบลักษณะของมลพิษ และประสิทธิภาพของระบบป้องกันสิ่งแวดล้อมเป็นพิษ - จัดทำรายงานด้านสิ่งแวดล้อม - ประสานงานกับหน่วยงานภาครัฐ - สนับสนุนกิจกรรมด้านความยั่งยืนขององค์กร - จัดทำแผนปฏิบัติการฉุกเฉินเพื่อป้องกันไม่ให้มลพิษแพร่กระจายสู่สิ่งแวดล้อม คุณสมบัติผู้สม"
     },
@@ -2129,39 +2455,53 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "ISO / GMP / HACCP Standards",
+          "nameTh": "ระบบมาตรฐานสากล",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Agricultural & Livestock Practice",
+          "nameTh": "วิชาชีพเกษตรและปศุสัตว์",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การเกษตรและปศุสัตว์",
-          "category": "เกษตรและอาหาร"
+          "name": "Food Processing Technology",
+          "nameTh": "เทคโนโลยีแปรรูปอาหาร",
+          "category": "Applied Sciences"
         },
         {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน 1. ส่งเสริมการปลูกอ้อย และดูแลรักษาอ้อยให้เจริญเติบโต 2. นำอ้อยเข้าหีบให้ได้ตามเป้าหมายที่กำหนด และติดตามหนี้สิน 3. ส่งเสริมการไว้ตอให้นานขึ้นจากเดิมอีก 1 ปี 4. ส่งเสริมเพิ่มพื้นที่ชลประทาน 5. โครงการเพิ่มผลผลิต 6. ปฏิบัติงานให้สอดคล้องตามนโยบาย ISO 9001:2000, ISO 14001, GMP&HACCP , OHSAS 18001และระบบมาตร"
     },
@@ -2186,32 +2526,41 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
-          "category": "ดิจิทัลและไอที"
+          "name": "Digital Marketing & Social Media",
+          "nameTh": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Agricultural & Livestock Practice",
+          "nameTh": "วิชาชีพเกษตรและปศุสัตว์",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การเกษตรและปศุสัตว์",
-          "category": "เกษตรและอาหาร"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        }
       ],
       "summary": "รายละเอียดงาน มาร่วมเป็นส่วนหนึ่งในการขับเคลื่อนธุรกิจเกษตรไทยสู่โลกดิจิทัลกับ \"ปุ๋ยปลานิลทอง\"! บริษัท เอส.พี. ฟาร์ม กาฬสินธุ์ จำกัด ผู้ผลิตและจัดจำหน่าย \"ปุ๋ยตราปลานิลทอง\" และผลิตภัณฑ์การเกษตรคุณภาพ (ผู้ผลิตปุ๋ยตราปลานิลทอง อินทรีเคมี ชั้นนำ ของไทย) ที่ได้รับความไว้วางใจจากเกษตรกรทั่วประเทศ เรากำลังมองหาคนรุ่นใหม่ไฟแร"
     },
@@ -2236,36 +2585,41 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน พนักงานขายอินเตอร์เน็ตบ้าน ais fibre ประจำสาขามหาสารคาม การทำงาน 6 วัน/สัปดาห์ สวัสดิการ 1.ได้รับสวัสดิการ ประกันสังคมตามกฎหมายขั้นพื้นฐาน 2.เงินเดือน ไม่รวมค่าคอมมิชชั่น 3.มีเทรนงานให้ 4.มีค่าน้ำมันให้ในการลงตลาด คุณสมบัติผู้สมัคร • ชาย/หญิง อายุ 18 ปีขึ้นไป • วุฒิการศึกษา ม.6 ขึ้นไป • รักในงานขาย รักงาน"
     },
@@ -2290,56 +2644,72 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การหาลูกค้าใหม่และขยายตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Account & Client Management",
+          "nameTh": "ดูแลลูกค้ารายสำคัญ",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การดูแลความสัมพันธ์ลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "Responsibilities เป้าหมายของตำแหน่ง : สร้างยอดขาย ดูแลลูกค้าเดิม และขยายฐานลูกค้าใหม่ เพื่อผลักดันยอดขายและสร้างความพึงพอใจสูงสุดให้กับลูกค้า พร้อมเป็นตัวแทนที่ดีของบริษัทในการนำเสนอสินค้าและบริการ หน้าที่และความรับผิดชอบ : - ดูแลและบริหารยอดขายให้เป็นไปตามเป้าหมายที่บริษัทกำหนด - วางแผนการเข้าพบลูกค้า ดูแลความสัมพันธ์"
     },
@@ -2364,27 +2734,43 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Document & Records Management",
+          "nameTh": "งานเอกสารและธุรการ",
+          "category": "Business & Finance"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "Responsibilities - แนะนำผลิตภัณฑ์ของบริษัท และนำเสนอขายสินค้าเพื่อบริหารยอดขายให้ได้ตามเป้าหมาย - รักษาสัมพันธ์ภาพอันดีต่อลูกค้า และบริหารลูกค้าในฐานการขายที่รับผิดชอบ - ดูแลกลุ่มลูกค้าดีลเลอร์ในพื้นที่ที่รับผิดชอบ - จัดทำเอกสารรายงานที่เกี่ยวข้อง และรายงานผลการปฏิบัติงานต่อผู้บังคับบัญชา Qualifications • เพศชาย/หญิง อ"
     },
@@ -2409,33 +2795,40 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Teamwork",
+          "nameTh": "การทำงานเป็นทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การทำงานเป็นทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "คุณสมบัติและประสบการณ์ Job Type งานประจำ Work Type Onsite Education ปริญญาตรี Posted 19/08/2026 Responsibilities บริหารจัดการสินค้าและยอดขายในฝ่ายรับผิดชอบเพียงพอต่อความต้องการของลูกค้าตามมาตรฐานที่บริษัทกำหนด บริหารจัดการพนักงานในฝ่ายรับผิดชอบและพัฒนาทีมงานและผู้ใต้บังคับบัญชาให้มีความรู้ความสามารถและทักษะในการทำงาน ต"
     },
@@ -2461,19 +2854,23 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "Document & Records Management",
+          "nameTh": "งานเอกสารและธุรการ",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเกษตรและปศุสัตว์",
-          "category": "เกษตรและอาหาร"
+          "name": "Agricultural & Livestock Practice",
+          "nameTh": "วิชาชีพเกษตรและปศุสัตว์",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Planning & Time Management",
+          "nameTh": "การวางแผนและบริหารเวลา",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -2500,28 +2897,26 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Accounting & Financial Reporting",
+          "nameTh": "บัญชีและงบการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
+          "name": "Document & Records Management",
+          "nameTh": "งานเอกสารและธุรการ",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานอาหารและเครื่องดื่ม",
-          "category": "บริการและสุขภาพ"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         }
       ],
       "requirements": [
-        "ปวส./ปวช."
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ), ศรีสะเกษ(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), อุบลราชธานี(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 14,000 - 17,000 วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • บ"
     },
@@ -2546,12 +2941,16 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "การพัฒนาซอฟต์แวร์",
-          "category": "ดิจิทัลและไอที"
+          "name": "Software Development",
+          "nameTh": "การพัฒนาซอฟต์แวร์",
+          "category": "Computer & Digital"
         }
       ],
       "requirements": [
-        "ปวส./ปวช."
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ร่องคำ) สาขาอาชีพหลัก : ไอที สาขาอาชีพรอง : Mobile Application รูปแบบงาน : นักศึกษาฝึกงาน ระดับตำแหน่งงาน : ผู้จัดการ จำนวนที่รับ : 5 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : ตามที่บริษัทกำหนด วันหยุด : ไม่ระบุ เวลาทำงาน : 03:00 - 06:30 เวลาทำงานอื่นๆ : ไม่ระบุ หน้าที่ความรับผิดชอบ • Fl"
     },
@@ -2576,30 +2975,34 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การวางแผนการตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Marketing Strategy & Promotion",
+          "nameTh": "วางแผนการตลาดและส่งเสริมการขาย",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
-        },
-        {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(เมืองกาฬสินธุ์) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : พนักงานแนะนำสินค้าประจำร้าน/PC รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : 12,000 - 25,000 วันทำงาน : ตามที่บริษัทกำหนด วันหยุด : ไม่ระบุ เวลาทำงาน : ตามที่บริษัทกำหนด เวลาทำงานอื่นๆ : ไม่ระบ"
     },
@@ -2624,35 +3027,53 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Electrical Systems",
+          "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "การดูแลความสัมพันธ์ลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "HR & Payroll Administration",
+          "nameTh": "งานบุคคลและเงินเดือน",
+          "category": "Business & Finance"
         },
         {
-          "name": "งานบุคคลและสรรหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Account & Client Management",
+          "nameTh": "ดูแลลูกค้ารายสำคัญ",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ขายอุปกรณ์ IT / ไฟฟ้า / อิเล็กทรอนิกส์ รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 5 ตำแหน่ง เงินเดือน(บาท) : 20,000 - 100,000 วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ เวลาทำงาน : 09:00 - 18:00 เวลาทำงานอื่นๆ : ไม่ระ"
     },
@@ -2677,47 +3098,63 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ดูแลระบบเครือข่ายและ IT Support",
-          "category": "ดิจิทัลและไอที"
+          "name": "IT Support & Networking",
+          "nameTh": "ดูแลระบบและเครือข่าย",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ควบคุมคุณภาพ QA/QC",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Electrical Systems",
+          "nameTh": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Quality Control (QA/QC)",
+          "nameTh": "ควบคุมคุณภาพ",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "งานก่อสร้างและโยธา",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Occupational Health & Safety",
+          "nameTh": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "Engineering & Manufacturing"
         },
         {
-          "name": "ความปลอดภัยและอาชีวอนามัย",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(เมืองกาฬสินธุ์) สาขาอาชีพหลัก : ไอที สาขาอาชีพรอง : IT Support/Technical Support รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : จันทร์-ศุกร์ วันหยุด : วันเสาร์ , วันอาทิตย์ เวลาทำงาน : 08:30 - 17:30 เวลาทำงานอื่นๆ : ไม่ระบุ หน"
     },
@@ -2742,27 +3179,43 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Point-of-Sale Systems",
+          "nameTh": "ระบบขายหน้าร้าน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ขาย รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 1 ตำแหน่ง เงินเดือน(บาท) : ตามตกลง วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่นๆ : ไม่ระบุ หน้าที่ความรับผิดชอบ • เข้าพบลูกค้าร้านค้"
     },
@@ -2787,12 +3240,14 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -2820,38 +3275,57 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "Excel และการจัดการข้อมูล",
-          "category": "ดิจิทัลและไอที"
+          "name": "Spreadsheets & Data Entry",
+          "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+          "category": "Computer & Digital"
         },
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : กาฬสินธุ์(กมลาไสย,เมืองกาฬสินธุ์) ทำงานที่บ้าน (Work From Home) : ทำงานที่บ้าน (Work From Home) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : บริหารการขาย/SE รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 3 ตำแหน่ง เงินเดือน(บาท) : 15,000 - 16,000 วันทำงาน : จันทร์-เสาร์ วันหยุด : วันอาทิตย์ "
     },
@@ -2877,46 +3351,72 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "Excel และการจัดการข้อมูล",
-          "category": "ดิจิทัลและไอที"
+          "name": "Spreadsheets & Data Entry",
+          "nameTh": "สเปรดชีตและการบันทึกข้อมูล",
+          "category": "Computer & Digital"
         },
         {
-          "name": "คอมพิวเตอร์พื้นฐาน",
-          "category": "ดิจิทัลและไอที"
+          "name": "Computer Literacy",
+          "nameTh": "การใช้คอมพิวเตอร์พื้นฐาน",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Driving & Vehicle Operation",
+          "nameTh": "การขับขี่ยานพาหนะ",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "ขับรถและงานภาคสนาม",
-          "category": "โลจิสติกส์"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความอดทนและแรงกดดัน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Resilience Under Pressure",
+          "nameTh": "ความอดทนต่อแรงกดดัน",
+          "category": "Soft Skills"
+        },
+        {
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "สถานที่ปฏิบัติงาน : มหาสารคาม(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), หนองคาย(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ) สาขาอาชีพหลัก : ขาย สาขาอาชีพรอง : ปรึกษาการขาย รูปแบบงาน : งานประจำ ระดับตำแหน่งงาน : เจ้าหน้าที่ จำนวนที่รับ : 20 ตำแหน่ง เงินเดือน(บาท) : 15,000 - 20,000 วันทำงาน : ไม่ระบุ วันหยุด : วันอาทิตย์ เวลาทำงา"
     },
@@ -2941,20 +3441,24 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [],
@@ -2982,45 +3486,53 @@
       "skills": [
         {
           "name": "Microsoft Office",
-          "category": "ดิจิทัลและไอที"
+          "nameTh": "ไมโครซอฟท์ ออฟฟิศ",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Accounting & Financial Reporting",
+          "nameTh": "บัญชีและงบการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
+          "name": "Document & Records Management",
+          "nameTh": "งานเอกสารและธุรการ",
+          "category": "Business & Finance"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "HR & Payroll Administration",
+          "nameTh": "งานบุคคลและเงินเดือน",
+          "category": "Business & Finance"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานบุคคลและสรรหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานอาหารและเครื่องดื่ม",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ยินดีรับนักศึกษาจบใหม่"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กรุงเทพมหานคร(เขตห้วยขวาง), กาฬสินธุ์(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ทำงาน 6 วัน หยุด 1 วัน หน้าที่ความรับผิดชอบ --> • บริหารงานภาพรวมในสถานีบริการน้ำมัน • 1) สร้างยอดขาย เพื่อสร้าง"
     },
@@ -3045,38 +3557,59 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ฐานข้อมูลและ SQL",
-          "category": "ดิจิทัลและไอที"
+          "name": "SQL & Database Management",
+          "nameTh": "ฐานข้อมูลและ SQL",
+          "category": "Computer & Digital"
         },
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การดูแลความสัมพันธ์ลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "Account & Client Management",
+          "nameTh": "ดูแลลูกค้ารายสำคัญ",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
+          "name": "Teaching & Training Delivery",
+          "nameTh": "การสอนและฝึกอบรม",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การสอนและฝึกอบรม",
-          "category": "บริการและสุขภาพ"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Negotiation & Persuasion",
+          "nameTh": "การเจรจาต่อรองและโน้มน้าว",
+          "category": "Soft Skills"
+        },
+        {
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กรุงเทพมหานคร(เขตบางซื่อ), กาฬสินธุ์(ทุกเขต/อำเภอ), มุกดาหาร(ทุกเขต/อำเภอ), ยโสธร(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : วันอาทิตย์ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ลักษณะของงาน นำเสนอขายหน"
     },
@@ -3101,21 +3634,30 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่จำกัด สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 12,000 - 15,000 วันหยุด : ไม่ระบุ เวลาทำงาน : ตามที่บริษัทกำหนด เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ขายสินค้าและผลักดันยอดขาย รวมถึงเก็บเงินยอดขายตามนโยบายบริษัท • ให้บริการลูกค้าตามมาตร"
     },
@@ -3140,28 +3682,47 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
+          "name": "Inventory & Warehouse Management",
+          "nameTh": "คลังสินค้าและสต๊อก",
+          "category": "Supply Chain & Logistics"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "ใจรักบริการ",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ใบอนุญาตขับขี่",
-        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Driving licence",
+          "nameTh": "ใบอนุญาตขับขี่"
+        },
+        {
+          "name": "Own vehicle",
+          "nameTh": "มีพาหนะส่วนตัว"
+        },
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : ไม่ระบุ สถานที่ปฏิบัติงาน : กาฬสินธุ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), เลย(ทุกเขต/อำเภอ), อุดรธานี(ทุกเขต/อำเภอ), ร้อยเอ็ด(ทุกเขต/อำเภอ) เงินเดือน(บาท) : 12,000 - 20,000 วันหยุด : ไม่ระบุ เวลาทำงาน : 08:00 - 17:00 เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • •"
     },
@@ -3186,53 +3747,55 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
+          "name": "HR & Payroll Administration",
+          "nameTh": "งานบุคคลและเงินเดือน",
+          "category": "Business & Finance"
         },
         {
-          "name": "งานบุคคลและสรรหา",
-          "category": "บัญชีและการเงิน"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
+          "name": "Communication",
+          "nameTh": "การสื่อสาร",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานอาหารและเครื่องดื่ม",
-          "category": "บริการและสุขภาพ"
+          "name": "Teamwork",
+          "nameTh": "การทำงานเป็นทีม",
+          "category": "Soft Skills"
         },
         {
-          "name": "การสื่อสาร",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Cross-functional Coordination",
+          "nameTh": "การประสานงานข้ามหน่วยงาน",
+          "category": "Soft Skills"
         },
         {
-          "name": "การทำงานเป็นทีม",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Dependability & Integrity",
+          "nameTh": "ความรับผิดชอบและความซื่อสัตย์",
+          "category": "Soft Skills"
         },
         {
-          "name": "การประสานงานข้ามหน่วยงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Problem Solving",
+          "nameTh": "การแก้ปัญหา",
+          "category": "Soft Skills"
         },
         {
-          "name": "ความรับผิดชอบ",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การแก้ปัญหา",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การวางแผนและจัดลำดับงาน",
-          "category": "ทักษะเชิงพฤติกรรม"
-        },
-        {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ยินดีรับนักศึกษาจบใหม่"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "New graduates welcome",
+          "nameTh": "ยินดีรับนักศึกษาจบใหม่"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : 2 ตำแหน่ง สถานที่ปฏิบัติงาน : หนองคาย(ทุกเขต/อำเภอ), อุตรดิตถ์(ทุกเขต/อำเภอ), ขอนแก่น(ทุกเขต/อำเภอ), กาฬสินธุ์(ทุกเขต/อำเภอ), สกลนคร(ทุกเขต/อำเภอ) เงินเดือน(บาท) : ตามตกลง วันหยุด : ไม่ระบุ เวลาทำงาน : ไม่ระบุ เวลาทำงานอื่น : ไม่ระบุ หน้าที่ความรับผิดชอบ --> • ให้การดูแล"
     },
@@ -3257,38 +3820,49 @@
       "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "Credit & Lending",
+          "nameTh": "สินเชื่อและการเงิน",
+          "category": "Business & Finance"
         },
         {
-          "name": "การหาลูกค้าใหม่และขยายตลาด",
-          "category": "การขายและการตลาด"
+          "name": "Sales & Business Development",
+          "nameTh": "งานขายและขยายตลาด",
+          "category": "Sales & Marketing"
         },
         {
-          "name": "การนำเสนอและเจรจาต่อรอง",
-          "category": "การขายและการตลาด"
+          "name": "Clinical & Nursing Practice",
+          "nameTh": "การพยาบาลและเวชปฏิบัติ",
+          "category": "Applied Sciences"
         },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "Presentation & Public Speaking",
+          "nameTh": "การนำเสนอและพูดต่อหน้าชุมชน",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
+          "name": "Customer Service Orientation",
+          "nameTh": "ใจรักบริการ",
+          "category": "Soft Skills"
         },
         {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "การเรียนรู้และพัฒนาตนเอง",
-          "category": "ทักษะเชิงพฤติกรรม"
+          "name": "Adaptability & Willingness to Learn",
+          "nameTh": "การปรับตัวและใฝ่เรียนรู้",
+          "category": "Soft Skills"
         }
       ],
       "requirements": [
-        "ปริญญาตรีขึ้นไป",
-        "ปวส./ปวช.",
-        "ต้องมีประสบการณ์"
+        {
+          "name": "Bachelor's degree or higher",
+          "nameTh": "ปริญญาตรีขึ้นไป"
+        },
+        {
+          "name": "Vocational certificate",
+          "nameTh": "ปวส./ปวช."
+        },
+        {
+          "name": "Prior experience required",
+          "nameTh": "ต้องมีประสบการณ์"
+        }
       ],
       "summary": "รายละเอียดงาน รูปแบบงาน : งานประจำ จำนวนที่รับ : 1 ตำแหน่ง สถานที่ปฏิบัติงาน : กาฬสินธุ์(กุฉินารายณ์) เงินเดือน(บาท) : 13,000 - 17,000 วันหยุด : ไม่ระบุ เวลาทำงาน : 10:00 - 19:00 เวลาทำงานอื่น : ทำงานตามเวลาห้าง (10.00-19.00, 11.00 - 20.00 น. (มีวันหยุด 6 วันต่อเดือน โดยวันหยุดจะไม่ตรง กับ เสาร์ - อาทิตย์) หน้าที่ความร"
     }

@@ -68,7 +68,7 @@ export default function Jobs() {
                 {job.skills.length > 0 && (
                   <div className="tags">
                     {job.skills.map(item => (
-                      <span key={item.name} className="tag">{item.name}</span>
+                      <span key={item.name} className="tag" title={item.nameTh}>{item.name}</span>
                     ))}
                   </div>
                 )}
@@ -78,8 +78,8 @@ export default function Jobs() {
 
                 {job.requirements.length > 0 && (
                   <div className="tags">
-                    {job.requirements.map(name => (
-                      <span key={name} className="tag">{name}</span>
+                    {job.requirements.map(item => (
+                      <span key={item.name} className="tag" title={item.name}>{item.nameTh}</span>
                     ))}
                   </div>
                 )}

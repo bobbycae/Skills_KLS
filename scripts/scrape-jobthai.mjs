@@ -3,12 +3,12 @@
  * JobThai เป็น Next.js และฝังผล Apollo GraphQL ไว้ใน __NEXT_DATA__ ของหน้ารายการ
  * จึงอ่านรายการได้ครบโดยไม่ต้องเรนเดอร์ JavaScript — ใช้ province "04" คือกาฬสินธุ์
  *
- * ข้อจำกัดที่ตรวจสอบแล้ว: หน้ารายละเอียดงานเรนเดอร์ฝั่งไคลเอนต์และซ่อนเนื้องานไว้หลังปุ่ม
- * "ดูรายละเอียดงาน" การดึงด้วย fetch จึงได้แค่ชื่อตำแหน่ง สถานที่ และเงินเดือน
- * แหล่งนี้จึงบันทึก hasDescription:false และให้ขั้นสกัดทักษะใช้ชื่อตำแหน่งเป็นหลัก
+ * เนื้อประกาศอยู่ที่ /th/job/{id} ซึ่งเรนเดอร์ฝั่งเซิร์ฟเวอร์เต็มรูปแบบ
+ * ระวังอย่าสับสนกับ /th/company/job/{id} ที่หน้ารายการลิงก์ไป — หน้านั้นแสดงโปรไฟล์บริษัท
+ * และซ่อนเนื้องานไว้หลังปุ่ม "ดูรายละเอียดงาน" ดึงด้วย fetch แล้วจะได้หน้าเปล่า
  */
 
-import { fetchText, saveJson, sleep, today } from "./lib.mjs";
+import { fetchText, inBatches, saveJson, sleep, stripHtml, today } from "./lib.mjs";
 
 const LIST_URL = province =>
   `https://www.jobthai.com/th/jobs?province=${province}&page=`;
@@ -45,10 +45,26 @@ function toJob(item) {
     salary: (item.salary || "").trim(),
     employment: item.jobType?.name || "",
     listed: item.updatedAt || "",
-    url: `https://www.jobthai.com/th/company/job/${item.id}`,
+    url: `https://www.jobthai.com/th/job/${item.id}`,
     description: "",
     hasDescription: false,
   };
+}
+
+/* หน้ารายละเอียดวางเนื้อหาเรียงเป็น รายละเอียดงาน → คุณสมบัติผู้สมัคร → สวัสดิการ
+   ตัดที่สวัสดิการเพราะย่อหน้านั้นพูดถึงประกันและการฝึกอบรม ซึ่งไม่ใช่ทักษะที่งานต้องการ */
+async function fetchDescription(job) {
+  try {
+    const text = stripHtml(await fetchText(job.url));
+    const start = text.search(/รายละเอียดงาน|คุณสมบัติผู้สมัคร/);
+    if (start < 0) return job;
+    const tail = text.slice(start);
+    const stop = tail.search(/สวัสดิการ|วิธีการสมัคร|ติดต่อ\s/);
+    const body = (stop > 200 ? tail.slice(0, stop) : tail).slice(0, 12000).trim();
+    return { ...job, description: body, hasDescription: body.length > 120 };
+  } catch (error) {
+    return { ...job, detailError: error.message.slice(0, 160) };
+  }
 }
 
 const pageUrl = page =>
@@ -75,7 +91,10 @@ for (let page = 2; page <= pages; page += 1) {
   console.log(`  หน้า ${page}/${pages} — สะสม ${byId.size} งาน`);
 }
 
-const jobs = [...byId.values()];
+const jobs = await inBatches([...byId.values()], 6, fetchDescription);
+const withDescription = jobs.filter(job => job.hasDescription).length;
+console.log(`  ดึงเนื้อประกาศได้ ${withDescription}/${jobs.length}`);
+
 const target = await saveJson("raw-jobthai.json", {
   meta: {
     source: SOURCE,
@@ -84,10 +103,11 @@ const target = await saveJson("raw-jobthai.json", {
     reportedTotal: total,
     collected: jobs.length,
     pages,
-    descriptionsAvailable: false,
-    note: "หน้ารายละเอียดของ JobThai เรนเดอร์ฝั่งไคลเอนต์และซ่อนเนื้องานไว้หลังปุ่ม จึงเก็บได้เฉพาะข้อมูลจากหน้ารายการ",
+    withDescription,
+    inKalasin: jobs.length,
+    note: "กรองด้วยรหัสจังหวัด 04 ที่ต้นทาง ทุกรายการจึงอยู่ในกาฬสินธุ์ · เนื้อประกาศอ่านจาก /th/job/{id} ซึ่งเรนเดอร์ฝั่งเซิร์ฟเวอร์",
   },
   jobs,
 });
 
-console.log(`JobThai: ประกาศ ${jobs.length}/${total} รายการ · บันทึกที่ ${target}`);
+console.log(`JobThai: ประกาศ ${jobs.length}/${total} รายการ · มีเนื้อหา ${withDescription} · บันทึกที่ ${target}`);

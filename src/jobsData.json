@@ -1,10 +1,10 @@
 {
   "meta": {
-    "capturedAt": "2026-08-24",
-    "builtAt": "2026-08-24",
-    "collected": 182,
+    "capturedAt": "2026-08-25",
+    "builtAt": "2026-08-25",
+    "collected": 171,
     "confirmedKalasin": 48,
-    "withDescription": 19,
+    "withDescription": 48,
     "companies": 38,
     "withSalary": 48,
     "skillMethod": "จับคู่คำสำคัญด้วยทะเบียนทักษะภาษาไทย (ไม่ได้ใช้โมเดลภาษา)",
@@ -12,20 +12,21 @@
       {
         "source": "JobThai",
         "sourceUrl": "https://www.jobthai.com/th/jobs?province=04&page=",
-        "capturedAt": "2026-08-24",
-        "reportedTotal": 29,
-        "collected": 29,
+        "capturedAt": "2026-08-25",
+        "reportedTotal": 28,
+        "collected": 28,
         "pages": 2,
-        "descriptionsAvailable": false,
-        "note": "หน้ารายละเอียดของ JobThai เรนเดอร์ฝั่งไคลเอนต์และซ่อนเนื้องานไว้หลังปุ่ม จึงเก็บได้เฉพาะข้อมูลจากหน้ารายการ"
+        "withDescription": 28,
+        "inKalasin": 28,
+        "note": "กรองด้วยรหัสจังหวัด 04 ที่ต้นทาง ทุกรายการจึงอยู่ในกาฬสินธุ์ · เนื้อประกาศอ่านจาก /th/job/{id} ซึ่งเรนเดอร์ฝั่งเซิร์ฟเวอร์"
       },
       {
         "source": "JOBTOPGUN",
         "sourceUrl": "https://www.jobtopgun.com/th/jobs/in-kalasin",
-        "capturedAt": "2026-08-24",
-        "collected": 120,
-        "withDescription": 120,
-        "inKalasin": 3,
+        "capturedAt": "2026-08-25",
+        "collected": 119,
+        "withDescription": 110,
+        "inKalasin": 4,
         "categories": [
           {
             "slug": "ทั้งหมด",
@@ -34,7 +35,7 @@
           },
           {
             "slug": "it-technology",
-            "found": 15,
+            "found": 14,
             "isFallback": false
           },
           {
@@ -132,42 +133,72 @@
       {
         "name": "งานขายและปิดการขาย",
         "category": "การขายและการตลาด",
-        "count": 22,
-        "percent": 45.8
-      },
-      {
-        "name": "การเงินและสินเชื่อ",
-        "category": "บัญชีและการเงิน",
-        "count": 15,
-        "percent": 31.3
-      },
-      {
-        "name": "งานธุรการและเอกสาร",
-        "category": "บัญชีและการเงิน",
-        "count": 10,
-        "percent": 20.8
-      },
-      {
-        "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-        "category": "บริการและสุขภาพ",
-        "count": 8,
-        "percent": 16.7
-      },
-      {
-        "name": "งานสุขภาพและพยาบาล",
-        "category": "บริการและสุขภาพ",
-        "count": 8,
-        "percent": 16.7
-      },
-      {
-        "name": "บัญชีและงบการเงิน",
-        "category": "บัญชีและการเงิน",
-        "count": 7,
-        "percent": 14.6
+        "count": 29,
+        "percent": 60.4
       },
       {
         "name": "การนำเสนอและเจรจาต่อรอง",
         "category": "การขายและการตลาด",
+        "count": 13,
+        "percent": 27.1
+      },
+      {
+        "name": "การเงินและสินเชื่อ",
+        "category": "บัญชีและการเงิน",
+        "count": 12,
+        "percent": 25
+      },
+      {
+        "name": "ขับรถและงานภาคสนาม",
+        "category": "โลจิสติกส์",
+        "count": 12,
+        "percent": 25
+      },
+      {
+        "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+        "category": "บริการและสุขภาพ",
+        "count": 11,
+        "percent": 22.9
+      },
+      {
+        "name": "คอมพิวเตอร์พื้นฐาน",
+        "category": "ดิจิทัลและไอที",
+        "count": 10,
+        "percent": 20.8
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "ดิจิทัลและไอที",
+        "count": 9,
+        "percent": 18.8
+      },
+      {
+        "name": "ความปลอดภัยและอาชีวอนามัย",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "คลังสินค้าและสต๊อก",
+        "category": "โลจิสติกส์",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "งานก่อสร้างและโยธา",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "งานสุขภาพและพยาบาล",
+        "category": "บริการและสุขภาพ",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "ขนส่งและกระจายสินค้า",
+        "category": "โลจิสติกส์",
         "count": 6,
         "percent": 12.5
       },
@@ -178,94 +209,118 @@
         "percent": 12.5
       },
       {
-        "name": "งานบุคคลและสรรหา",
-        "category": "บัญชีและการเงิน",
+        "name": "ระบบมาตรฐาน ISO และ GMP",
+        "category": "การผลิตและวิศวกรรม",
         "count": 6,
         "percent": 12.5
       },
       {
-        "name": "ขับรถและงานภาคสนาม",
-        "category": "โลจิสติกส์",
+        "name": "การวางแผนการตลาด",
+        "category": "การขายและการตลาด",
         "count": 5,
         "percent": 10.4
       },
       {
-        "name": "งานก่อสร้างและโยธา",
+        "name": "ควบคุมการผลิต",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 5,
+        "percent": 10.4
+      },
+      {
+        "name": "งานธุรการและเอกสาร",
+        "category": "บัญชีและการเงิน",
+        "count": 5,
+        "percent": 10.4
+      },
+      {
+        "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+        "category": "การผลิตและวิศวกรรม",
+        "count": 5,
+        "percent": 10.4
+      },
+      {
+        "name": "อุตสาหกรรมอาหารและแปรรูป",
+        "category": "เกษตรและอาหาร",
+        "count": 5,
+        "percent": 10.4
+      },
+      {
+        "name": "การดูแลความสัมพันธ์ลูกค้า",
+        "category": "การขายและการตลาด",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "ควบคุมคุณภาพ QA/QC",
         "category": "การผลิตและวิศวกรรม",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "งานอาหารและเครื่องดื่ม",
-        "category": "บริการและสุขภาพ",
+        "name": "งานบุคคลและสรรหา",
+        "category": "บัญชีและการเงิน",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "Microsoft Office",
+        "name": "บัญชีและงบการเงิน",
+        "category": "บัญชีและการเงิน",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "Excel และการจัดการข้อมูล",
         "category": "ดิจิทัลและไอที",
         "count": 4,
         "percent": 8.3
       },
       {
-        "name": "คลังสินค้าและสต๊อก",
-        "category": "โลจิสติกส์",
+        "name": "การเกษตรและปศุสัตว์",
+        "category": "เกษตรและอาหาร",
         "count": 3,
         "percent": 6.3
       },
       {
-        "name": "ควบคุมคุณภาพ QA/QC",
-        "category": "การผลิตและวิศวกรรม",
+        "name": "งานอาหารและเครื่องดื่ม",
+        "category": "บริการและสุขภาพ",
         "count": 3,
         "percent": 6.3
       },
       {
-        "name": "การดูแลความสัมพันธ์ลูกค้า",
+        "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
+        "category": "เกษตรและอาหาร",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+        "category": "ดิจิทัลและไอที",
+        "count": 2,
+        "percent": 4.2
+      },
+      {
+        "name": "การหาลูกค้าใหม่และขยายตลาด",
         "category": "การขายและการตลาด",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "ความปลอดภัยและอาชีวอนามัย",
+        "name": "งานเครื่องกลและงานเชื่อม",
         "category": "การผลิตและวิศวกรรม",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "คอมพิวเตอร์พื้นฐาน",
-        "category": "ดิจิทัลและไอที",
+        "name": "จัดซื้อและจัดหา",
+        "category": "บัญชีและการเงิน",
         "count": 2,
         "percent": 4.2
       },
       {
-        "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+        "name": "ระบบอัตโนมัติ PLC และการควบคุม",
         "category": "การผลิตและวิศวกรรม",
         "count": 2,
         "percent": 4.2
-      },
-      {
-        "name": "อุตสาหกรรมอาหารและแปรรูป",
-        "category": "เกษตรและอาหาร",
-        "count": 2,
-        "percent": 4.2
-      },
-      {
-        "name": "Excel และการจัดการข้อมูล",
-        "category": "ดิจิทัลและไอที",
-        "count": 2,
-        "percent": 4.2
-      },
-      {
-        "name": "การเกษตรและปศุสัตว์",
-        "category": "เกษตรและอาหาร",
-        "count": 1,
-        "percent": 2.1
-      },
-      {
-        "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
-        "category": "ดิจิทัลและไอที",
-        "count": 1,
-        "percent": 2.1
       },
       {
         "name": "การพัฒนาซอฟต์แวร์",
@@ -274,20 +329,8 @@
         "percent": 2.1
       },
       {
-        "name": "การวางแผนการตลาด",
-        "category": "การขายและการตลาด",
-        "count": 1,
-        "percent": 2.1
-      },
-      {
         "name": "การสอนและฝึกอบรม",
         "category": "บริการและสุขภาพ",
-        "count": 1,
-        "percent": 2.1
-      },
-      {
-        "name": "การหาลูกค้าใหม่และขยายตลาด",
-        "category": "การขายและการตลาด",
         "count": 1,
         "percent": 2.1
       },
@@ -308,62 +351,74 @@
         "category": "ดิจิทัลและไอที",
         "count": 1,
         "percent": 2.1
-      },
-      {
-        "name": "ระบบมาตรฐาน ISO และ GMP",
-        "category": "การผลิตและวิศวกรรม",
-        "count": 1,
-        "percent": 2.1
       }
     ],
     "soft": [
       {
-        "name": "การวางแผนและจัดลำดับงาน",
+        "name": "การประสานงานข้ามหน่วยงาน",
         "category": "ทักษะเชิงพฤติกรรม",
-        "count": 3,
-        "percent": 6.3
+        "count": 18,
+        "percent": 37.5
       },
       {
         "name": "การสื่อสาร",
         "category": "ทักษะเชิงพฤติกรรม",
-        "count": 3,
-        "percent": 6.3
-      },
-      {
-        "name": "ความรับผิดชอบ",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 3,
-        "percent": 6.3
-      },
-      {
-        "name": "ความอดทนและแรงกดดัน",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 3,
-        "percent": 6.3
-      },
-      {
-        "name": "ใจรักบริการ",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 3,
-        "percent": 6.3
-      },
-      {
-        "name": "การทำงานเป็นทีม",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 2,
-        "percent": 4.2
-      },
-      {
-        "name": "การเรียนรู้และพัฒนาตนเอง",
-        "category": "ทักษะเชิงพฤติกรรม",
-        "count": 2,
-        "percent": 4.2
+        "count": 13,
+        "percent": 27.1
       },
       {
         "name": "การแก้ปัญหา",
         "category": "ทักษะเชิงพฤติกรรม",
-        "count": 1,
-        "percent": 2.1
+        "count": 12,
+        "percent": 25
+      },
+      {
+        "name": "การวางแผนและจัดลำดับงาน",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "ความรับผิดชอบ",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 8,
+        "percent": 16.7
+      },
+      {
+        "name": "การเรียนรู้และพัฒนาตนเอง",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 7,
+        "percent": 14.6
+      },
+      {
+        "name": "ความอดทนและแรงกดดัน",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "ใจรักบริการ",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 6,
+        "percent": 12.5
+      },
+      {
+        "name": "การทำงานเป็นทีม",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 4,
+        "percent": 8.3
+      },
+      {
+        "name": "ภาวะผู้นำและการบริหารทีม",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 3,
+        "percent": 6.3
+      },
+      {
+        "name": "ความละเอียดรอบคอบ",
+        "category": "ทักษะเชิงพฤติกรรม",
+        "count": 2,
+        "percent": 4.2
       }
     ],
     "byCategory": [
@@ -373,14 +428,14 @@
           {
             "name": "งานขายและปิดการขาย",
             "category": "การขายและการตลาด",
-            "count": 22,
-            "percent": 45.8
+            "count": 29,
+            "percent": 60.4
           },
           {
             "name": "การนำเสนอและเจรจาต่อรอง",
             "category": "การขายและการตลาด",
-            "count": 6,
-            "percent": 12.5
+            "count": 13,
+            "percent": 27.1
           },
           {
             "name": "งานขายหน้าร้านและบริการลูกค้า",
@@ -389,154 +444,52 @@
             "percent": 12.5
           },
           {
-            "name": "การดูแลความสัมพันธ์ลูกค้า",
-            "category": "การขายและการตลาด",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
             "name": "การวางแผนการตลาด",
             "category": "การขายและการตลาด",
-            "count": 1,
-            "percent": 2.1
+            "count": 5,
+            "percent": 10.4
+          },
+          {
+            "name": "การดูแลความสัมพันธ์ลูกค้า",
+            "category": "การขายและการตลาด",
+            "count": 4,
+            "percent": 8.3
           },
           {
             "name": "การหาลูกค้าใหม่และขยายตลาด",
             "category": "การขายและการตลาด",
-            "count": 1,
-            "percent": 2.1
-          }
-        ],
-        "jobCount": 24
-      },
-      {
-        "category": "บัญชีและการเงิน",
-        "skills": [
-          {
-            "name": "การเงินและสินเชื่อ",
-            "category": "บัญชีและการเงิน",
-            "count": 15,
-            "percent": 31.3
-          },
-          {
-            "name": "งานธุรการและเอกสาร",
-            "category": "บัญชีและการเงิน",
-            "count": 10,
-            "percent": 20.8
-          },
-          {
-            "name": "บัญชีและงบการเงิน",
-            "category": "บัญชีและการเงิน",
-            "count": 7,
-            "percent": 14.6
-          },
-          {
-            "name": "งานบุคคลและสรรหา",
-            "category": "บัญชีและการเงิน",
-            "count": 6,
-            "percent": 12.5
-          }
-        ],
-        "jobCount": 20
-      },
-      {
-        "category": "บริการและสุขภาพ",
-        "skills": [
-          {
-            "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-            "category": "บริการและสุขภาพ",
-            "count": 8,
-            "percent": 16.7
-          },
-          {
-            "name": "งานสุขภาพและพยาบาล",
-            "category": "บริการและสุขภาพ",
-            "count": 8,
-            "percent": 16.7
-          },
-          {
-            "name": "งานอาหารและเครื่องดื่ม",
-            "category": "บริการและสุขภาพ",
-            "count": 4,
-            "percent": 8.3
-          },
-          {
-            "name": "การสอนและฝึกอบรม",
-            "category": "บริการและสุขภาพ",
-            "count": 1,
-            "percent": 2.1
-          }
-        ],
-        "jobCount": 15
-      },
-      {
-        "category": "การผลิตและวิศวกรรม",
-        "skills": [
-          {
-            "name": "งานก่อสร้างและโยธา",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 4,
-            "percent": 8.3
-          },
-          {
-            "name": "ควบคุมคุณภาพ QA/QC",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 3,
-            "percent": 6.3
-          },
-          {
-            "name": "ความปลอดภัยและอาชีวอนามัย",
-            "category": "การผลิตและวิศวกรรม",
             "count": 2,
             "percent": 4.2
-          },
-          {
-            "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
-            "name": "ซ่อมบำรุงเครื่องจักร",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 1,
-            "percent": 2.1
-          },
-          {
-            "name": "ระบบมาตรฐาน ISO และ GMP",
-            "category": "การผลิตและวิศวกรรม",
-            "count": 1,
-            "percent": 2.1
           }
         ],
-        "jobCount": 10
+        "jobCount": 32
       },
       {
         "category": "ดิจิทัลและไอที",
         "skills": [
           {
+            "name": "คอมพิวเตอร์พื้นฐาน",
+            "category": "ดิจิทัลและไอที",
+            "count": 10,
+            "percent": 20.8
+          },
+          {
             "name": "Microsoft Office",
+            "category": "ดิจิทัลและไอที",
+            "count": 9,
+            "percent": 18.8
+          },
+          {
+            "name": "Excel และการจัดการข้อมูล",
             "category": "ดิจิทัลและไอที",
             "count": 4,
             "percent": 8.3
           },
           {
-            "name": "คอมพิวเตอร์พื้นฐาน",
-            "category": "ดิจิทัลและไอที",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
-            "name": "Excel และการจัดการข้อมูล",
-            "category": "ดิจิทัลและไอที",
-            "count": 2,
-            "percent": 4.2
-          },
-          {
             "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
             "category": "ดิจิทัลและไอที",
-            "count": 1,
-            "percent": 2.1
+            "count": 2,
+            "percent": 4.2
           },
           {
             "name": "การพัฒนาซอฟต์แวร์",
@@ -557,7 +510,43 @@
             "percent": 2.1
           }
         ],
-        "jobCount": 8
+        "jobCount": 19
+      },
+      {
+        "category": "บัญชีและการเงิน",
+        "skills": [
+          {
+            "name": "การเงินและสินเชื่อ",
+            "category": "บัญชีและการเงิน",
+            "count": 12,
+            "percent": 25
+          },
+          {
+            "name": "งานธุรการและเอกสาร",
+            "category": "บัญชีและการเงิน",
+            "count": 5,
+            "percent": 10.4
+          },
+          {
+            "name": "งานบุคคลและสรรหา",
+            "category": "บัญชีและการเงิน",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "บัญชีและงบการเงิน",
+            "category": "บัญชีและการเงิน",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "จัดซื้อและจัดหา",
+            "category": "บัญชีและการเงิน",
+            "count": 2,
+            "percent": 4.2
+          }
+        ],
+        "jobCount": 19
       },
       {
         "category": "โลจิสติกส์",
@@ -565,17 +554,113 @@
           {
             "name": "ขับรถและงานภาคสนาม",
             "category": "โลจิสติกส์",
-            "count": 5,
-            "percent": 10.4
+            "count": 12,
+            "percent": 25
           },
           {
             "name": "คลังสินค้าและสต๊อก",
             "category": "โลจิสติกส์",
-            "count": 3,
-            "percent": 6.3
+            "count": 7,
+            "percent": 14.6
+          },
+          {
+            "name": "ขนส่งและกระจายสินค้า",
+            "category": "โลจิสติกส์",
+            "count": 6,
+            "percent": 12.5
           }
         ],
-        "jobCount": 7
+        "jobCount": 18
+      },
+      {
+        "category": "บริการและสุขภาพ",
+        "skills": [
+          {
+            "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+            "category": "บริการและสุขภาพ",
+            "count": 11,
+            "percent": 22.9
+          },
+          {
+            "name": "งานสุขภาพและพยาบาล",
+            "category": "บริการและสุขภาพ",
+            "count": 7,
+            "percent": 14.6
+          },
+          {
+            "name": "งานอาหารและเครื่องดื่ม",
+            "category": "บริการและสุขภาพ",
+            "count": 3,
+            "percent": 6.3
+          },
+          {
+            "name": "การสอนและฝึกอบรม",
+            "category": "บริการและสุขภาพ",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 18
+      },
+      {
+        "category": "การผลิตและวิศวกรรม",
+        "skills": [
+          {
+            "name": "ความปลอดภัยและอาชีวอนามัย",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 8,
+            "percent": 16.7
+          },
+          {
+            "name": "งานก่อสร้างและโยธา",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 7,
+            "percent": 14.6
+          },
+          {
+            "name": "ระบบมาตรฐาน ISO และ GMP",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 6,
+            "percent": 12.5
+          },
+          {
+            "name": "ควบคุมการผลิต",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 5,
+            "percent": 10.4
+          },
+          {
+            "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 5,
+            "percent": 10.4
+          },
+          {
+            "name": "ควบคุมคุณภาพ QA/QC",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 4,
+            "percent": 8.3
+          },
+          {
+            "name": "งานเครื่องกลและงานเชื่อม",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "ระบบอัตโนมัติ PLC และการควบคุม",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 2,
+            "percent": 4.2
+          },
+          {
+            "name": "ซ่อมบำรุงเครื่องจักร",
+            "category": "การผลิตและวิศวกรรม",
+            "count": 1,
+            "percent": 2.1
+          }
+        ],
+        "jobCount": 17
       },
       {
         "category": "เกษตรและอาหาร",
@@ -583,55 +668,66 @@
           {
             "name": "อุตสาหกรรมอาหารและแปรรูป",
             "category": "เกษตรและอาหาร",
-            "count": 2,
-            "percent": 4.2
+            "count": 5,
+            "percent": 10.4
           },
           {
             "name": "การเกษตรและปศุสัตว์",
             "category": "เกษตรและอาหาร",
-            "count": 1,
-            "percent": 2.1
+            "count": 3,
+            "percent": 6.3
+          },
+          {
+            "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
+            "category": "เกษตรและอาหาร",
+            "count": 3,
+            "percent": 6.3
           }
         ],
-        "jobCount": 3
+        "jobCount": 8
       }
     ],
     "requirements": [
       {
+        "name": "ต้องมีประสบการณ์",
+        "count": 32,
+        "percent": 66.7
+      },
+      {
         "name": "ปริญญาตรีขึ้นไป",
+        "count": 26,
+        "percent": 54.2
+      },
+      {
+        "name": "ปวส./ปวช.",
+        "count": 18,
+        "percent": 37.5
+      },
+      {
+        "name": "ใบอนุญาตขับขี่",
         "count": 13,
         "percent": 27.1
       },
       {
-        "name": "ต้องมีประสบการณ์",
-        "count": 12,
-        "percent": 25
+        "name": "ยินดีรับนักศึกษาจบใหม่",
+        "count": 11,
+        "percent": 22.9
       },
       {
-        "name": "ยินดีรับนักศึกษาจบใหม่",
+        "name": "มีรถยนต์/จักรยานยนต์ส่วนตัว",
         "count": 8,
         "percent": 16.7
       },
       {
-        "name": "มีรถยนต์/จักรยานยนต์ส่วนตัว",
-        "count": 6,
-        "percent": 12.5
-      },
-      {
-        "name": "ปวส./ปวช.",
-        "count": 6,
-        "percent": 12.5
-      },
-      {
-        "name": "ใบอนุญาตขับขี่",
-        "count": 5,
-        "percent": 10.4
+        "name": "ภาษาอังกฤษ",
+        "count": 4,
+        "percent": 8.3
       }
     ],
     "districts": [
       {
         "name": "เมือง",
-        "count": 16
+        "count": 15
       },
       {
         "name": "ไม่ระบุอำเภอ",
@@ -654,11 +750,15 @@
         "count": 1
       },
       {
+        "name": "ท่าคันโท",
+        "count": 1
+      },
+      {
         "name": "สามชัย",
         "count": 1
       },
       {
-        "name": "ท่าคันโท",
+        "name": "ขอนแก่น / ร้อยเอ็ด /  / มหาสารคาม ที่ Ricoh Thailand Limited พื้นที่ Mahasarakham",
         "count": 1
       },
       {
@@ -693,111 +793,64 @@
   },
   "jobs": [
     {
-      "id": "jobthai-1261926",
-      "title": "เจ้าหน้าที่ฝ่ายขายบัตรเครดิตและประกันภัย Lotus's Money Plus โลตัสกุฉินารายณ์",
-      "company": "กรุงศรี คอนซูมเมอร์ (Krungsri Consumer)",
-      "location": "กุฉินารายณ์ · กาฬสินธุ์",
-      "district": "กุฉินารายณ์",
-      "salary": "รายได้ 13,000 - 17,000 เดือน + commission ไม่มีเพดาน",
+      "id": "jobthai-1667315",
+      "title": "Financial & Loan Advisor Staff  สาขาBigC กาฬสินธุ์ รับสมัครด่วน !",
+      "company": "AEON Thana Sinsap (Thailand) Public Co.,Ltd.",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "13,000 บาท + ค่าคอมมิชชั่น",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1261926",
+      "url": "https://www.jobthai.com/th/job/1667315",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1261926",
-          "sourceId": "jobthai-1261926"
+          "url": "https://www.jobthai.com/th/job/1667315",
+          "sourceId": "jobthai-1667315"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
-        {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1585076",
-      "title": "POS Sales Executive จ.กาฬสินธุ์",
-      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev)",
-      "location": "กาฬสินธุ์",
-      "district": "",
-      "salary": "16,000 - 22,000 บาท",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1585076",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1585076",
-          "sourceId": "jobthai-1585076"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
           "name": "งานขายและปิดการขาย",
           "category": "การขายและการตลาด"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1870790",
-      "title": "Spray Dryer Operator",
-      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
-      "url": "https://www.jobthai.com/th/company/job/1870790",
-      "sources": [
+        },
         {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1870790",
-          "sourceId": "jobthai-1870790"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1888135",
-      "title": "Maintenance Technician",
-      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานช่างเทคนิค",
-      "url": "https://www.jobthai.com/th/company/job/1888135",
-      "sources": [
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
         {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1888135",
-          "sourceId": "jobthai-1888135"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
         {
-          "name": "ซ่อมบำรุงเครื่องจักร",
-          "category": "การผลิตและวิศวกรรม"
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - นำเสนอผลิตภัณฑ์สินเชื่อและบัตรอิออนให้กับลูกค้า - แนะนำข้อมูลสิทธิประโยชน์และการบริการให้กับลูกค้า - ออกบูธประชาสัมพันธ์บัตรอิออนตามพื้นที่ในเขตที่ตัวเองรับผิดชอบ คุณสมบัติผู้สมัคร • เพศชาย/หญิง อายุ 20-35 ปี • วุฒิการศึกษา ปวส.ขึ้นไป (ไม่จำกัดสาขา) • รักงานขาย/งานบริการ มีทักษะในการพูดจูงใจ/มีความเชื่อ"
     },
     {
       "id": "jobthai-1744273",
@@ -807,48 +860,54 @@
       "district": "เมืองกาฬสินธุ์",
       "salary": "12,000 - 15,000 บาท",
       "employment": "งานช่างเทคนิค",
-      "url": "https://www.jobthai.com/th/company/job/1744273",
+      "url": "https://www.jobthai.com/th/job/1744273",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1744273",
+          "url": "https://www.jobthai.com/th/job/1744273",
           "sourceId": "jobthai-1744273"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1617876",
-      "title": "พนักงานขาย สาขากุฉินารายณ์ (กาฬสินธุ์)",
-      "company": "บริษัท วนชัย กรุ๊ป จำกัด (มหาชน)",
-      "location": "กุฉินารายณ์ · กาฬสินธุ์",
-      "district": "กุฉินารายณ์",
-      "salary": "12,000 + ค่าครองชีพ",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1617876",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1617876",
-          "sourceId": "jobthai-1617876"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "จัดซื้อและจัดหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1.ติดตั้งสายสัญญาณและโครงข่ายอินเทอร์เน็ตบรอดแบนด์ 2.ซ่อมเหตุเสียสัญญาณและโครงข่ายอินเทอร์เน็ตบรอดแบนด์ 3.ดูแลบริการลูกค้าหลังการขายอินเทอร์เน็ตบรอดแบนด์ 4.เพื่อความรู้ความสามารถงานเอินเทอร์เน็ตบรอดแบนด์ 5.เรียนรู้งานติดตั้ง และ ซ่อมเหตุเสีย Product ต่างๆของบริษัทฯ กับวิทยากรที่ทางบริษัทฯจัดหาให้ คุณสมบัต"
     },
     {
       "id": "jobthai-1807844",
@@ -858,20 +917,24 @@
       "district": "เมืองกาฬสินธุ์",
       "salary": "12,000 - 25,000 บาท",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1807844",
+      "url": "https://www.jobthai.com/th/job/1807844",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1807844",
+          "url": "https://www.jobthai.com/th/job/1807844",
           "sourceId": "jobthai-1807844"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
           "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การวางแผนการตลาด",
           "category": "การขายและการตลาด"
         },
         {
@@ -884,7 +947,7 @@
         }
       ],
       "requirements": [],
-      "summary": ""
+      "summary": "รายละเอียดงาน พนักงานขายและบริการลูกค้า ประจำ ทรูช็อป (True Shop) สังกัด (outsource) สามารถทำงานในพื้นที่ ๆ บริษัทกำหนดได้ กรณีมีการเปลี่ยนแปลงสถานที่ทำงาน สลับการทำงาน (Rotate) เช่น เวียนสาขา หรือ ต้องย้ายไปช่วยงานสาขาใหม่ ต้องสะดวกเดินทางและสามารถปฏิบัติงานได้ 1.ประจำสาขา เชียร์ขาย Sim Promotion & Smartphone & True i"
     },
     {
       "id": "jobthai-1810688",
@@ -894,20 +957,24 @@
       "district": "สมเด็จ",
       "salary": "12,000 - 25,000 บาท",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1810688",
+      "url": "https://www.jobthai.com/th/job/1810688",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1810688",
+          "url": "https://www.jobthai.com/th/job/1810688",
           "sourceId": "jobthai-1810688"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
           "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การวางแผนการตลาด",
           "category": "การขายและการตลาด"
         },
         {
@@ -920,86 +987,113 @@
         }
       ],
       "requirements": [],
-      "summary": ""
+      "summary": "รายละเอียดงาน พนักงานขายและบริการลูกค้า ประจำ ทรูช็อป (True Shop) สังกัด (outsource) รายได้ ฐานเงินเดือน 12,000 บาท ค่า commission 10,000-30,000 บาท สามารถทำงานในพื้นที่ ๆ บริษัทกำหนดได้ กรณีมีการเปลี่ยนแปลงสถานที่ทำงาน สลับการทำงาน (Rotate) เช่น เวียนสาขา หรือ ต้องย้ายไปช่วยงานสาขาใหม่ ต้องสะดวกเดินทางและสามารถปฏิบัติ"
     },
     {
-      "id": "jobthai-1088662",
-      "title": "ผู้จัดการเขตฝ่ายขาย ประจำ จ.กาฬสินธุ์",
-      "company": "บริษัท สมใจ 2559 จำกัด",
-      "location": "กาฬสินธุ์",
-      "district": "",
-      "salary": "รายได้ รวมค่าคอม 30,000  +++",
+      "id": "jobthai-1261926",
+      "title": "เจ้าหน้าที่ฝ่ายขายบัตรเครดิตและประกันภัย Lotus's Money Plus โลตัสกุฉินารายณ์",
+      "company": "กรุงศรี คอนซูมเมอร์ (Krungsri Consumer)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "รายได้ 13,000 - 17,000 เดือน + commission ไม่มีเพดาน",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1088662",
+      "url": "https://www.jobthai.com/th/job/1261926",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1088662",
-          "sourceId": "jobthai-1088662"
+          "url": "https://www.jobthai.com/th/job/1261926",
+          "sourceId": "jobthai-1261926"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1927993",
-      "title": "ผู้ควบคุมฮาลาลประจำสถานประกอบการ (Halal Supervisor) ประจำที่กาฬสินธ์",
-      "company": "บริษัท สยามพรีเสิร์ฟฟู้ดส์ จำกัด",
-      "location": "สามชัย · กาฬสินธุ์",
-      "district": "สามชัย",
-      "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
-      "url": "https://www.jobthai.com/th/company/job/1927993",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1927993",
-          "sourceId": "jobthai-1927993"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ระบบมาตรฐาน ISO และ GMP",
-          "category": "การผลิตและวิศวกรรม"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1667315",
-      "title": "Financial & Loan Advisor Staff  สาขาBigC กาฬสินธุ์ รับสมัครด่วน !",
-      "company": "AEON Thana Sinsap (Thailand) Public Co.,Ltd.",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "13,000 บาท + ค่าคอมมิชชั่น",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1667315",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1667315",
-          "sourceId": "jobthai-1667315"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
         {
           "name": "การเงินและสินเชื่อ",
           "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [],
-      "summary": ""
+      "summary": "รายละเอียดงาน หน้าที่ความรับผิดชอบ • นำเสนอและให้คำแนะนำผลิตภัณฑ์ทางการเงินMoney Plus ได้แก่ บัตรเครดิต, บัตรสินเชื่อกดเงินสด/ผ่อนสินค้า, ประกันภัยรถยนต์ และประกัน PA (อุบัติเหตุ/ชดเชยรายได้/โรคร้ายแรง/สุขภาพ) • ออกนอกพื้นที่ เพื่อจัดกิจกรรมสนับสนุนการขายของสาขา • บริการลูกค้าที่มาติดต่อสาขา รวมทั้งตรวจสอบเอกสาร ให้คำป"
+    },
+    {
+      "id": "jobthai-1585076",
+      "title": "POS Sales Executive จ.กาฬสินธุ์",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev)",
+      "location": "กาฬสินธุ์",
+      "district": "",
+      "salary": "16,000 - 22,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1585076",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1585076",
+          "sourceId": "jobthai-1585076"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "Excel และการจัดการข้อมูล",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ภาวะผู้นำและการบริหารทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1. ออกภาคสนาม ผลักดันให้ร้านค้าติดตั้งเครื่อง POS 2. ติดตามร้านค้าให้ใช้งานเครื่อง POS อย่างต่อเนื่อง 3. วางแผนเส้นทางปฏิบัติงาน และปฏิบัติตามแผนงานให้มีประสิทธิภาพ 4. เข้าเยี่ยม สอนการใช้งานให้กับร้านค้า 5. สรุปผลการทำงาน รวบรวมข้อเสนอแนะ **อาจมีวิ่งจังหวัดข้างเคียงบ้างในบางครั้ง** **มีค่าคอมมิชชั่นเพิ่ม"
     },
     {
       "id": "jobthai-1947223",
@@ -1009,20 +1103,68 @@
       "district": "เมืองกาฬสินธุ์",
       "salary": "40,000 - 50,000 บาท",
       "employment": "อื่นๆ",
-      "url": "https://www.jobthai.com/th/company/job/1947223",
+      "url": "https://www.jobthai.com/th/job/1947223",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1947223",
+          "url": "https://www.jobthai.com/th/job/1947223",
           "sourceId": "jobthai-1947223"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "จัดซื้อและจัดหา",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ควบคุมการผลิต",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ควบคุมคุณภาพ QA/QC",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ภาวะผู้นำและการบริหารทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - บริหารและวางแผนงานด้าน Research & Development (R&D) ให้สอดคล้องกับทิศทางและเป้าหมายทางธุรกิจของบริษัท - คิดค้น พัฒนา และปรับปรุงผลิตภัณฑ์อาหารใหม่ ตั้งแต่ Product Concept, Recipe Development, Laboratory Trial จนถึง Commercial Production - พัฒนาสูตรและกระบวนการผลิตให้มีคุณภาพ รสชาติ และต้นทุนที่เหมาะสมกั"
     },
     {
       "id": "jobthai-1917948",
@@ -1032,53 +1174,64 @@
       "district": "ท่าคันโท",
       "salary": "ตามโครงสร้างบริษัทฯ",
       "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
-      "url": "https://www.jobthai.com/th/company/job/1917948",
+      "url": "https://www.jobthai.com/th/job/1917948",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1917948",
+          "url": "https://www.jobthai.com/th/job/1917948",
           "sourceId": "jobthai-1917948"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "ควบคุมการผลิต",
+          "category": "การผลิตและวิศวกรรม"
+        },
         {
           "name": "ควบคุมคุณภาพ QA/QC",
           "category": "การผลิตและวิศวกรรม"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1887714",
-      "title": "เจ้าหน้าที่สินเชื่อ สาขากาฬสินธุ์",
-      "company": "บริษัท ควิก ลิสซิ่ง จำกัด",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "10,470 - 11,470 บาท",
-      "employment": "งานการเงิน/ธนาคาร",
-      "url": "https://www.jobthai.com/th/company/job/1887714",
-      "sources": [
+        },
         {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1887714",
-          "sourceId": "jobthai-1887714"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
         {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความละเอียดรอบคอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1 การสอบเทียบเครื่องมือทดสอบ การควบคุมคุณภาพระหว่างการผลิต และผลิตภัณฑ์สุดท้าย รายงาน/ควบคุมและสรุปประเด็นที่ไม่สอดคล้อง รวมถึงการอัพเดทกฏหมายด้านอาหาร 2 ตรวจสอบคุณภาพของวัตถุดิบ สารเคมี บรรจุภัณฑ์ให้เป็นไปตามมาตรฐานที่กำหนด 3 เก็บตัวอย่าง และทดสอบคุณภาพตามวิธีปฏิบัติงานที่กำหนด เช่น การวัดค่าทางกายภาพ ทา"
     },
     {
       "id": "jobthai-1894097",
@@ -1088,73 +1241,72 @@
       "district": "เมืองกาฬสินธุ์",
       "salary": "12,000 - 28,000 บาท",
       "employment": "งานการตลาด",
-      "url": "https://www.jobthai.com/th/company/job/1894097",
+      "url": "https://www.jobthai.com/th/job/1894097",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1894097",
+          "url": "https://www.jobthai.com/th/job/1894097",
           "sourceId": "jobthai-1894097"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
         {
           "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
           "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การดูแลความสัมพันธ์ลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความละเอียดรอบคอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - เป็นการขายออนไลน์ ทั้งในประเทศและต่างประเทศ - ตอบรับลูกค้าได้เร็วและถูกต้อง - ดูแลลูกค้าหลังการขาย มีใจรักในงานขาย -มีเวลาในการตอบแชตลูกค้าเต็มที่ คุณสมบัติผู้สมัคร • เพศหญิง-ชาย อายุ 22 -30 ปี (เพศชายต้องผ่านการเกณฑ์ทหาร) • วุฒิ ปริญญาตรี • มีทักษะในการพูด ,มีใจรักการขายและซื่อสัตย์รอบคอบ • มีความอดทนต"
     },
     {
-      "id": "jobthai-1774973",
-      "title": "ผู้ช่วยหัวหน้าคลังสินค้า",
-      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
-      "location": "ยางตลาด · กาฬสินธุ์",
-      "district": "ยางตลาด",
-      "salary": "13,000 - 20,000 บาท",
-      "employment": "งานขนส่งและคลังสินค้า",
-      "url": "https://www.jobthai.com/th/company/job/1774973",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1774973",
-          "sourceId": "jobthai-1774973"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
-        {
-          "name": "คลังสินค้าและสต๊อก",
-          "category": "โลจิสติกส์"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1691266",
-      "title": "พนักงานขายวัสดุก่อสร้าง",
-      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
-      "location": "ยางตลาด · กาฬสินธุ์",
-      "district": "ยางตลาด",
-      "salary": "10,500 - 13,000 บาท",
+      "id": "jobthai-1617876",
+      "title": "พนักงานขาย สาขากุฉินารายณ์ (กาฬสินธุ์)",
+      "company": "บริษัท วนชัย กรุ๊ป จำกัด (มหาชน)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "12,000 + ค่าครองชีพ",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1691266",
+      "url": "https://www.jobthai.com/th/job/1617876",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1691266",
-          "sourceId": "jobthai-1691266"
+          "url": "https://www.jobthai.com/th/job/1617876",
+          "sourceId": "jobthai-1617876"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
           "name": "งานขายและปิดการขาย",
@@ -1163,82 +1315,54 @@
         {
           "name": "งานก่อสร้างและโยธา",
           "category": "การผลิตและวิศวกรรม"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1605927",
-      "title": "หัวหน้าฝ่ายขาย",
-      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
-      "location": "ยางตลาด · กาฬสินธุ์",
-      "district": "ยางตลาด",
-      "salary": "13,000 - 25,000 บาท",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1605927",
-      "sources": [
+        },
         {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1605927",
-          "sourceId": "jobthai-1605927"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1755033",
-      "title": "พนักงานขับรถส่งสารเคมี",
-      "company": "บริษัท ซีนอน อินเตอร์ จำกัด (สำนักงานใหญ่)",
-      "location": "กุฉินารายณ์ · กาฬสินธุ์",
-      "district": "กุฉินารายณ์",
-      "salary": "13,000 - 20,000 บาท",
-      "employment": "งานขับรถ",
-      "url": "https://www.jobthai.com/th/company/job/1755033",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1755033",
-          "sourceId": "jobthai-1755033"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
         {
           "name": "ขับรถและงานภาคสนาม",
           "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน -ขายและแนะนำสินค้าแก่ลูกค้า -ควบคุมและดูแลความเรียบร้อยของสินค้า -ตรวจสอบสินค้าก่อนจัดส่งให้กับลูกค้า -จัดส่งสินค้าให้กับลูกค้า คุณสมบัติผู้สมัคร • เพศชาย • วุฒิการศึกษา ม.3 ขึ้นไป • สามารถขับรถยนต์ได้และมีใบขับขี่ • มีความซื่อสัตย์ มีใจรักงานบริการ • ยินดีรับผู้ไม่มีประสบการณ์ • หากขับรถฟอร์คลิฟท์ได้จะพิ"
     },
     {
-      "id": "jobthai-1892854",
-      "title": "ผู้แนะนำผลิตภัทฑ์ทางการเงิน(Direct Sales Agent) สาขากาฬสินธุ์",
-      "company": "บริษัท เพื่อนแท้ แคปปิตอล จำกัด",
+      "id": "jobthai-1887714",
+      "title": "เจ้าหน้าที่สินเชื่อ สาขากาฬสินธุ์",
+      "company": "บริษัท ควิก ลิสซิ่ง จำกัด",
       "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
       "district": "เมืองกาฬสินธุ์",
-      "salary": "ตามตกลง",
+      "salary": "10,470 - 11,470 บาท",
       "employment": "งานการเงิน/ธนาคาร",
-      "url": "https://www.jobthai.com/th/company/job/1892854",
+      "url": "https://www.jobthai.com/th/job/1887714",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1892854",
-          "sourceId": "jobthai-1892854"
+          "url": "https://www.jobthai.com/th/job/1887714",
+          "sourceId": "jobthai-1887714"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
         {
           "name": "งานขายและปิดการขาย",
           "category": "การขายและการตลาด"
@@ -1246,110 +1370,134 @@
         {
           "name": "การเงินและสินเชื่อ",
           "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1. รับผิดชอบงานด้านปล่อยสินเชื่อและจัดเก็บพร้อมด้วยกำไรสุทธิสาขา 2. วิเคราะห์และพิจารณาสินเชื่อ 3. ให้บริการลูกค้าในการชำระค่างวด 4. ติดตามการชำระคงค้างของลูกค้า 5. งานด้านอื่นๆ ที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย/หญิง อายุ 22-35 ปี • วุฒิ ปวส.ขึ้นไป (ไม่จำกัดสาขา) • สามารถแก้ไขปัญหา และตัดสินใจเฉ"
     },
     {
-      "id": "jobthai-1822226",
-      "title": "เจ้าหน้าที่การค้าเบียร์-ออฟเทรด (กาฬสินธุ์)",
-      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev) / Chang International",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "ตามประสบการณ์",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1822226",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1822226",
-          "sourceId": "jobthai-1822226"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1936549",
-      "title": "เจ้าหน้าที่บัญชี (Accounting Staff)",
-      "company": "ห้างหุ้นส่วนจำกัด จินตนาเครื่องนอน เวิร์ลเทรด",
-      "location": "ยางตลาด · กาฬสินธุ์",
-      "district": "ยางตลาด",
-      "salary": "15,000 บาท (ขึ้นอยู่กับประสบการณ์)",
-      "employment": "งานบัญชี",
-      "url": "https://www.jobthai.com/th/company/job/1936549",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1936549",
-          "sourceId": "jobthai-1936549"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
-        {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1897272",
-      "title": "QA Officer",
+      "id": "jobthai-1870790",
+      "title": "Spray Dryer Operator",
       "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
       "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
       "district": "เมืองกาฬสินธุ์",
       "salary": "ตามโครงสร้างบริษัทฯ",
       "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
-      "url": "https://www.jobthai.com/th/company/job/1897272",
+      "url": "https://www.jobthai.com/th/job/1870790",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1897272",
-          "sourceId": "jobthai-1897272"
+          "url": "https://www.jobthai.com/th/job/1870790",
+          "sourceId": "jobthai-1870790"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "ควบคุมคุณภาพ QA/QC",
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "ควบคุมการผลิต",
           "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบอัตโนมัติ PLC และการควบคุม",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "งานเครื่องกลและงานเชื่อม",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การทำงานเป็นทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ภาษาอังกฤษ",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช."
+      ],
+      "summary": "รายละเอียดงาน ปฏิบัติงานหน้าที่ตามที่ได้รับมอบหมาย เพื่อสนับสนุนการผลิตแป้ง SPRAY DRY ให้เป็นไปตามแผนการผลิต อย่างมีคุณภาพ ด้วยความปลอดภัย โดยใช้ทรัพยากรอย่างคุ้มค่า และสอดคล้องกับระบบมาตรฐานทั้งหมด คุณสมบัติผู้สมัคร • วุฒิการศึกษา ปวส. หรือ ปริญญาตรีสาขาเครื่องกล ไฟฟ้า เคมี เทคโนโลยีอาหาร หรือสาขาที่เกี่ยวข้อง • ประสบ"
     },
     {
-      "id": "jobthai-1941740",
-      "title": "เจ้าหน้าที่สิ่งแวดล้อม  (โรงงานน้ำตาลมิตรกาฬสินธุ์)",
-      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
-      "location": "กุฉินารายณ์ · กาฬสินธุ์",
-      "district": "กุฉินารายณ์",
+      "id": "jobthai-1888135",
+      "title": "Maintenance Technician",
+      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
       "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานสิ่งแวดล้อม/ความปลอดภัย",
-      "url": "https://www.jobthai.com/th/company/job/1941740",
+      "employment": "งานช่างเทคนิค",
+      "url": "https://www.jobthai.com/th/job/1888135",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1941740",
-          "sourceId": "jobthai-1941740"
+          "url": "https://www.jobthai.com/th/job/1888135",
+          "sourceId": "jobthai-1888135"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
+        {
+          "name": "ควบคุมการผลิต",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ซ่อมบำรุงเครื่องจักร",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบไฟฟ้าและอิเล็กทรอนิกส์",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบอัตโนมัติ PLC และการควบคุม",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "งานเครื่องกลและงานเชื่อม",
+          "category": "การผลิตและวิศวกรรม"
+        },
         {
           "name": "ความปลอดภัยและอาชีวอนามัย",
           "category": "การผลิตและวิศวกรรม"
@@ -1357,126 +1505,138 @@
         {
           "name": "อุตสาหกรรมอาหารและแปรรูป",
           "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - รับผิดชอบการปฏิบัติการสาธารณูปโภค (การบำรุงรักษาเชิงป้องกันหม้อน้ำ / เครื่องทำความเย็น / เครื่องอัดอากาศ) ในกะงานเพื่อให้มั่นใจในความปลอดภัย มีประสิทธิภาพ และสม่ำเสมอในการสนับสนุนการผลิต - สนับสนุนการดำเนินงานประจำวันของโรงงาน ปฏิบัติตามแนวทาง EHSSQ ทำการบำรุงรักษาเชิงป้องกันและแก้ไขปัญหาการบำรุงรักษาทั"
     },
     {
-      "id": "jobthai-1372538",
-      "title": "เจ้าหน้าที่เขตส่งเสริม (โรงงานน้ำตาลมิตรกาฬสินธุ์) สัญญาจ้าง 2 ปี",
-      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
-      "location": "กุฉินารายณ์ · กาฬสินธุ์",
-      "district": "กุฉินารายณ์",
-      "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานเกษตร/ปศุสัตว์/ประมง",
-      "url": "https://www.jobthai.com/th/company/job/1372538",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1372538",
-          "sourceId": "jobthai-1372538"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
-        {
-          "name": "อุตสาหกรรมอาหารและแปรรูป",
-          "category": "เกษตรและอาหาร"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1642727",
-      "title": "หัวหน้าแผนกผลิต ประจำสาขากาฬสินธุ์ (STA-KS)",
-      "company": "กลุ่มบริษัท ศรีตรังแอโกรอินดัสทรี จำกัด (มหาชน)",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "ตามโครงสร้างบริษัทฯ",
-      "employment": "งานวิศวกรรม",
-      "url": "https://www.jobthai.com/th/company/job/1642727",
-      "sources": [
-        {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1642727",
-          "sourceId": "jobthai-1642727"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
-        {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
-          "category": "การขายและการตลาด"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1732621",
-      "title": "พนักงานขาย Sales",
-      "company": "บริษัท เอส.พี ฟาร์ม กาฬสินธุ์ จำกัด",
-      "location": "ยางตลาด · กาฬสินธุ์",
-      "district": "ยางตลาด",
-      "salary": "15,000 - 20,000 บาท",
+      "id": "jobthai-1088662",
+      "title": "ผู้จัดการเขตฝ่ายขาย ประจำ จ.กาฬสินธุ์",
+      "company": "บริษัท สมใจ 2559 จำกัด",
+      "location": "กาฬสินธุ์",
+      "district": "",
+      "salary": "รายได้ รวมค่าคอม 30,000  +++",
       "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1732621",
+      "url": "https://www.jobthai.com/th/job/1088662",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1732621",
-          "sourceId": "jobthai-1732621"
+          "url": "https://www.jobthai.com/th/job/1088662",
+          "sourceId": "jobthai-1088662"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
-          "name": "งานขายและปิดการขาย",
-          "category": "การขายและการตลาด"
-        }
-      ],
-      "requirements": [],
-      "summary": ""
-    },
-    {
-      "id": "jobthai-1484333",
-      "title": "พนักงานขายอินเตอร์เน็ตบ้าน ais fibre ประจำสาขากาฬสินธุ์",
-      "company": "บริษัท สามพี่น้อง เทเลคอมเน็ตเวิร์ค จำกัด",
-      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
-      "district": "เมืองกาฬสินธุ์",
-      "salary": "10,000 - 20,000 บาท รวมค่าคอมมิชชั่น",
-      "employment": "งานขาย",
-      "url": "https://www.jobthai.com/th/company/job/1484333",
-      "sources": [
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
         {
-          "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1484333",
-          "sourceId": "jobthai-1484333"
-        }
-      ],
-      "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
-      "skills": [
+          "name": "Excel และการจัดการข้อมูล",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
         {
           "name": "งานขายและปิดการขาย",
           "category": "การขายและการตลาด"
         },
         {
-          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "name": "การวางแผนการตลาด",
           "category": "การขายและการตลาด"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความอดทนและแรงกดดัน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [],
-      "summary": ""
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1. บริหารจัดการ วางแผนกลยุทธ์ในการผลักดันยอดขายของสาขา ให้ได้ตามเป้าหมายที่กำหนด 2. บริหารจัดการกำกับดูแล และตรวจสอบกระบวนการทำงานของทีมงานให้ปฎิบัติงานถูกต้องตามกระบวนการทำงาน รวมถึงการอัพเดตโปรโมชั่นนโยบายต่างๆให้ทีมงานรับทราบและปฎิบัติเป็นแนวเดียวกัน 3. กำกับดูแล มาตรฐานสาขา ความถูกต้องภายในสาขา ให้เป็"
+    },
+    {
+      "id": "jobthai-1927993",
+      "title": "ผู้ควบคุมฮาลาลประจำสถานประกอบการ (Halal Supervisor) ประจำที่กาฬสินธ์",
+      "company": "บริษัท สยามพรีเสิร์ฟฟู้ดส์ จำกัด",
+      "location": "สามชัย · กาฬสินธุ์",
+      "district": "สามชัย",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/job/1927993",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1927993",
+          "sourceId": "jobthai-1927993"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "ควบคุมการผลิต",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ภาษาอังกฤษ",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1.ดูแลสถานประกอบการ จัดทำ และควบคุม Halal Manual 2.กำหนดแนวทางการดำเนินการแก้ไข และป้องกันที่เกี่ยวข้องกับฮาลาล 3.ประสานงานผู้ประกอบการในการจัดทำ Internal Audit 4.ประสานงานผู้ตรวจสอบฮาลาลในระหว่างการตรวจประเมินจากหน่วยงานภายนอก 5.ให้ความรู้และฝึกอบรมพนักงานในโรงงาน เรื่องการดูแลกระบวนการผลิตตาม Halal Manu"
     },
     {
       "id": "jobthai-1941840",
@@ -1486,17 +1646,17 @@
       "district": "เมืองกาฬสินธุ์",
       "salary": "ตามตกลง",
       "employment": "งานบัญชี",
-      "url": "https://www.jobthai.com/th/company/job/1941840",
+      "url": "https://www.jobthai.com/th/job/1941840",
       "sources": [
         {
           "source": "JobThai",
-          "url": "https://www.jobthai.com/th/company/job/1941840",
+          "url": "https://www.jobthai.com/th/job/1941840",
           "sourceId": "jobthai-1941840"
         }
       ],
       "inKalasin": true,
-      "hasDescription": false,
-      "skillMethod": "ชื่อตำแหน่งเท่านั้น",
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
       "skills": [
         {
           "name": "บัญชีและงบการเงิน",
@@ -1507,8 +1667,681 @@
           "category": "บัญชีและการเงิน"
         }
       ],
+      "requirements": [
+        "ภาษาอังกฤษ",
+        "ปริญญาตรีขึ้นไป"
+      ],
+      "summary": "รายละเอียดงาน . ควบคุมและตรวจสอบงานด้านเจ้าหนี้ (AP) สินทรัพย์ถาวร (FA) และการตรวจนับสินค้าคงเหลือ - ควบคุมและตรวจสอบการบันทึกรายการค่าใช้จ่ายเจ้าหนี้ - ควบคุมและตรวจสอบการบันทึกรายการชำระเงินแก่เจ้าหนี้ - ควบคุมและตรวจสอบการขึ้นทะเบียนสินทรัพย์ถาวร - ควบคุมการตรวจนับสินค้าคงเหลือ 2. สนับสนุนงานด้านงบการเงิน - กระทบยอด"
+    },
+    {
+      "id": "jobthai-1774973",
+      "title": "ผู้ช่วยหัวหน้าคลังสินค้า",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "13,000 - 20,000 บาท",
+      "employment": "งานขนส่งและคลังสินค้า",
+      "url": "https://www.jobthai.com/th/job/1774973",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1774973",
+          "sourceId": "jobthai-1774973"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - ดูแลตรวจสอบการรับสินค้าเข้า การจัดเก็บและเคลื่อนย้ายสินค้าและ การจ่ายสินค้าออกให้มีความถูกต้อง - ดูแลควบคุมสต๊อกสินค้าบันทึกการรับเข้า-จ่ายออกการนับสต๊อกตามรอบที่กำหนด - ประสานงานกับผู้เกี่ยวข้องในเรื่องต่างๆที่เกี่ยวข้องกับการทำงานในหน้าที่ - งานอื่น ๆ ตามที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย หรื"
+    },
+    {
+      "id": "jobthai-1691266",
+      "title": "พนักงานขายวัสดุก่อสร้าง",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "10,500 - 13,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1691266",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1691266",
+          "sourceId": "jobthai-1691266"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "คอมพิวเตอร์พื้นฐาน",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
       "requirements": [],
-      "summary": ""
+      "summary": "รายละเอียดงาน 1.แนะนำสินค้าและบริการให้ลูกค้าเกี่ยวกับสินค้าวัสดุก่อสร้าง 2.ดูแลสต็อกสินค้าให้พร้อมขายอยู่เสมอ 3.จัดเตรียมใบเสนอราคา และเปิดบิลขาย 4.ประสานงานเรื่องการจัดส่งสินค้ากับผู้เกี่ยวข้องเพื่อให้ลูกค้าได้รับสินค้าตรงตามกำหนดเวลา 5.ให้บริการหลังการขายแก่ลูกค้า เช่น การตรวจสอบผลิตภัณฑ์หลังการซื้อสินค้า เปลี่ยนหรื"
+    },
+    {
+      "id": "jobthai-1605927",
+      "title": "หัวหน้าฝ่ายขาย",
+      "company": "บริษัท ก.เจริญคอนกรีต กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "13,000 - 25,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1605927",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1605927",
+          "sourceId": "jobthai-1605927"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานก่อสร้างและโยธา",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "คลังสินค้าและสต๊อก",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ภาวะผู้นำและการบริหารทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1 ควบคุมดูแลและจัดการกิจกรรมการทำงานต่างๆ ในร้านค้าปลีกทั้งการขายและการบริการ 2 บริหารการขาย ให้ได้ยอดขายตามเป้าที่กำหนด 3 บริหารจัดการ การบริการลูกค้าเพื่ออำนวยความสะดวกในเรื่องต่างๆ 4 บริหารสต๊อกสินค้าในร้านค้าให้ถูกต้องและมีจำนวนเพียงพอสำหรับการขายและบริการลูกค้า 5 ควบคุมดูแลการจัดเรียงสินค้าให้เป็นไปต"
+    },
+    {
+      "id": "jobthai-1755033",
+      "title": "พนักงานขับรถส่งสารเคมี",
+      "company": "บริษัท ซีนอน อินเตอร์ จำกัด (สำนักงานใหญ่)",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "13,000 - 20,000 บาท",
+      "employment": "งานขับรถ",
+      "url": "https://www.jobthai.com/th/job/1755033",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1755033",
+          "sourceId": "jobthai-1755033"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่"
+      ],
+      "summary": "รายละเอียดงาน 1. ขับรถขนส่งสารเคมี ตามวัน เวลา และสถานที่ที่กำหนด 2. ดูแลรับผิดชอบสินค้า ตั้งแต่รับ จนกระทั่งส่งมอบเสร็จสิ้น 3. ดูแลรักษารถให้อยู่ในสภาพพร้อมใช้งานอยู่เสมอ (ทั้งภายใน และภายนอก) 4. งานอื่นๆ ตามที่ได้รับมอบหมาย คุณสมบัติผู้สมัคร • เพศชาย อายุ 25-40 ปี • มีใบขับขี่ประเภท 4 • มีเอกสารรับรองผ่านการอบรมการขั"
+    },
+    {
+      "id": "jobthai-1892854",
+      "title": "ผู้แนะนำผลิตภัทฑ์ทางการเงิน(Direct Sales Agent) สาขากาฬสินธุ์",
+      "company": "บริษัท เพื่อนแท้ แคปปิตอล จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามตกลง",
+      "employment": "งานการเงิน/ธนาคาร",
+      "url": "https://www.jobthai.com/th/job/1892854",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1892854",
+          "sourceId": "jobthai-1892854"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเงินและสินเชื่อ",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานบุคคลและสรรหา",
+          "category": "บัญชีและการเงิน"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน สวัสดิการเบื้อนต้น 1. รายได้ ขึ้นอยู่กับผลงาน Commission Base (รายได้ตามผลงานที่กำหนด เฉลี่ยรายได้ 15,000 บาทขึ้นไปต่อเดือน 2.เงินรางวัลพิเศษ รายไตรมาส (ตามผลงาน) 3.ทริปท่องเที่ยว 4.วันหยุดวันลา 5. ชุดยูนิฟอร์ม 6.บริษัทมีฝึกอบรมการทำงานให้ก่อนเข้าปฏิบัติงานในพื้นที่ แนะนำการให้บริการด้านสินเชื่อ 1.ออกบูธท"
+    },
+    {
+      "id": "jobthai-1936549",
+      "title": "เจ้าหน้าที่บัญชี (Accounting Staff)",
+      "company": "ห้างหุ้นส่วนจำกัด จินตนาเครื่องนอน เวิร์ลเทรด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "15,000 บาท (ขึ้นอยู่กับประสบการณ์)",
+      "employment": "งานบัญชี",
+      "url": "https://www.jobthai.com/th/job/1936549",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1936549",
+          "sourceId": "jobthai-1936549"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "บัญชีและงบการเงิน",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "งานธุรการและเอกสาร",
+          "category": "บัญชีและการเงิน"
+        },
+        {
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [],
+      "summary": "รายละเอียดงาน ลักษณะงาน •ตรวจเช็คสต๊อคสินค้า จัดทำรายงานสินค้าคงคลังประจำวัน/ประจำเดือน •จัดทำรายการจัดส่งสินค้ารายวัน ตรวจสอบความถูกต้องของเอกสารจัดส่ง •บันทึกบัญชีรายรับ-รายจ่าย จัดทำเอกสารทางบัญชีเบื้องต้น •ประสานงานกับฝ่ายผลิตและฝ่ายจัดส่งเพื่อให้ข้อมูลสต๊อคตรงกัน •จัดเก็บเอกสารบัญชีให้เป็นระบบ พร้อมตรวจสอบได้ •งาน"
+    },
+    {
+      "id": "jobthai-1822226",
+      "title": "เจ้าหน้าที่การค้าเบียร์-ออฟเทรด (กาฬสินธุ์)",
+      "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน) (ThaiBev) / Chang International",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามประสบการณ์",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1822226",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1822226",
+          "sourceId": "jobthai-1822226"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การวางแผนการตลาด",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ขนส่งและกระจายสินค้า",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - เข้าเยี่ยมร้านออนเทรด ร้าน FSR และงานกิจกรรมต่างๆ พื้นที่หลักเพื่อขายสินค้าตามเป้าหมายที่กำหนดรวมทั้งร้านค้าเปิดใหม่ - ประสานงานกับทีมงาน Event ในการควบคุมดูแลสินค้าคู่แข่ง ในบริเวณพื้นที่จัดงานกิจกรรมรอบนอก - เบิก-คืนสินค้า และสื่อส่งเสริมการขายในการจำหน่ายของแต่ละวัน ให้ตรงตามเอกสารการขาย และส่งมอบเงิ"
+    },
+    {
+      "id": "jobthai-1897272",
+      "title": "QA Officer",
+      "company": "บริษัท อินกริดิออน (ประเทศไทย) จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานผลิต/ควบคุมคุณภาพ/โรงงาน",
+      "url": "https://www.jobthai.com/th/job/1897272",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1897272",
+          "sourceId": "jobthai-1897272"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "ควบคุมคุณภาพ QA/QC",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "วิทยาศาสตร์และห้องปฏิบัติการ",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การทำงานเป็นทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ภาษาอังกฤษ",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน รับผิดชอบในการดำเนินกิจกรรมด้านการประกันคุณภาพและความปลอดภัยของอาหารแต่ละวันในไลน์ผลิต เน้นการควบคุมคุณภาพในการปฏิบัติงาน กิจกรรมในห้องปฏิบัติการ การตรวจสอบการปฏิบัติตามกฎระเบียบ และการแก้ไขปัญหา เพื่อให้มั่นใจว่าผลิตภัณฑ์ตรงตามข้อกำหนดของบริษัท ลูกค้า และกฎระเบียบอย่างสม่ำเสมอ คุณสมบัติผู้สมัคร • อายุ 18"
+    },
+    {
+      "id": "jobthai-1941740",
+      "title": "เจ้าหน้าที่สิ่งแวดล้อม  (โรงงานน้ำตาลมิตรกาฬสินธุ์)",
+      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานสิ่งแวดล้อม/ความปลอดภัย",
+      "url": "https://www.jobthai.com/th/job/1941740",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1941740",
+          "sourceId": "jobthai-1941740"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "Microsoft Office",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "ความปลอดภัยและอาชีวอนามัย",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน - ควบคุมและติดตามงานด้านสิ่งแวดล้อม - ประเมินและตรวจสอบลักษณะของมลพิษ และประสิทธิภาพของระบบป้องกันสิ่งแวดล้อมเป็นพิษ - จัดทำรายงานด้านสิ่งแวดล้อม - ประสานงานกับหน่วยงานภาครัฐ - สนับสนุนกิจกรรมด้านความยั่งยืนขององค์กร - จัดทำแผนปฏิบัติการฉุกเฉินเพื่อป้องกันไม่ให้มลพิษแพร่กระจายสู่สิ่งแวดล้อม คุณสมบัติผู้สม"
+    },
+    {
+      "id": "jobthai-1372538",
+      "title": "เจ้าหน้าที่เขตส่งเสริม (โรงงานน้ำตาลมิตรกาฬสินธุ์) สัญญาจ้าง 2 ปี",
+      "company": "บริษัท น้ำตาลมิตรผล จำกัด",
+      "location": "กุฉินารายณ์ · กาฬสินธุ์",
+      "district": "กุฉินารายณ์",
+      "salary": "ตามโครงสร้างบริษัทฯ",
+      "employment": "งานเกษตร/ปศุสัตว์/ประมง",
+      "url": "https://www.jobthai.com/th/job/1372538",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1372538",
+          "sourceId": "jobthai-1372538"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ระบบมาตรฐาน ISO และ GMP",
+          "category": "การผลิตและวิศวกรรม"
+        },
+        {
+          "name": "การเกษตรและปศุสัตว์",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "อุตสาหกรรมอาหารและแปรรูป",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
+          "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ยินดีรับนักศึกษาจบใหม่",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน 1. ส่งเสริมการปลูกอ้อย และดูแลรักษาอ้อยให้เจริญเติบโต 2. นำอ้อยเข้าหีบให้ได้ตามเป้าหมายที่กำหนด และติดตามหนี้สิน 3. ส่งเสริมการไว้ตอให้นานขึ้นจากเดิมอีก 1 ปี 4. ส่งเสริมเพิ่มพื้นที่ชลประทาน 5. โครงการเพิ่มผลผลิต 6. ปฏิบัติงานให้สอดคล้องตามนโยบาย ISO 9001:2000, ISO 14001, GMP&HACCP , OHSAS 18001และระบบมาตร"
+    },
+    {
+      "id": "jobthai-1732621",
+      "title": "พนักงานขาย Sales",
+      "company": "บริษัท เอส.พี ฟาร์ม กาฬสินธุ์ จำกัด",
+      "location": "ยางตลาด · กาฬสินธุ์",
+      "district": "ยางตลาด",
+      "salary": "15,000 - 20,000 บาท",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1732621",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1732621",
+          "sourceId": "jobthai-1732621"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "การตลาดดิจิทัลและโซเชียลมีเดีย",
+          "category": "ดิจิทัลและไอที"
+        },
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การเกษตรและปศุสัตว์",
+          "category": "เกษตรและอาหาร"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่"
+      ],
+      "summary": "รายละเอียดงาน มาร่วมเป็นส่วนหนึ่งในการขับเคลื่อนธุรกิจเกษตรไทยสู่โลกดิจิทัลกับ \"ปุ๋ยปลานิลทอง\"! บริษัท เอส.พี. ฟาร์ม กาฬสินธุ์ จำกัด ผู้ผลิตและจัดจำหน่าย \"ปุ๋ยตราปลานิลทอง\" และผลิตภัณฑ์การเกษตรคุณภาพ (ผู้ผลิตปุ๋ยตราปลานิลทอง อินทรีเคมี ชั้นนำ ของไทย) ที่ได้รับความไว้วางใจจากเกษตรกรทั่วประเทศ เรากำลังมองหาคนรุ่นใหม่ไฟแร"
+    },
+    {
+      "id": "jobthai-1484333",
+      "title": "พนักงานขายอินเตอร์เน็ตบ้าน ais fibre ประจำสาขากาฬสินธุ์",
+      "company": "บริษัท สามพี่น้อง เทเลคอมเน็ตเวิร์ค จำกัด",
+      "location": "เมืองกาฬสินธุ์ · กาฬสินธุ์",
+      "district": "เมืองกาฬสินธุ์",
+      "salary": "10,000 - 20,000 บาท รวมค่าคอมมิชชั่น",
+      "employment": "งานขาย",
+      "url": "https://www.jobthai.com/th/job/1484333",
+      "sources": [
+        {
+          "source": "JobThai",
+          "url": "https://www.jobthai.com/th/job/1484333",
+          "sourceId": "jobthai-1484333"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "ขับรถและงานภาคสนาม",
+          "category": "โลจิสติกส์"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ความรับผิดชอบ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "รายละเอียดงาน พนักงานขายอินเตอร์เน็ตบ้าน ais fibre ประจำสาขามหาสารคาม การทำงาน 6 วัน/สัปดาห์ สวัสดิการ 1.ได้รับสวัสดิการ ประกันสังคมตามกฎหมายขั้นพื้นฐาน 2.เงินเดือน ไม่รวมค่าคอมมิชชั่น 3.มีเทรนงานให้ 4.มีค่าน้ำมันให้ในการลงตลาด คุณสมบัติผู้สมัคร • ชาย/หญิง อายุ 18 ปีขึ้นไป • วุฒิการศึกษา ม.6 ขึ้นไป • รักในงานขาย รักงาน"
+    },
+    {
+      "id": "jobtopgun-j57-540",
+      "title": "Sales Representative (พื้นที่ จ.ขอนแก่น / จ.ร้อยเอ็ด / จ.กาฬสินธุ์ / จ.มหาสารคาม)",
+      "company": "บริษัท ริโก้ (ประเทศไทย) จำกัด",
+      "location": "จ.ขอนแก่น / จ.ร้อยเอ็ด / จ.กาฬสินธุ์ / จ.มหาสารคาม) ที่ Ricoh (Thailand) Limited พื้นที่ Mahasarakham, KhonKaen, Kalasin, Roi-et",
+      "district": "",
+      "salary": "13,000 - 15,000 baht/month + Commission",
+      "employment": "งานประจำ",
+      "url": "https://www.jobtopgun.com/th/jobs/j57-540",
+      "sources": [
+        {
+          "source": "JOBTOPGUN",
+          "url": "https://www.jobtopgun.com/th/jobs/j57-540",
+          "sourceId": "jobtopgun-j57-540"
+        }
+      ],
+      "inKalasin": true,
+      "hasDescription": true,
+      "skillMethod": "เนื้อประกาศฉบับเต็ม",
+      "skills": [
+        {
+          "name": "งานขายและปิดการขาย",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การหาลูกค้าใหม่และขยายตลาด",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การดูแลความสัมพันธ์ลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การนำเสนอและเจรจาต่อรอง",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "งานขายหน้าร้านและบริการลูกค้า",
+          "category": "การขายและการตลาด"
+        },
+        {
+          "name": "การสื่อสาร",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การแก้ปัญหา",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การวางแผนและจัดลำดับงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "ใจรักบริการ",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การเรียนรู้และพัฒนาตนเอง",
+          "category": "ทักษะเชิงพฤติกรรม"
+        }
+      ],
+      "requirements": [
+        "ใบอนุญาตขับขี่",
+        "มีรถยนต์/จักรยานยนต์ส่วนตัว",
+        "ปริญญาตรีขึ้นไป",
+        "ปวส./ปวช.",
+        "ต้องมีประสบการณ์"
+      ],
+      "summary": "Responsibilities เป้าหมายของตำแหน่ง : สร้างยอดขาย ดูแลลูกค้าเดิม และขยายฐานลูกค้าใหม่ เพื่อผลักดันยอดขายและสร้างความพึงพอใจสูงสุดให้กับลูกค้า พร้อมเป็นตัวแทนที่ดีของบริษัทในการนำเสนอสินค้าและบริการ หน้าที่และความรับผิดชอบ : - ดูแลและบริหารยอดขายให้เป็นไปตามเป้าหมายที่บริษัทกำหนด - วางแผนการเข้าพบลูกค้า ดูแลความสัมพันธ์"
     },
     {
       "id": "jobtopgun-j2688-180",
@@ -1539,36 +2372,12 @@
           "category": "การขายและการตลาด"
         },
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานบุคคลและสรรหา",
           "category": "บัญชีและการเงิน"
         },
         {
           "name": "งานก่อสร้างและโยธา",
           "category": "การผลิตและวิศวกรรม"
-        },
-        {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "งานสุขภาพและพยาบาล",
-          "category": "บริการและสุขภาพ"
-        },
-        {
-          "name": "งานอาหารและเครื่องดื่ม",
-          "category": "บริการและสุขภาพ"
         }
       ],
       "requirements": [
@@ -1604,28 +2413,8 @@
           "category": "การขายและการตลาด"
         },
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานบุคคลและสรรหา",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "งานก่อสร้างและโยธา",
           "category": "การผลิตและวิศวกรรม"
-        },
-        {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
         },
         {
           "name": "การสื่อสาร",
@@ -1675,19 +2464,7 @@
           "category": "ดิจิทัลและไอที"
         },
         {
-          "name": "บัญชีและงบการเงิน",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "การเงินและสินเชื่อ",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
-          "name": "งานบุคคลและสรรหา",
           "category": "บัญชีและการเงิน"
         },
         {
@@ -1695,18 +2472,12 @@
           "category": "เกษตรและอาหาร"
         },
         {
-          "name": "งานบริการลูกค้าและคอลเซ็นเตอร์",
-          "category": "บริการและสุขภาพ"
-        },
-        {
           "name": "การวางแผนและจัดลำดับงาน",
           "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
-      "requirements": [
-        "ปริญญาตรีขึ้นไป"
-      ],
-      "summary": "Responsibilities • จัดทำเอกสารเบิก-จ่าย รับเข้าวัสดุอุปกรณ์ • สรุป รวบรวมเอกสาร รวบรวมบิล ตรวจสอบและรายงานกิจกรรมของรถตัดอ้อย Qualifications • เพศหญิง อายุ 20-35 ปี • สามารถใช้ Microsoft Office ได้ดี • สามารถรับแรงกดดันได้ดี มีทักษะในการจัดลำดับความสำคัญของงาน และบริหารจัดการงานให้สำเร็จตามกำหนดเวลา Benefits • กองทุนสำ"
+      "requirements": [],
+      "summary": "Responsibilities • จัดทำเอกสารเบิก-จ่าย รับเข้าวัสดุอุปกรณ์ • สรุป รวบรวมเอกสาร รวบรวมบิล ตรวจสอบและรายงานกิจกรรมของรถตัดอ้อย Qualifications • เพศหญิง อายุ 20-35 ปี • สามารถใช้ Microsoft Office ได้ดี • สามารถรับแรงกดดันได้ดี มีทักษะในการจัดลำดับความสำคัญของงาน และบริหารจัดการงานให้สำเร็จตามกำหนดเวลา"
     },
     {
       "id": "jobbkk-56463-1386095",
@@ -1910,10 +2681,6 @@
           "category": "ดิจิทัลและไอที"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "ควบคุมคุณภาพ QA/QC",
           "category": "การผลิตและวิศวกรรม"
         },
@@ -1940,6 +2707,10 @@
         {
           "name": "งานสุขภาพและพยาบาล",
           "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [
@@ -2020,8 +2791,8 @@
           "category": "บัญชีและการเงิน"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [],
@@ -2182,8 +2953,8 @@
           "category": "บัญชีและการเงิน"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [],
@@ -2240,6 +3011,10 @@
         {
           "name": "การสื่อสาร",
           "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [
@@ -2286,16 +3061,16 @@
           "category": "การขายและการตลาด"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "งานสุขภาพและพยาบาล",
           "category": "บริการและสุขภาพ"
         },
         {
           "name": "การสอนและฝึกอบรม",
           "category": "บริการและสุขภาพ"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
+          "category": "ทักษะเชิงพฤติกรรม"
         }
       ],
       "requirements": [
@@ -2415,10 +3190,6 @@
           "category": "การขายและการตลาด"
         },
         {
-          "name": "งานธุรการและเอกสาร",
-          "category": "บัญชีและการเงิน"
-        },
-        {
           "name": "งานบุคคลและสรรหา",
           "category": "บัญชีและการเงิน"
         },
@@ -2436,6 +3207,10 @@
         },
         {
           "name": "การทำงานเป็นทีม",
+          "category": "ทักษะเชิงพฤติกรรม"
+        },
+        {
+          "name": "การประสานงานข้ามหน่วยงาน",
           "category": "ทักษะเชิงพฤติกรรม"
         },
         {
@@ -2520,6 +3295,70 @@
   ],
   "excluded": [
     {
+      "id": "jobtopgun-j2617-204",
+      "title": "Service Manager , Printing (Area Manager)",
+      "company": "บริษัท บิ๊ก คาเมร่า คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j2617-204",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22826-27",
+      "title": "วิศวกรระบบออโตเมชั่น",
+      "company": "บริษัท อุตสาหกรรมโคราช จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j22826-27",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j20845-1448",
+      "title": "พนักงานขายมือถือ แบรนด์เทคโน",
+      "company": "บริษัท สกิลพาวเวอร์ เซอร์วิส (ประเทศไทย) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j20845-1448",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j1353-422",
+      "title": "Sales Manager (ประจำภาคอีสาน) (Surveillance&HomeAutomation)",
+      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j1353-422",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4941-145",
+      "title": "Senior/Supervisor/Manager Sales Project (ประจำภาคอีสาน)",
+      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4941-145",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18356-34",
+      "title": "Sales Representative (ภาคอีสาน)",
+      "company": "บริษัท ไอเมด ลาบอราทอรี่ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18356-34",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4941-88",
+      "title": "Sales Project / Sales Spec (ประจำภาคอีสานตอนบน)",
+      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j4941-88",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j104941-11",
+      "title": "พนักงานขายและส่งเสริมการขายปุ๋ย",
+      "company": "บริษัท แอดวานซ์ เฟอร์ติไลเซอร์ จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j104941-11",
+      "source": "JOBTOPGUN"
+    },
+    {
       "id": "jobtopgun-j17668-1174",
       "title": "Plant Manager (Wind Energy) - Provincial Area",
       "company": "บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน)",
@@ -2533,14 +3372,6 @@
       "company": "มหาวิทยาลัยนอร์ทกรุงเทพ",
       "location": "ภาคอีสาน ที่ North Bangkok University พื้นที่ North-East",
       "url": "https://www.jobtopgun.com/th/jobs/j30974-109",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j4941-117",
-      "title": "Senior/Supervisor/Manager Sales Project (ประจำภาคอีสาน)",
-      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j4941-117",
       "source": "JOBTOPGUN"
     },
     {
@@ -2576,19 +3407,19 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j32-100024",
-      "title": "Region Sales Executive (Northern/Northeastern) - Nawaplastic Industries, Chemicals Business",
-      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j32-100024",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j1353-424",
       "title": "Branch Manager (ประจำจังหวัดนครราชสีมา)",
       "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
       "location": "North-East",
       "url": "https://www.jobtopgun.com/th/jobs/j1353-424",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j32-100024",
+      "title": "Region Sales Executive (Northern/Northeastern) - Nawaplastic Industries, Chemicals Business",
+      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j32-100024",
       "source": "JOBTOPGUN"
     },
     {
@@ -2664,14 +3495,6 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j3651-1262",
-      "title": "Relationship Manager - SME (เชียงใหม่, ขอนแก่น, อุบลราชธานี)(T00002564)",
-      "company": "บริษัท ธนาคารทหารไทยธนชาต จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j3651-1262",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j4966-28",
       "title": "โฟร์แมนงานระบบ",
       "company": "บริษัท อรุณ ชัยเสรี คอนซัลติ้ง เอนจิเนียร์ส จำกัด",
@@ -2680,75 +3503,19 @@
       "source": "JOBTOPGUN"
     },
     {
+      "id": "jobtopgun-j3651-1262",
+      "title": "Relationship Manager - SME (เชียงใหม่, ขอนแก่น, อุบลราชธานี)(T00002564)",
+      "company": "บริษัท ธนาคารทหารไทยธนชาต จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j3651-1262",
+      "source": "JOBTOPGUN"
+    },
+    {
       "id": "jobtopgun-j1353-392",
       "title": "Sales Executive (Solar Cell) (ภาคอีสาน)",
       "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
       "location": "North-East",
       "url": "https://www.jobtopgun.com/th/jobs/j1353-392",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j18670-173",
-      "title": "พนักงานขายภายในประเทศ ( เขตภาคอีสาน )",
-      "company": "บริษัท ไทย เอ็นเนอร์จี สโตเรจ เทคโนโลยี จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j18670-173",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j34063-58",
-      "title": "ผู้แทนขายและวิศวกรรมการแพทย์ (ภาคอีสาน)",
-      "company": "บริษัท เรียลเมดคอร์ป จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j34063-58",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j32-100057",
-      "title": "Region Sales Executive (Northeastern) - NPI, Chemicals Business",
-      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j32-100057",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j6482-81",
-      "title": "Sales Team Leader",
-      "company": "บริษัท ยูแอนด์วี โฮลดิ้ง (ไทยแลนด์) จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j6482-81",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j18947-133",
-      "title": "ผู้จัดการโครงการ (ภาคตะวันออก,ภาคใต้,ภาคอีสาน)",
-      "company": "บริษัท ไดนาสตี้ เซรามิค จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j18947-133",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j4261-676",
-      "title": "เจ้าหน้าที่สินเชื่อการตลาดเช่าซื้อ (อุดรธานี)",
-      "company": "บริษัท เอเซียเสริมกิจลีสซิ่ง จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j4261-676",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j298653-8",
-      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนล่าง)",
-      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j298653-8",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j298653-9",
-      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนบน)",
-      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j298653-9",
       "source": "JOBTOPGUN"
     },
     {
@@ -2789,14 +3556,6 @@
       "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
       "location": "KhonKaen",
       "url": "https://www.jobtopgun.com/th/jobs/j253309-225",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j161766-11",
-      "title": "Network & System Engineer",
-      "company": "บริษัท ควิกเซิร์ฟ โปรไวเดอร์ จำกัด",
-      "location": "KhonKaen, Nakhonratchasima, Udonthani",
-      "url": "https://www.jobtopgun.com/th/jobs/j161766-11",
       "source": "JOBTOPGUN"
     },
     {
@@ -2872,59 +3631,67 @@
       "source": "JOBTOPGUN"
     },
     {
+      "id": "jobtopgun-j18670-173",
+      "title": "พนักงานขายภายในประเทศ ( เขตภาคอีสาน )",
+      "company": "บริษัท ไทย เอ็นเนอร์จี สโตเรจ เทคโนโลยี จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18670-173",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j34063-58",
+      "title": "ผู้แทนขายและวิศวกรรมการแพทย์ (ภาคอีสาน)",
+      "company": "บริษัท เรียลเมดคอร์ป จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j34063-58",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j32-100057",
+      "title": "Region Sales Executive (Northeastern) - NPI, Chemicals Business",
+      "company": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j32-100057",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j6482-81",
+      "title": "Sales Team Leader",
+      "company": "บริษัท ยูแอนด์วี โฮลดิ้ง (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j6482-81",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j18947-133",
+      "title": "ผู้จัดการโครงการ (ภาคตะวันออก,ภาคใต้,ภาคอีสาน)",
+      "company": "บริษัท ไดนาสตี้ เซรามิค จำกัด (มหาชน)",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j18947-133",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j298653-8",
+      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนล่าง)",
+      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j298653-8",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j298653-9",
+      "title": "Sales เครื่องใช้ไฟฟ้า/แอร์ (ภาคอีสานตอนบน)",
+      "company": "บริษัท ไมเดีย โปรดักส์ (ไทยแลนด์) จำกัด",
+      "location": "North-East",
+      "url": "https://www.jobtopgun.com/th/jobs/j298653-9",
+      "source": "JOBTOPGUN"
+    },
+    {
       "id": "jobtopgun-j31081-16",
       "title": "ผู้แทนขาย (Sales) ภาคอีสาน/ภาคเหนือ",
       "company": "บริษัท ควิก โคท โปรดักส์ จำกัด",
       "location": "North-East",
       "url": "https://www.jobtopgun.com/th/jobs/j31081-16",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j124-339",
-      "title": "Sale Engineer - โคราช",
-      "company": "บริษัท สยามไดกิ้นเซลส์ จำกัด (สำนักงานใหญ่)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j124-339",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j20845-1448",
-      "title": "พนักงานขายมือถือ แบรนด์เทคโน",
-      "company": "บริษัท สกิลพาวเวอร์ เซอร์วิส (ประเทศไทย) จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j20845-1448",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j1353-422",
-      "title": "Sales Manager (ประจำภาคอีสาน) (Surveillance&HomeAutomation)",
-      "company": "บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j1353-422",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j18356-34",
-      "title": "Sales Representative (ภาคอีสาน)",
-      "company": "บริษัท ไอเมด ลาบอราทอรี่ จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j18356-34",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j4941-88",
-      "title": "Sales Project / Sales Spec (ประจำภาคอีสานตอนบน)",
-      "company": "บริษัท เวสเทิร์น เดคอร์ คอร์ปอเรชั่น จำกัด (มหาชน)",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j4941-88",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j104941-11",
-      "title": "พนักงานขายและส่งเสริมการขายปุ๋ย",
-      "company": "บริษัท แอดวานซ์ เฟอร์ติไลเซอร์ จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j104941-11",
       "source": "JOBTOPGUN"
     },
     {
@@ -2984,14 +3751,6 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j237940-95",
-      "title": "Accounting & Finance Manager (Chaiyaphum Province)(60-80K salary)",
-      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
-      "location": "Chaiyaphum",
-      "url": "https://www.jobtopgun.com/th/jobs/j237940-95",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j237940-96",
       "title": "ผู้จัดการฝ่ายบัญชีและการเงิน (จ.ชัยภูมิ)(เงินเดือน 60-80K)",
       "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
@@ -3000,67 +3759,19 @@
       "source": "JOBTOPGUN"
     },
     {
+      "id": "jobtopgun-j237940-95",
+      "title": "Accounting & Finance Manager (Chaiyaphum Province)(60-80K salary)",
+      "company": "บริษัท โกลคอล เอชอาร์ จำกัด",
+      "location": "Chaiyaphum",
+      "url": "https://www.jobtopgun.com/th/jobs/j237940-95",
+      "source": "JOBTOPGUN"
+    },
+    {
       "id": "jobtopgun-j282169-24",
       "title": "Senior Accountant",
       "company": "บริษัท มหาสารคามเพาเวอร์ จำกัด",
       "location": "Nakhonratchasima",
       "url": "https://www.jobtopgun.com/th/jobs/j282169-24",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j253309-166",
-      "title": "Junior Account General Officer",
-      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j253309-166",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j30700-200",
-      "title": "Hotel Accountant",
-      "company": "บริษัท นานมีบุ๊คส์ จำกัด",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j30700-200",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j253309-211",
-      "title": "Junior Accounts Receivable Officer",
-      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j253309-211",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j20995-456",
-      "title": "Locals Project Leader (สถานที่ปฏิบัติงาน ศูนย์ขอนแก่น)",
-      "company": "องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j20995-456",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j253309-216",
-      "title": "Marketing Officer",
-      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j253309-216",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j257271-69",
-      "title": "Agent Growth & Community Lead",
-      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j257271-69",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j302-895",
-      "title": "Data Analytic Officer(Nakhon Ratchasima)",
-      "company": "บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน)/บริษัท ซีพีเอฟ (ประเทศไทย) จำกัด (มหาชน)",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j302-895",
       "source": "JOBTOPGUN"
     },
     {
@@ -3104,27 +3815,27 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j4168-119",
-      "title": "ผู้อำนวยการฝ่ายขายและการตลาด",
-      "company": "บริษัท โรงงานทออวนเดชาพานิช จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j4168-119",
+      "id": "jobtopgun-j22343-18",
+      "title": "Mining Enginer (วิศวกรเหมืองแร่)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-18",
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j257271-59",
-      "title": "Marketing Executive (Strategic Planner)",
-      "company": "บริษัท น่าอยู่ คอร์ปอเรชั่น จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j257271-59",
+      "id": "jobtopgun-j22343-23",
+      "title": "Plant Automation & Instrument Engineer",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-23",
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j22826-27",
-      "title": "วิศวกรระบบออโตเมชั่น",
-      "company": "บริษัท อุตสาหกรรมโคราช จำกัด",
-      "location": "North-East",
-      "url": "https://www.jobtopgun.com/th/jobs/j22826-27",
+      "id": "jobtopgun-j22343-20",
+      "title": "Plant Mechanical Engineer (วิศวกรเครื่องกล)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-20",
       "source": "JOBTOPGUN"
     },
     {
@@ -3264,30 +3975,6 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j22343-18",
-      "title": "Mining Enginer (วิศวกรเหมืองแร่)",
-      "company": "บริษัท ไทยคาลิ จำกัด",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j22343-18",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j22343-20",
-      "title": "Plant Mechanical Engineer (วิศวกรเครื่องกล)",
-      "company": "บริษัท ไทยคาลิ จำกัด",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j22343-20",
-      "source": "JOBTOPGUN"
-    },
-    {
-      "id": "jobtopgun-j22343-23",
-      "title": "Plant Automation & Instrument Engineer",
-      "company": "บริษัท ไทยคาลิ จำกัด",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j22343-23",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j19033-181",
       "title": "Senior Welfare and Benefits officer",
       "company": "บริษัท ออโตคอร์ป โฮลดิ้ง จำกัด (มหาชน)",
@@ -3325,6 +4012,14 @@
       "company": "บริษัท นอร์ทอีส รับเบอร์ จำกัด (มหาชน)",
       "location": "Burirum",
       "url": "https://www.jobtopgun.com/th/jobs/j24538-88",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j4168-107",
+      "title": "เจ้าหน้าที่ธุรการสโตร์",
+      "company": "บริษัท โรงงานทออวนเดชาพานิช จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j4168-107",
       "source": "JOBTOPGUN"
     },
     {
@@ -3368,14 +4063,6 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j4168-107",
-      "title": "เจ้าหน้าที่ธุรการสโตร์",
-      "company": "บริษัท โรงงานทออวนเดชาพานิช จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j4168-107",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j1326-2269",
       "title": "เจ้าหน้าที่ปฏิบัติการ (จ.นครราชสีมา)",
       "company": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน)",
@@ -3400,19 +4087,19 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j22343-16",
-      "title": "Chinese Interpreter (ล่ามแปลภาษาจีน)",
-      "company": "บริษัท ไทยคาลิ จำกัด",
-      "location": "Nakhonratchasima",
-      "url": "https://www.jobtopgun.com/th/jobs/j22343-16",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j19450-190",
       "title": "อาจารย์ สาขาวิชาธุรกิจการบิน (วิทยาเขตขอนแก่น)",
       "company": "มหาวิทยาลัยศรีปทุม",
       "location": "KhonKaen",
       "url": "https://www.jobtopgun.com/th/jobs/j19450-190",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j22343-16",
+      "title": "Chinese Interpreter (ล่ามแปลภาษาจีน)",
+      "company": "บริษัท ไทยคาลิ จำกัด",
+      "location": "Nakhonratchasima",
+      "url": "https://www.jobtopgun.com/th/jobs/j22343-16",
       "source": "JOBTOPGUN"
     },
     {
@@ -3424,19 +4111,19 @@
       "source": "JOBTOPGUN"
     },
     {
-      "id": "jobtopgun-j253309-177",
-      "title": "Associate Lawyer",
-      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
-      "location": "KhonKaen",
-      "url": "https://www.jobtopgun.com/th/jobs/j253309-177",
-      "source": "JOBTOPGUN"
-    },
-    {
       "id": "jobtopgun-j253309-224",
       "title": "Legal Officer",
       "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
       "location": "KhonKaen",
       "url": "https://www.jobtopgun.com/th/jobs/j253309-224",
+      "source": "JOBTOPGUN"
+    },
+    {
+      "id": "jobtopgun-j253309-177",
+      "title": "Associate Lawyer",
+      "company": "บริษัท โวซ่าร์ กรุ๊ป จำกัด",
+      "location": "KhonKaen",
+      "url": "https://www.jobtopgun.com/th/jobs/j253309-177",
       "source": "JOBTOPGUN"
     },
     {

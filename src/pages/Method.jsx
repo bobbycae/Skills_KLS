@@ -82,12 +82,10 @@ export default function Method() {
                 <tr>
                   <td>มีเนื้อประกาศฉบับเต็ม</td>
                   <td className="r mono">{meta.withDescription}</td>
-                  <td className="mut">สกัดทักษะได้ครบทั้งเชิงเทคนิคและเชิงพฤติกรรม</td>
-                </tr>
-                <tr>
-                  <td>มีเพียงชื่อตำแหน่ง</td>
-                  <td className="r mono">{meta.confirmedKalasin - meta.withDescription}</td>
-                  <td className="mut">สกัดได้เฉพาะทักษะที่ปรากฏในชื่อตำแหน่ง</td>
+                  <td className="mut">
+                    สกัดทักษะได้ครบทั้งเชิงเทคนิคและเชิงพฤติกรรม
+                    {meta.withDescription === meta.confirmedKalasin && " — ครบทุกรายการ"}
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -134,11 +132,7 @@ export default function Method() {
             จึงตัดออก {data.excluded.length} รายการ ถ้านับรวมจะได้ภาพตลาดแรงงานที่เกินจริงหลายเท่า
           </div>
           <div className="note warn">
-            <b>4. JobThai ไม่เปิดเนื้อประกาศให้ดึง</b> — หน้ารายละเอียดเรนเดอร์ฝั่งไคลเอนต์
-            และซ่อนเนื้องานไว้หลังปุ่ม ประกาศจากแหล่งนี้จึงสกัดทักษะจากชื่อตำแหน่งเท่านั้น
-          </div>
-          <div className="note warn">
-            <b>5. สกัดทักษะด้วยการจับคู่คำ ไม่ได้ใช้โมเดลภาษา</b> — {meta.skillMethod}
+            <b>4. สกัดทักษะด้วยการจับคู่คำ ไม่ได้ใช้โมเดลภาษา</b> — {meta.skillMethod}
             วิธีนี้ตรวจจับคำที่อยู่ในทะเบียนได้แม่นยำ แต่จับทักษะที่เขียนด้วยถ้อยคำนอกทะเบียนไม่ได้
             และไม่เข้าใจบริบทเชิงปฏิเสธ เช่น “ไม่จำเป็นต้องมีประสบการณ์”
           </div>
